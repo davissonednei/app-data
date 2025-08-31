@@ -257,4 +257,38 @@
       {"text": "Investigação policial coleta dados e a inteligência produz informação para subsidiar o Ministério Público.", "correct": false},
       {"text": "A inteligência trabalha com o levantamento de dados e produz informações; a investigação policial somente produz conhecimento.", "correct": false},
       {"text": "A inteligência trabalha fardada e a investigação policial à paisana e ostensivamente.", "correct": false},
-      {"text": "A inteligência trabalha com o levantamento de dados e produz informações; a investigação policial apenas investiga.", 
+      {"text": "A inteligência trabalha com o levantamento de dados e produz informações; a investigação policial apenas investiga.", "correct": false},
+      {"text": "A inteligência produz conhecimentos sobre o futuro, para a prevenção dos delitos, por meios de estimativas; a investigação policial centra-se na apuração de um fato, após seu acontecimento, que vai subsidiar um processo criminal.", "correct": true}
+    ]
+  },
+  {
+    "question": "Inteligência e investigação são atividades diferentes; em relação ao aspecto 'natureza', a Inteligência é:",
+    "answers": [
+      {"text": "Proativo; preventiva/prospectiva; repressiva.", "correct": false},
+      {"text": "Mediatos (subsidiar a tomada de decisões); preventiva/prospectiva.", "correct": false},
+      {"text": "Repressiva; Proativo; Mediatos (subsidiar a tomada de decisões).", "correct": false},
+      {"text": "Preventiva/prospectiva; apoia a atividade repressiva.", "correct": true},
+      {"text": "Nenhuma das Alternativas.", "correct": false}
+    ]
+  },
+  {
+    "question": "A ISP assessora o processo decisório por meio da produção de conhecimento; assinale as alternativas que contém os níveis de assessoramento:",
+    "answers": [
+      {"text": "Político, dinâmico, institucional e operacional.", "correct": false},
+      {"text": "Político, estratégico, tático e operacional.", "correct": true},
+      {"text": "Estratégico, tático, independente e autônomo.", "correct": false},
+      {"text": "Político, estratégico, autônomo e tático.", "correct": false},
+      {"text": "Estratégico, tático, independente e operacional.", "correct": false}
+    ]
+  },
+  {
+    "question": "São termos aplicados à atividade de inteligência: I- Inteligência, visa exclusivamente a produção de conhecimentos de interesse da Ordem Pública; II- Contrainteligência, destinada a produzir conhecimento para neutralizar as ações adversas e proteger a atividade e a instituição a que pertence; III- Ética, é essencial ao profissional de inteligência; IV- Sigilo, visa preservar o órgão, a atividade, seus integrantes e suas ações. Assinale:",
+    "answers": [
+      {"text": "Somente a II, III e IV estão corretas.", "correct": false},
+      {"text": "Somente a III está correta.", "correct": false},
+      {"text": "Somente a III e IV estão corretas.", "correct": false},
+      {"text": "Todas as alternativas estão corretas.", "correct": true},
+      {"text": "Nenhuma das alternativas está correta.", "correct": false}
+    ]
+  }
+]
