@@ -9,12 +9,252 @@
     ]
   },
   {
-    "question": "aaaaaa",
+    "question": "Qual das seguintes opções apresenta corretamente uma diferença entre Inteligência e Investigação, conforme o material?",
     "answers": [
-      {"text": "A produção de provas para persecução penal e formalização da culpa em crimes.", "correct": false},
-      {"text": "Obtenção, análise e disseminação de conhecimentos sobre fatos e situações de imediata ou potencial influência sobre o processo decisório e a ação governamental e sobre a salvaguarda e a segurança da sociedade e do Estado.", "correct": true},
-      {"text": "Coordenar e integrar as atividades de segurança privada em todo o território nacional.", "correct": false},
-      {"text": "Apenas a obtenção e análise de dados para subsidiar investigações policiais e judiciais.", "correct": false}
+      {"text": "A Inteligência é proativa, e a Investigação é reativa.", "correct": true},
+      {"text": "O foco da Inteligência é o passado, e da Investigação, o presente e futuro.", "correct": false},
+      {"text": "O produto da Inteligência é a prova, e o da Investigação é o conhecimento.", "correct": false},
+      {"text": "A Inteligência tem natureza repressiva, enquanto a Investigação é preventiva.", "correct": false}
     ]
-  }
-]
+  },
+  {
+    "question": "Assinale a alternativa que contém apenas espécies de Inteligência de Segurança Pública (ISP) mencionadas no texto.",
+    "answers": [
+      {"text": "Inteligência Bombeiro Militar, Inteligência Policial Judiciária, Inteligência Policial Militar e Inteligência Policial Rodoviária.", "correct": true},
+      {"text": "Inteligência Policial Militar, Inteligência Policial Rodoviária e Inteligência Aduaneira.", "correct": false},
+      {"text": "Inteligência Fiscal, Inteligência Sanitária e Inteligência Ambiental.", "correct": false},
+      {"text": "Inteligência Bombeiro Militar, Inteligência Policial Judiciária e Inteligência Empresarial.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual dos seguintes não é um princípio da Inteligência de Segurança Pública (ISP)?",
+    "answers": [
+      {"text": "Oportunidade.", "correct": false},
+      {"text": "Sigilo.", "correct": false},
+      {"text": "Previsibilidade.", "correct": true},
+      {"text": "Imparcialidade.", "correct": false}
+    ]
+  },
+  {
+    "question": "O que caracteriza o estado da mente conhecido como 'Certeza' na produção do conhecimento?",
+    "answers": [
+      {"text": "A mente encontra razões para aceitar e negar que a imagem esteja em conformidade com o objeto.", "correct": false},
+      {"text": "A mente se define por um objeto, considerando a possibilidade de um equívoco.", "correct": false},
+      {"text": "Acatamento integral, pela mente, da imagem por ela mesma formada, como correspondente a determinado fato e/ou situação.", "correct": true},
+      {"text": "A mente está privada de qualquer imagem sobre uma realidade específica.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual das seguintes normas legais foi responsável por instituir o Sistema Brasileiro de Inteligência (SISBIN) e formalizar a Agência Brasileira de Inteligência (ABIN)?",
+    "answers": [
+      {"text": "Lei n° 9.883, de 07 de dezembro de 1999.", "correct": true},
+      {"text": "Lei Federal n° 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação - LAI).", "correct": false},
+      {"text": "Portaria n° 45 CG - CBMBA/16.", "correct": false},
+      {"text": "Decreto-lei n° 9.975, de 06 de setembro de 1946.", "correct": false}
+    ]
+  },
+  {
+    "question": "No contexto da Contrainteligência, o que significa 'Necessidade de conhecer'?",
+    "answers": [
+      {"text": "A autorização oficial e específica para acesso a dados sigilosos.", "correct": false},
+      {"text": "A perda da segurança de dados ou conhecimentos por fatores diversos.", "correct": false},
+      {"text": "Fator restritivo do acesso ao conhecimento, permitindo-o somente para os que tenham a real necessidade.", "correct": true},
+      {"text": "A divulgação não autorizada de dados ou conhecimentos sigilosos.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual é a Agência Central do Sistema de Inteligência do Corpo de Bombeiros Militar da Bahia (SINBOM), de acordo com o material?",
+    "answers": [
+      {"text": "Coordenadoria de Inteligência do CBMBA (CI).", "correct": true},
+      {"text": "Diretoria de Inteligência (DINT) do Ministério da Justiça e Segurança Pública.", "correct": false},
+      {"text": "Superintendência de Inteligência (SI) da SSP/BA.", "correct": false},
+      {"text": "Agência Brasileira de Inteligência (ABIN).", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual dos tipos de conhecimento abaixo é resultante de raciocínios, expressão/estado de opinião sobre a evolução futura de um fato, e requer domínio de métodos prospectivos complementares?",
+    "answers": [
+      {"text": "Informação.", "correct": false},
+      {"text": "Estimativa.", "correct": true},
+      {"text": "Informe.", "correct": false},
+      {"text": "Apreciação.", "correct": false}
+    ]
+  },
+  {
+    "question": "A atividade de Inteligência de Segurança Pública (ISP) possui ramos. Quais são eles?",
+    "answers": [
+      {"text": "Inteligência, Operações e Contrainteligência.", "correct": false},
+      {"text": "Estratégia e Tática.", "correct": false},
+      {"text": "Coleta, Análise e Elemento de Operações (ELO).", "correct": false},
+      {"text": "Planejamento e Execução.", "correct": false},
+      {"text": "Inteligência e Contrainteligência.", "correct": true}
+    ]
+  },
+  {
+    "question": "Qual das seguintes alternativas descreve corretamente a fase de 'Orientação' no Ciclo da Atividade de Inteligência?",
+    "answers": [
+      {"text": "Consiste na transformação de dados em conhecimentos, por meio de análises e sínteses.", "correct": false},
+      {"text": "É a fase em que se elaboram os relatórios e documentos finais a serem disseminados.", "correct": false},
+      {"text": "É a fase que define o quê, por que e para quem será produzido o conhecimento de inteligência.", "correct": true},
+      {"text": "Compreende a coleta, busca e registro de dados necessários à produção do conhecimento.", "correct": false}
+    ]
+  },
+  {
+    "question": "A respeito da Contrainteligência, qual o segmento responsável pela prevenção, detecção, obstrução e neutralização da ação adversa relacionada à segurança pessoal, documentos, instalações e comunicações?",
+    "answers": [
+      {"text": "Segurança da Informação.", "correct": false},
+      {"text": "Segurança Orgânica.", "correct": true},
+      {"text": "Segurança de Assuntos Internos.", "correct": false},
+      {"text": "Segurança Ativa.", "correct": false},
+      {"text": "Contrainteligência.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual valor da Atividade de Inteligência de Segurança Pública (ISP) ressalta a importância de que a produção do conhecimento seja livre de paixões ou conveniências pessoais?",
+    "answers": [
+      {"text": "Precisão.", "correct": false},
+      {"text": "Imparcialidade.", "correct": true},
+      {"text": "Sigilo.", "correct": false},
+      {"text": "Oportunidade.", "correct": false},
+      {"text": "Necessidade de Conhecer.", "correct": false}
+    ]
+  },
+  {
+    "question": "No que diz respeito à Metodologia de Produção do Conhecimento (MPC), qual é a primeira etapa a ser realizada após a obtenção do dado?",
+    "answers": [
+      {"text": "A Interpretação do conhecimento.", "correct": false},
+      {"text": "A Disseminação do conhecimento.", "correct": false},
+      {"text": "A Análise do dado.", "correct": false},
+      {"text": "A Validação do dado.", "correct": true}
+    ]
+  },
+  {
+    "question": "Qual dos seguintes não é um Nível de Assessoramento da Atividade de Inteligência de Segurança Pública (ISP)?",
+    "answers": [
+      {"text": "Nível Operacional.", "correct": false},
+      {"text": "Nível Gerencial.", "correct": true},
+      {"text": "Nível Estratégico.", "correct": false},
+      {"text": "Nível Tático.", "correct": false}
+    ]
+  },
+  {
+    "question": "Segundo o conteúdo estudado, quais são os três trabalhos intelectuais que se realizam para produzir conhecimento?",
+    "answers": [
+      {"text": "Indução, Dedução e Abdução.", "correct": false},
+      {"text": "Ideia, Juízo e Raciocínio.", "correct": true},
+      {"text": "Observação, Comparação e Classificação.", "correct": false},
+      {"text": "Coleta, Análise e Síntese.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual a diferença fundamental entre 'Dado' e 'Conhecimento' no contexto da produção de inteligência?",
+    "answers": [
+      {"text": "Dado é para uso imediato, e Conhecimento é para planejamento de longo prazo.", "correct": false},
+      {"text": "Dado é a informação trabalhada e o Conhecimento é o dado interceptado, analisado e contextualizado.", "correct": false},
+      {"text": "Dado é sempre sigiloso, enquanto Conhecimento pode ser público.", "correct": false},
+      {"text": "Dado é o resultado final da análise, e Conhecimento são as informações brutas.", "correct": false},
+      {"text": "Dado é a informação bruta e o Conhecimento é o dado interpretado, analisado e contextualizado.", "correct": true}
+    ]
+  },
+  {
+    "question": "Em relação à 'Ética Aplicada à Atividade de Inteligência', qual o princípio ético que se refere à lealdade, sigilo e discrição dos profissionais de inteligência?",
+    "answers": [
+      {"text": "Responsabilidade.", "correct": false},
+      {"text": "Justiça.", "correct": false},
+      {"text": "Confiabilidade.", "correct": true},
+      {"text": "Prudência.", "correct": false}
+    ]
+  },
+  {
+    "question": "O que a Portaria n° 45 CG - CBMBA/16 instituiu no âmbito do Corpo de Bombeiros Militar da Bahia?",
+    "answers": [
+      {"text": "A Coordenadoria de Inteligência (CI) como órgão de assessoria.", "correct": false},
+      {"text": "O Plano de Segurança Orgânica do CBMBA.", "correct": false},
+      {"text": "O Curso Básico de Inteligência do CBMBA.", "correct": false},
+      {"text": "O Sistema de Inteligência do CBMBA (SINBOM).", "correct": true}
+    ]
+  },
+  {
+    "question": "Qual das características da Inteligência de Segurança Pública (ISP) indica que ela busca a verdade com significado, considerando o contexto e a utilidade do conhecimento?",
+    "answers": [
+      {"text": "Verdade com Significado.", "correct": true},
+      {"text": "Economia de Meios.", "correct": false},
+      {"text": "Iniciativa.", "correct": false},
+      {"text": "Segurança.", "correct": false},
+      {"text": "Conhecimento.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual das seguintes características da ISP se refere à capacidade de otimizar a utilização dos recursos disponíveis, pela produção de conhecimentos objetivos, precisos e oportunos?",
+    "answers": [
+      {"text": "Abrangência.", "correct": false},
+      {"text": "Iniciativa.", "correct": false},
+      {"text": "Economia de Meios.", "correct": true},
+      {"text": "Segurança.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual das seguintes afirmações melhor descreve a natureza da Inteligência em comparação com a Investigação, de acordo com o quadro apresentado?",
+    "answers": [
+      {"text": "A Inteligência tem como produto principal a Prova, enquanto a Investigação produz Conhecimento.", "correct": false},
+      {"text": "A Inteligência é sigilosa por natureza e a Investigação pode, ou não, ser sigilosa.", "correct": true},
+      {"text": "A Inteligência gera direito a defesa, enquanto a Investigação não gera.", "correct": false},
+      {"text": "A Inteligência é reativa e a Investigação é proativa.", "correct": false}
+    ]
+  },
+  {
+    "question": "O que o princípio da 'Compartimentação' na Inteligência de Segurança Pública (ISP) visa direcionar?",
+    "answers": [
+      {"text": "Preservar o órgão, a atividade, seus integrantes e suas ações.", "correct": false},
+      {"text": "Conduzir a atividade para ser isenta de ideias preconcebidas e tendenciosas.", "correct": false},
+      {"text": "Atingir os resultados mais completos nos trabalhos desenvolvidos.", "correct": false},
+      {"text": "Permitir acesso somente para os que tenham a necessidade de conhecer.", "correct": true}
+    ]
+  },
+  {
+    "question": "Qual decreto criou o Subsistema de Inteligência de Segurança Pública (SISP) no âmbito do SISBIN?",
+    "answers": [
+      {"text": "Portaria nº 45 CG – CBMBA/16.", "correct": false},
+      {"text": "Decreto nº 11.426 de 2023.", "correct": false},
+      {"text": "Lei nº 9883/99.", "correct": false},
+      {"text": "Decreto nº 3695, de 21 de dezembro de 2000.", "correct": true}
+    ]
+  },
+  {
+    "question": "“A atividade de inteligência, conforme conceitua a DNISP2016, é o exercício__________ de ações especializadas, voltadas para a __________ e __________ de __________, com vistas ao assessoramento das autoridades”. As lacunas acima são corretamente preenchidas com:",
+    "answers": [
+      {"text": "Permanente – Coleta – Divulgação – Dados", "correct": false},
+      {"text": "Continuado – Coleta – Divulgação – Dados", "correct": false},
+      {"text": "Permanente – Produção – Difusão – Conhecimentos", "correct": true},
+      {"text": "Continuado – Coleta – Divulgação – Dados", "correct": false},
+      {"text": "Permanente – Produção – Divulgação – Informações", "correct": false},
+      {"text": "Continuado – Produção – Difusão – Informações", "correct": false}
+    ]
+  },
+  {
+    "question": "Caracteriza-se como contrainteligência a atividade que tem por objetivo:",
+    "answers": [
+      {"text": "Produção de conhecimentos às autoridades competentes, relativos a fatos e situações que ocorram dentro e fora do território nacional, de imediata ou potencial influência sobre o processo decisório, a ação governamental e a salvaguarda da sociedade e do Estado.", "correct": false},
+      {"text": "Prevenção e detecção da Inteligência adversa e das ações que constituam a ameaça à salvaguarda de dados, conhecimentos, pessoas, áreas e instalações de interesse da sociedade e do Estado.", "correct": true},
+      {"text": "Difusão de conhecimentos às autoridades competentes, relativos a fatos e situações que ocorram dentro do território nacional, de influência sobre o processo decisório, a ação governamental e a salvaguarda da sociedade e do Estado.", "correct": false},
+      {"text": "Obstrução e neutralização da Inteligência adversa e das ações que constituam ameaça à salvaguarda de dados e a produção de conhecimentos às autoridades competentes, relativos a fatos e situações que ocorram fora do território nacional.", "correct": false},
+      {"text": "Detecção da Inteligência adversa e das ações que constituam ameaça à salvaguarda de dados e conhecimentos e a difusão de conhecimentos às autoridades competentes, relativos a fatos e situações que ocorram dentro do território nacional, que influenciem a ação governamental e a salvaguarda da sociedade e do Estado.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual o conceito de atividade de inteligência, conforme a doutrina nacional de Segurança Pública (DNISP, 2016)?",
+    "answers": [
+      {"text": "É o exercício de ações e atividades para a tomada de decisão da equipe de inteligência.", "correct": false},
+      {"text": "A atividade de inteligência diz respeito à produção de conhecimento para oferecer prova em processo judicial.", "correct": false},
+      {"text": "É o exercício permanente de ações especializadas voltadas para a produção e difusão de conhecimento com vistas ao assessoramento das autoridades.", "correct": true},
+      {"text": "Atividades com ações voltadas para a distribuição de conhecimento com vistas à indução da autoridade.", "correct": false},
+      {"text": "NRA", "correct": false}
+    ]
+  },
+  {
+    "question": "Quais as principais diferenças entre os serviços de inteligência e de investigação policial?",
+    "answers": [
+      {"text": "Investigação policial coleta dados e a inteligência produz informação para subsidiar o Ministério Público.", "correct": false},
+      {"text": "A inteligência trabalha com o levantamento de dados e produz informações; a investigação policial somente produz conhecimento.", "correct": false},
+      {"text": "A inteligência trabalha fardada e a investigação policial à paisana e ostensivamente.", "correct": false},
+      {"text": "A inteligência trabalha com o levantamento de dados e produz informações; a investigação policial apenas investiga.", "
