@@ -1,0 +1,1062 @@
+[
+  {
+    "question": "Considerando a teoria jurídico-normativa do Direito Penal Militar, é correto afirmar que:",
+    "answers": [
+      {
+        "text": "A infração penal depende exclusivamente do resultado danoso para a sua configuração.",
+        "correct": false
+      },
+      {
+        "text": "A medida coercitiva decorre diretamente da função administrativa da norma jurídica.",
+        "correct": false
+      },
+      {
+        "text": "O bem jurídico penal militar é apenas um conceito abstrato e simbólico.",
+        "correct": false
+      },
+      {
+        "text": "A sanção penal constitui a forma de proteção efetiva aos valores da ordem militar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Com base na evolução histórica do Direito Penal Militar, analise a assertiva correta:",
+    "answers": [
+      {
+        "text": "A institucionalização do Direito Penal Militar no Brasil ocorreu com a promulgação da Constituição de 1824.",
+        "correct": false
+      },
+      {
+        "text": "A Revolução Francesa resultou na supressão da jurisdição militar em tempos de paz.",
+        "correct": false
+      },
+      {
+        "text": "O Conselho Supremo Militar e de Justiça foi criado no mesmo contexto da chegada da família real ao Brasil.",
+        "correct": true
+      },
+      {
+        "text": "O Direito Penal Militar surge como consequência direta da codificação penal civil.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A promulgação do Decreto-Lei nº 1.001/69 foi significativa porque:",
+    "answers": [
+      {
+        "text": "Revogou todas as penas acessórias do Código anterior.",
+        "correct": false
+      },
+      {
+        "text": "Representou a adesão do Brasil à Convenção Interamericana de Direitos Humanos.",
+        "correct": false
+      },
+      {
+        "text": "Substituiu o Código da Armada por um código penal unificado e especial.",
+        "correct": true
+      },
+      {
+        "text": "Consolidou a teoria finalista de Hans Welzel na estrutura penal militar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em relação ao princípio da legalidade e à sua estrutura normativa, é correto afirmar:",
+    "answers": [
+      {
+        "text": "Está limitado ao aspecto formal da lei penal.",
+        "correct": false
+      },
+      {
+        "text": "Engloba as dimensões político-constitucional e jurídico-material.",
+        "correct": true
+      },
+      {
+        "text": "Não se aplica à Administração Pública.",
+        "correct": false
+      },
+      {
+        "text": "Permite a criação de crimes por portarias ministeriais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A exigência de clareza e precisão na redação dos tipos penais encontra respaldo no:",
+    "answers": [
+      {
+        "text": "Princípio da reserva absoluta de jurisdição.",
+        "correct": false
+      },
+      {
+        "text": "Princípio da taxatividade.",
+        "correct": true
+      },
+      {
+        "text": "Princípio da alternatividade penal.",
+        "correct": false
+      },
+      {
+        "text": "Princípio da fungibilidade normativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A retroatividade da norma penal benéfica, segundo o CPM, depende de:",
+    "answers": [
+      {
+        "text": "Existência de decisão condenatória transitada em julgado.",
+        "correct": false
+      },
+      {
+        "text": "Análise comparativa entre o conjunto das normas anteriores e posteriores.",
+        "correct": true
+      },
+      {
+        "text": "Aprovação pelo STM.",
+        "correct": false
+      },
+      {
+        "text": "Manifestação prévia do Ministério Público Militar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Acerca da aplicação da lei penal militar no espaço, é correto afirmar:",
+    "answers": [
+      {
+        "text": "A territorialidade é plena, mas a extraterritorialidade é condicionada.",
+        "correct": true
+      },
+      {
+        "text": "A extraterritorialidade da lei penal militar é condicionada a convenções internacionais.",
+        "correct": false
+      },
+      {
+        "text": "Ambas — territorialidade e extraterritorialidade — são adotadas de forma incondicionada.",
+        "correct": false
+      },
+      {
+        "text": "A territorialidade só se aplica em missões externas autorizadas pelo Congresso Nacional.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As leis temporárias e excepcionais têm como característica comum:",
+    "answers": [
+      {
+        "text": "Autorrevogação.",
+        "correct": true
+      },
+      {
+        "text": "Vigência indefinida.",
+        "correct": false
+      },
+      {
+        "text": "Supressão dos efeitos penais após a revogação.",
+        "correct": false
+      },
+      {
+        "text": "Aplicação imediata, porém sem ultratividade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em relação ao art. 9º do CPM, é correto afirmar que a alínea “c” refere-se ao critério:",
+    "answers": [
+      {
+        "text": "Pessoal e temporal.",
+        "correct": false
+      },
+      {
+        "text": "Material e funcional.",
+        "correct": true
+      },
+      {
+        "text": "Lugar e função.",
+        "correct": false
+      },
+      {
+        "text": "Tempo e autoria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Com base na jurisprudência e doutrina sobre Justiça Militar Estadual, assinale a alternativa correta:",
+    "answers": [
+      {
+        "text": "Os juízes militares julgam atos administrativos das forças armadas federais.",
+        "correct": false
+      },
+      {
+        "text": "A Justiça Militar Estadual não possui competência para julgar oficiais.",
+        "correct": false
+      },
+      {
+        "text": "A perda do posto de oficial estadual depende de processo próprio com decisão do TJ ou TJM.",
+        "correct": true
+      },
+      {
+        "text": "Apenas os Tribunais Militares podem julgar civis em tempo de guerra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre os critérios de aplicação da pena no Direito Penal Militar, assinale:",
+    "answers": [
+      {
+        "text": "A pena deve ser aplicada de forma genérica para fins de disciplina.",
+        "correct": false
+      },
+      {
+        "text": "Deve haver proporcionalidade e individualização, observando a culpabilidade.",
+        "correct": true
+      },
+      {
+        "text": "A pena corporal é vedada apenas nos crimes dolosos.",
+        "correct": false
+      },
+      {
+        "text": "A individualização da pena é incompatível com a hierarquia militar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Com relação à composição do STM, marque a alternativa incorreta:",
+    "answers": [
+      {
+        "text": "É composto por 15 ministros vitalícios.",
+        "correct": false
+      },
+      {
+        "text": "Os ministros civis são nomeados dentre advogados e membros do MPM.",
+        "correct": false
+      },
+      {
+        "text": "Todos os ministros militares devem estar na ativa.",
+        "correct": false
+      },
+      {
+        "text": "Os ministros civis são nomeados pelo Senado Federal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A pena de impedimento tem como efeito:",
+    "answers": [
+      {
+        "text": "Interdição dos direitos políticos.",
+        "correct": false
+      },
+      {
+        "text": "Proibição do exercício de função ou cargo militar.",
+        "correct": true
+      },
+      {
+        "text": "Restrição de liberdade.",
+        "correct": false
+      },
+      {
+        "text": "Extinção da punibilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os crimes militares próprios distinguem-se dos impróprios porque:",
+    "answers": [
+      {
+        "text": "Exigem ofensa à hierarquia.",
+        "correct": false
+      },
+      {
+        "text": "Pressupõem, necessariamente, resultado morte.",
+        "correct": false
+      },
+      {
+        "text": "Só podem ser praticados por militares.",
+        "correct": true
+      },
+      {
+        "text": "Admite participação de civis com igual punição.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre o concurso de pessoas no CPM, a teoria adotada é:",
+    "answers": [
+      {
+        "text": "Finalista objetiva.",
+        "correct": false
+      },
+      {
+        "text": "Normativa subjetiva.",
+        "correct": true
+      },
+      {
+        "text": "Unitária temperada.",
+        "correct": false
+      },
+      {
+        "text": "Dualista rígida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A exigência de liame subjetivo no concurso de pessoas refere-se a:",
+    "answers": [
+      {
+        "text": "Participação formal entre civis.",
+        "correct": false
+      },
+      {
+        "text": "Vínculo objetivo de coautoria.",
+        "correct": false
+      },
+      {
+        "text": "Vontade comum entre os agentes.",
+        "correct": true
+      },
+      {
+        "text": "Comunhão de bens dos autores.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O civil poderá ser responsabilizado penalmente no âmbito castrense quando:",
+    "answers": [
+      {
+        "text": "O crime militar for próprio.",
+        "correct": false
+      },
+      {
+        "text": "For comandante de tropa temporária.",
+        "correct": false
+      },
+      {
+        "text": "Concorrer como partícipe em crime militar impróprio.",
+        "correct": true
+      },
+      {
+        "text": "Houver reincidência de crime comum.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os crimes plurissubjetivos:",
+    "answers": [
+      {
+        "text": "São aqueles que não admitem coautoria.",
+        "correct": false
+      },
+      {
+        "text": "Exigem a prática por mais de um agente.",
+        "correct": true
+      },
+      {
+        "text": "São infrações penais culposas.",
+        "correct": false
+      },
+      {
+        "text": "Não se aplicam em tempo de paz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Com base no art. 7º do CPM, a extraterritorialidade da lei penal militar é:",
+    "answers": [
+      {
+        "text": "Aplicável apenas com autorização da ONU.",
+        "correct": false
+      },
+      {
+        "text": "Condicionada à nacionalidade do ofendido.",
+        "correct": false
+      },
+      {
+        "text": "Incondicionada e independente de julgamento no exterior.",
+        "correct": true
+      },
+      {
+        "text": "Vedada em casos de crimes dolosos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio da humanidade das penas, no contexto militar:",
+    "answers": [
+      {
+        "text": "É relativo e se aplica apenas aos civis.",
+        "correct": false
+      },
+      {
+        "text": "É incompatível com sanções disciplinares.",
+        "correct": false
+      },
+      {
+        "text": "Veda penas degradantes, mesmo no ambiente castrense.",
+        "correct": true
+      },
+      {
+        "text": "Permite penas cruéis desde que autorizadas em regulamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A diferença entre legalidade e reserva legal reside:",
+    "answers": [
+      {
+        "text": "Na origem normativa das duas expressões.",
+        "correct": true
+      },
+      {
+        "text": "Na exigência de lei formal para o tipo penal.",
+        "correct": false
+      },
+      {
+        "text": "Na possibilidade de aplicação retroativa da norma.",
+        "correct": false
+      },
+      {
+        "text": "Na autorização judicial para penalização.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Administração Pública, segundo o art. 5º, II da CF, só pode agir:",
+    "answers": [
+      {
+        "text": "Com autorização judicial.",
+        "correct": false
+      },
+      {
+        "text": "Mediante norma constitucional.",
+        "correct": false
+      },
+      {
+        "text": "Com respaldo legal prévio.",
+        "correct": true
+      },
+      {
+        "text": "Após manifestação do STM.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A pena acessória, segundo o art. 98 do CPM, é:",
+    "answers": [
+      {
+        "text": "Privativa de liberdade exclusivamente.",
+        "correct": false
+      },
+      {
+        "text": "Prevista apenas para crimes dolosos.",
+        "correct": false
+      },
+      {
+        "text": "Suplementar à pena principal, podendo restringir direitos.",
+        "correct": true
+      },
+      {
+        "text": "Sempre substituída por multa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em relação à teoria da culpabilidade no CPM, pode-se afirmar:",
+    "answers": [
+      {
+        "text": "Adota a teoria finalista de Welzel.",
+        "correct": false
+      },
+      {
+        "text": "É influenciada pela teoria psicológico-normativa.",
+        "correct": true
+      },
+      {
+        "text": "Adota o funcionalismo sistêmico.",
+        "correct": false
+      },
+      {
+        "text": "Considera o dolo eventual como excludente de tipicidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A respeito da doutrina de Jescheck e dos fundamentos do Direito Penal, o bem jurídico penal é:",
+    "answers": [
+      {
+        "text": "Qualquer valor reconhecido pela Constituição.",
+        "correct": false
+      },
+      {
+        "text": "Um interesse do Estado que justifica qualquer tipo de punição.",
+        "correct": false
+      },
+      {
+        "text": "Um valor indispensável à convivência humana tutelado coercitivamente.",
+        "correct": true
+      },
+      {
+        "text": "Um interesse difuso, protegido preferencialmente por medidas administrativas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A concepção de Direito Penal Militar de Streifinger e Neves visa preservar a função social das forças armadas e não apenas impor sanções.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A norma penal militar é sempre retroativa, desde que beneficie o agente, independentemente da data dos fatos.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O Código Penal Militar adota integralmente a teoria finalista da ação.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A justiça militar estadual pode julgar civis em qualquer circunstância.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A doutrina militar brasileira distingue crimes próprios daqueles impróprios com base na condição do sujeito ativo.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A extraterritorialidade da lei penal militar exige reciprocidade com o Estado onde ocorreu o fato.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Leis temporárias e excepcionais, mesmo revogadas, podem incidir sobre fatos ocorridos durante sua vigência.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O juiz auditor na Justiça Militar julga de forma colegiada com juízes militares, inclusive em crimes dolosos contra a vida praticados por militares contra civis.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A taxatividade exige que os tipos penais sejam vagos e abertos para permitir a aplicação justa.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O princípio da humanidade impede a aplicação de penas que comprometam a dignidade do agente, inclusive na esfera militar.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A intervenção mínima recomenda o uso da norma penal militar como primeira medida do Estado diante de condutas anômalas.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A composição do STM está prevista no art. 123 da Constituição Federal.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No concurso de pessoas, a pluralidade de agentes é elemento essencial, salvo nos crimes de autoria colateral.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A responsabilidade pessoal veda a responsabilização penal de terceiros pelo ato praticado por militar.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No Direito Penal Militar, admite-se responsabilidade objetiva em nome da disciplina castrense.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A individualização da pena é incompatível com a hierarquia e disciplina militar.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os Estados só podem criar Tribunais Militares caso possuam efetivo superior a 20 mil militares.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As penas militares podem incluir perda de graduação e interdição de função.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A competência do juízo monocrático militar aplica-se aos crimes praticados por civis contra bens da Administração Militar.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A Justiça Militar é competente para julgar ações contra atos disciplinares.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A exclusão de ilicitude é examinada conforme o art. 42 do CPM.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O direito penal militar possui natureza meramente simbólica e declaratória.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A aplicação da lei penal no tempo é regida pelo princípio do tempus regit actum.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A teoria adotada pelo Código Penal Militar quanto à participação civil é restritiva e admite somente coautoria.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A teoria unitária temperada implica que todos os partícipes respondem conforme sua conduta, mas sujeitos às mesmas penas em abstrato.",
+    "answers": [
+      {
+        "text": "Verdadeiro",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Justiça Militar da União julga:",
+    "answers": [
+      {
+        "text": "Crimes militares definidos em lei, praticados por militares das Forças Armadas.",
+        "correct": true
+      },
+      {
+        "text": "Crimes militares praticados por policiais militares estaduais.",
+        "correct": false
+      },
+      {
+        "text": "Crimes comuns praticados por qualquer servidor público federal.",
+        "correct": false
+      },
+      {
+        "text": "Infrações disciplinares cometidas por civis.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Compete ao Conselho de Justiça, na Justiça Militar da União:",
+    "answers": [
+      {
+        "text": "Julgar civis em tempo de paz.",
+        "correct": false
+      },
+      {
+        "text": "Julgar oficiais e praças por crimes militares, ressalvada competência do STM.",
+        "correct": true
+      },
+      {
+        "text": "Processar autoridades com foro no STF.",
+        "correct": false
+      },
+      {
+        "text": "Julgar crimes eleitorais praticados por militares.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Compete ao Superior Tribunal Militar:",
+    "answers": [
+      {
+        "text": "Julgar recursos das decisões dos Conselhos de Justiça e processar oficiais-generais.",
+        "correct": true
+      },
+      {
+        "text": "Julgar crimes eleitorais praticados por militares.",
+        "correct": false
+      },
+      {
+        "text": "Julgar militares estaduais em crimes dolosos contra a vida de civis.",
+        "correct": false
+      },
+      {
+        "text": "Julgar infrações administrativas na PM.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Justiça Militar Estadual é competente para:",
+    "answers": [
+      {
+        "text": "Julgar oficiais e praças das Polícias Militares e Corpos de Bombeiros Militares em crimes militares definidos em lei.",
+        "correct": true
+      },
+      {
+        "text": "Julgar crimes militares cometidos por integrantes das Forças Armadas.",
+        "correct": false
+      },
+      {
+        "text": "Julgar crimes dolosos contra a vida praticados por militares estaduais contra civis, no Tribunal do Júri.",
+        "correct": false
+      },
+      {
+        "text": "Julgar crimes eleitorais praticados por militares estaduais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Justiça Militar Estadual, em tempo de paz, não julgará:",
+    "answers": [
+      {
+        "text": "Crimes militares praticados por civis.",
+        "correct": true
+      },
+      {
+        "text": "Crimes militares praticados por policiais militares.",
+        "correct": false
+      },
+      {
+        "text": "Crimes militares praticados por bombeiros militares.",
+        "correct": false
+      },
+      {
+        "text": "Infrações disciplinares militares.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Compete ao Tribunal do Júri:",
+    "answers": [
+      {
+        "text": "Julgar crimes dolosos contra a vida de civis praticados por militares estaduais.",
+        "correct": true
+      },
+      {
+        "text": "Julgar crimes militares praticados por oficiais do Exército.",
+        "correct": false
+      },
+      {
+        "text": "Julgar infrações disciplinares militares.",
+        "correct": false
+      },
+      {
+        "text": "Julgar crimes de responsabilidade de governadores.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O foro por prerrogativa de função dos oficiais-generais é:",
+    "answers": [
+      {
+        "text": "Superior Tribunal Militar.",
+        "correct": true
+      },
+      {
+        "text": "Tribunal de Justiça.",
+        "correct": false
+      },
+      {
+        "text": "Supremo Tribunal Federal.",
+        "correct": false
+      },
+      {
+        "text": "Conselho Permanente de Justiça.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Justiça Militar da União tem como órgão de cúpula:",
+    "answers": [
+      {
+        "text": "O Superior Tribunal Militar.",
+        "correct": true
+      },
+      {
+        "text": "O Supremo Tribunal Federal.",
+        "correct": false
+      },
+      {
+        "text": "O Conselho Nacional de Justiça.",
+        "correct": false
+      },
+      {
+        "text": "O Tribunal de Contas da União.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As auditorias da Justiça Militar da União funcionam junto:",
+    "answers": [
+      {
+        "text": "Aos Conselhos de Justiça, processando e julgando militares de menor graduação.",
+        "correct": true
+      },
+      {
+        "text": "Aos Tribunais Regionais Federais, julgando militares da ativa.",
+        "correct": false
+      },
+      {
+        "text": "Ao Ministério Público Militar.",
+        "correct": false
+      },
+      {
+        "text": "Ao Tribunal de Contas da União.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Justiça Militar Estadual, quando organizada, tem como órgão de cúpula:",
+    "answers": [
+      {
+        "text": "O Tribunal de Justiça.",
+        "correct": false
+      },
+      {
+        "text": "O Tribunal de Justiça Militar.",
+        "correct": true
+      },
+      {
+        "text": "O Superior Tribunal Militar.",
+        "correct": false
+      },
+      {
+        "text": "O Supremo Tribunal Federal.",
+        "correct": false
+      }
+    ]
+  }
+]
