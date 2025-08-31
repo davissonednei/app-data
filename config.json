@@ -23,8 +23,8 @@
     "id": "orcamento_financas",
     "title": "Orçamento e Finanças",
     "imageUrl": "https://davissonednei.github.io/app-data/images/financas.jpg",
-    "questions_url": "https://davissonednei.github.io/app-data/subjects/orcamento_financas/questions.json",
-    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/orcamento_financas/flashcards.json",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/financas/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/financas/flashcards.json",
     "questionCount": 0,
     "flashcardCount": 0
   },
