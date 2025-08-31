@@ -22,7 +22,7 @@
   {
     "id": "orcamento_financas",
     "title": "Orçamento e Finanças",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/orcamento_financas.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/financas.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/orcamento_financas/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/orcamento_financas/flashcards.json",
     "questionCount": 0,
@@ -31,7 +31,7 @@
   {
     "id": "inteligencia_bm",
     "title": "Inteligência BM",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/inteligencia_bm.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/inteligencia.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia_bm/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/inteligencia_bm/flashcards.json",
     "questionCount": 0,
@@ -58,7 +58,7 @@
   {
     "id": "incendio_florestal",
     "title": "Proteção contra Incêndio Florestal",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/incendio_florestal.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/pcif.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/incendio_florestal/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/incendio_florestal/flashcards.json",
     "questionCount": 0,
