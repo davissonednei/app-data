@@ -5,7 +5,7 @@
   {
     "id": "protecao_defesa_civil",
     "title": "Proteção e Defesa Civil",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/protecao_defesa_civil.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/DECI.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/protecao_defesa_civil/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/protecao_defesa_civil/flashcards.json",
     "questionCount": 0,
@@ -14,7 +14,7 @@
   {
     "id": "emergencias_pre_hospitalares",
     "title": "Emergências Médicas Pré Hospitalares",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/emergencias_pre_hospitalares.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/emphii.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/emergencias_pre_hospitalares/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/emergencias_pre_hospitalares/flashcards.json",
     "questionCount": 0,
@@ -41,7 +41,7 @@
   {
     "id": "logistica",
     "title": "Logística",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/logistica.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/logistica.png",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/logistica/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/logistica/flashcards.json",
     "questionCount": 0,
@@ -50,7 +50,7 @@
   {
     "id": "operacao_viaturas",
     "title": "Operação de Viaturas",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/operacao_viaturas.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/viaturas.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/operacao_viaturas/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/operacao_viaturas/flashcards.json",
     "questionCount": 0,
@@ -68,7 +68,7 @@
   {
     "id": "direito_penal_1",
     "title": "Direito Penal I",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/direito_penal_1.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/penalI.png",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_1/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_1/flashcards.json",
     "questionCount": 0,
@@ -77,7 +77,7 @@
   {
     "id": "direito_penal_2",
     "title": "Direito Penal II",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/direito_penal_2.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/penalII.pngjpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_2/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_2/flashcards.json",
     "questionCount": 0,
@@ -86,7 +86,7 @@
   {
     "id": "direito_penal_militar_1",
     "title": "Direito Penal Militar I",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/direito_penal_militar_1.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/penalmilitar1.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_militar_1/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_militar_1/flashcards.json",
     "questionCount": 0,
@@ -95,7 +95,7 @@
   {
     "id": "tecnologia_informacao",
     "title": "Tecnologia da Informação",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/tecnologia_informacao.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/tic.png",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/tecnologia_informacao/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/tecnologia_informacao/flashcards.json",
     "questionCount": 0,
@@ -104,7 +104,7 @@
   {
     "id": "taticas_incendio_2",
     "title": "Técnicas e Táticas de Combate a Incêndio II",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/taticas_incendio_2.jpg",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/TTCIII.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/taticas_incendio_2/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/taticas_incendio_2/flashcards.json",
     "questionCount": 0,
