@@ -1,3 +1,21 @@
-/config.json
-/subjects/<id>/questions.json
-/images/<opcional>.jpg
+{
+  "version": 1,
+  "subjects": [
+    {
+      "id": "inteligencia",
+      "title": "Inteligência Bombeiro Militar",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/inteligencia.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/questions.json",
+      "questionCount": 26,
+      "flashcardCount": 26
+    },
+    {
+      "id": "penal_militar_1",
+      "title": "Direito Penal Militar 1",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/penalmilitar1.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/penal_militar_1/questions.json",
+      "questionCount": 60,
+      "flashcardCount": 60
+    }
+  ]
+}
