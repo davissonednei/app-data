@@ -34,8 +34,8 @@
     "imageUrl": "https://davissonednei.github.io/app-data/images/inteligencia.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/flashcards.json",
-    "questionCount": 0,
-    "flashcardCount": 0
+    "questionCount": 31,
+    "flashcardCount": 31
   },
   {
     "id": "logistica",
