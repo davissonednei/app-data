@@ -6,6 +6,7 @@
       "title": "Inteligência Bombeiro Militar",
       "imageUrl": "https://davissonednei.github.io/app-data/images/inteligencia.jpg",
       "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/questions.json",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/flashcards.json",
       "questionCount": 26,
       "flashcardCount": 26
     },
