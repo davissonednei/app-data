@@ -1,0 +1,1304 @@
+[
+  {
+    "question": "Nos termos da Lei nº 4.320/64, a Lei de Orçamento deve conter:",
+    "answers": [
+      {
+        "text": "A programação de gastos sem exigência de base legal prévia.",
+        "correct": false
+      },
+      {
+        "text": "A discriminação das receitas e despesas, evidenciando a política econômica e respeitando princípios básicos.",
+        "correct": true
+      },
+      {
+        "text": "A previsão de despesas apenas de capital, ficando as correntes para créditos adicionais.",
+        "correct": false
+      },
+      {
+        "text": "A estimativa de receitas desvinculadas de metas governamentais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo Aliomar Baleeiro, o orçamento público corresponde a:",
+    "answers": [
+      {
+        "text": "Um plano de contas elaborado pelos tribunais de contas para controlar o Tesouro.",
+        "correct": false
+      },
+      {
+        "text": "Um ato do Executivo com caráter administrativo e não legislativo.",
+        "correct": false
+      },
+      {
+        "text": "Um regulamento de execução que institui tributos e despesas temporárias.",
+        "correct": false
+      },
+      {
+        "text": "Um ato pelo qual o Executivo prevê e o Legislativo autoriza receitas e despesas para determinado período.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A principal diferença entre orçamento público e orçamento familiar é:",
+    "answers": [
+      {
+        "text": "O orçamento público pertence ao gestor e o familiar é coletivo.",
+        "correct": false
+      },
+      {
+        "text": "O orçamento familiar obedece a princípios constitucionais e o público não.",
+        "correct": false
+      },
+      {
+        "text": "O orçamento público é regido por normas e princípios jurídicos, enquanto o familiar é livremente administrado.",
+        "correct": true
+      },
+      {
+        "text": "Ambos possuem as mesmas limitações legais, mas com nomenclaturas diferentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Historicamente, a função mais clássica do orçamento público é:",
+    "answers": [
+      {
+        "text": "A função de planejamento, introduzida com o orçamento-programa.",
+        "correct": false
+      },
+      {
+        "text": "A função distributiva, que combate desigualdades sociais.",
+        "correct": false
+      },
+      {
+        "text": "A função de controle político, limitando o poder do governante sobre os tributos.",
+        "correct": true
+      },
+      {
+        "text": "A função estabilizadora, voltada ao pleno emprego e equilíbrio externo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No Brasil, a função de planejamento do orçamento foi incorporada com:",
+    "answers": [
+      {
+        "text": "A instituição do plano de contas pela Lei 4.320/64.",
+        "correct": false
+      },
+      {
+        "text": "A técnica do orçamento por programas, que vincula despesas a políticas públicas.",
+        "correct": true
+      },
+      {
+        "text": "A Constituição de 1891, ao prever planos nacionais de desenvolvimento.",
+        "correct": false
+      },
+      {
+        "text": "A edição da LRF, que extinguiu as funções de controle político.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Magna Carta inglesa de 1215 é lembrada nos estudos de orçamento porque:",
+    "answers": [
+      {
+        "text": "Criou a separação de poderes e o princípio da publicidade.",
+        "correct": false
+      },
+      {
+        "text": "Instituiu a figura dos relatórios de execução orçamentária.",
+        "correct": false
+      },
+      {
+        "text": "Foi a primeira lei escrita sobre a anualidade orçamentária.",
+        "correct": false
+      },
+      {
+        "text": "Determinou que a tributação dependia de autorização dos súditos, marco do controle político das finanças.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A função alocativa do orçamento refere-se a:",
+    "answers": [
+      {
+        "text": "Manutenção do equilíbrio externo por meio de ajustes fiscais.",
+        "correct": false
+      },
+      {
+        "text": "Distribuição de receitas entre os entes federativos por transferências obrigatórias.",
+        "correct": false
+      },
+      {
+        "text": "Aplicação de recursos em políticas para reduzir desigualdades regionais.",
+        "correct": false
+      },
+      {
+        "text": "Atuação do Estado na direção dos recursos da economia, incluindo oferta de bens públicos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A função distributiva do orçamento busca combater desigualdades regionais e sociais, promovendo desenvolvimento equilibrado.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A função estabilizadora do orçamento relaciona-se à busca de estabilidade de preços, equilíbrio externo e pleno emprego.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O orçamento público é apenas um registro contábil e não possui impacto econômico relevante.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": true
+      },
+      {
+        "text": "Certo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As técnicas orçamentárias no setor público podem ser entendidas como:",
+    "answers": [
+      {
+        "text": "Conjunto de normas jurídicas que fixam receitas e despesas sem relação com políticas públicas.",
+        "correct": false
+      },
+      {
+        "text": "Métodos ou abordagens para planejar, organizar e executar o orçamento, refletindo prioridades governamentais.",
+        "correct": true
+      },
+      {
+        "text": "Procedimentos meramente contábeis usados apenas no fechamento do exercício.",
+        "correct": false
+      },
+      {
+        "text": "Regras de auditoria impostas exclusivamente pelos tribunais de contas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em relação à evolução das técnicas orçamentárias, é correto afirmar que:",
+    "answers": [
+      {
+        "text": "Normalmente ocorre substituição abrupta de uma técnica por outra.",
+        "correct": false
+      },
+      {
+        "text": "A evolução é gradual, podendo coexistir diferentes modelos durante o processo orçamentário.",
+        "correct": true
+      },
+      {
+        "text": "As técnicas antigas são extintas de forma imediata quando surge uma nova.",
+        "correct": false
+      },
+      {
+        "text": "O modelo vigente é único e uniforme para todos os entes federativos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O orçamento público, ao adotar múltiplas técnicas orçamentárias, busca:",
+    "answers": [
+      {
+        "text": "Restringir o planejamento às despesas correntes.",
+        "correct": false
+      },
+      {
+        "text": "Substituir integralmente o modelo tradicional de orçamento.",
+        "correct": false
+      },
+      {
+        "text": "Atender simultaneamente às exigências legais, às necessidades da gestão e às prioridades políticas.",
+        "correct": true
+      },
+      {
+        "text": "Eliminar a possibilidade de controle político sobre as finanças.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A coexistência de técnicas orçamentárias diferentes significa que:",
+    "answers": [
+      {
+        "text": "O governo pode combinar abordagens, adaptando-se a objetivos diversos.",
+        "correct": true
+      },
+      {
+        "text": "Cada ente federativo deve escolher apenas uma técnica obrigatória.",
+        "correct": false
+      },
+      {
+        "text": "A Constituição veda o uso de mais de uma técnica no mesmo orçamento.",
+        "correct": false
+      },
+      {
+        "text": "A Lei 4.320/64 impede a utilização simultânea de modelos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A principal finalidade prática das técnicas orçamentárias é:",
+    "answers": [
+      {
+        "text": "Autorizar créditos suplementares durante o exercício.",
+        "correct": false
+      },
+      {
+        "text": "Estabelecer limites constitucionais para a despesa de pessoal.",
+        "correct": false
+      },
+      {
+        "text": "Substituir a análise de impacto econômico das despesas públicas.",
+        "correct": false
+      },
+      {
+        "text": "Definir a forma de planejamento, alocação e controle de recursos financeiros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No contexto do orçamento público, pode-se afirmar que:",
+    "answers": [
+      {
+        "text": "As técnicas são uniformes e imutáveis ao longo do tempo.",
+        "correct": false
+      },
+      {
+        "text": "As técnicas orçamentárias são ferramentas dinâmicas, adaptadas às prioridades sociais e econômicas.",
+        "correct": true
+      },
+      {
+        "text": "Sempre há ruptura total entre modelos antigos e novos.",
+        "correct": false
+      },
+      {
+        "text": "A técnica utilizada não interfere no controle ou na execução do orçamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "É comum que o orçamento público combine diferentes técnicas orçamentárias, em vez de adotar apenas uma isoladamente.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A evolução histórica das técnicas orçamentárias no Brasil ocorreu por rupturas bruscas e substituições imediatas.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": true
+      },
+      {
+        "text": "Certo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com a Lei 4.320/64, o princípio da anualidade estabelece que:",
+    "answers": [
+      {
+        "text": "O orçamento deve ter vigência limitada a um exercício financeiro, coincidindo no Brasil com o ano civil.",
+        "correct": true
+      },
+      {
+        "text": "A lei orçamentária perderá vigência quando houver alteração no Plano Plurianual.",
+        "correct": false
+      },
+      {
+        "text": "O orçamento deve vigorar até o término do mandato presidencial, sem coincidência obrigatória com o ano civil.",
+        "correct": false
+      },
+      {
+        "text": "A LOA terá validade por dois exercícios, podendo ser prorrogada por lei complementar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio da clareza exige que:",
+    "answers": [
+      {
+        "text": "As receitas e despesas sejam apresentadas de forma oculta para evitar distorções políticas.",
+        "correct": false
+      },
+      {
+        "text": "O orçamento seja redigido em linguagem compreensível, permitindo acesso claro a qualquer cidadão.",
+        "correct": true
+      },
+      {
+        "text": "O orçamento apresente exclusivamente linguagem técnica contábil, sem preocupação com a sociedade.",
+        "correct": false
+      },
+      {
+        "text": "A LOA seja publicada em formato sigiloso, acessível apenas aos órgãos de controle.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio da universalidade, previsto no art. 3º da Lei 4.320/64, determina que:",
+    "answers": [
+      {
+        "text": "Apenas as receitas correntes devem constar no orçamento, deixando as de capital para créditos adicionais.",
+        "correct": false
+      },
+      {
+        "text": "Apenas as despesas vinculadas devem ser registradas na lei orçamentária.",
+        "correct": false
+      },
+      {
+        "text": "As receitas de operações de crédito não precisam integrar a LOA.",
+        "correct": false
+      },
+      {
+        "text": "Todas as receitas e despesas devem estar incluídas no orçamento, sem execução paralela.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O princípio da exclusividade, previsto no art. 165, § 8º da CF/88, significa que:",
+    "answers": [
+      {
+        "text": "O orçamento é exclusivo do Poder Legislativo, sem participação do Executivo.",
+        "correct": false
+      },
+      {
+        "text": "A LOA não pode conter matérias estranhas à previsão da receita e fixação da despesa, salvo exceções constitucionais.",
+        "correct": true
+      },
+      {
+        "text": "O orçamento só pode conter previsão de despesas, sendo vedada a indicação de receitas.",
+        "correct": false
+      },
+      {
+        "text": "A LOA deve incluir matérias diversas de interesse político, desde que aprovadas por maioria absoluta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio do equilíbrio estabelece que:",
+    "answers": [
+      {
+        "text": "O orçamento deve sempre apresentar superávit primário.",
+        "correct": false
+      },
+      {
+        "text": "As receitas e despesas devem manter-se compatíveis, evitando déficits permanentes.",
+        "correct": true
+      },
+      {
+        "text": "A LOA não pode ultrapassar o montante de investimentos previstos no PPA.",
+        "correct": false
+      },
+      {
+        "text": "O equilíbrio fiscal é vedado pela CF/88, exceto em anos eleitorais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio da unidade exige que:",
+    "answers": [
+      {
+        "text": "Cada ministério possua seu orçamento próprio, independente da LOA.",
+        "correct": false
+      },
+      {
+        "text": "As receitas correntes e de capital sejam votadas em leis separadas.",
+        "correct": false
+      },
+      {
+        "text": "Todas as receitas e despesas sejam reunidas em um único documento orçamentário.",
+        "correct": true
+      },
+      {
+        "text": "O orçamento de investimentos seja tratado em documento distinto do orçamento fiscal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio da clareza orçamentária implica que a lei deve ser inteligível, acessível e de fácil compreensão pelo cidadão.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": false
+      },
+      {
+        "text": "Certo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Segundo o princípio da universalidade, apenas as receitas correntes precisam constar no orçamento público.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": true
+      },
+      {
+        "text": "Certo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio do equilíbrio relaciona-se à ideia de não gastar mais do que se arrecada, sendo reforçado pela Regra de Ouro do art. 167, III, CF/88.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O princípio da unidade impede a existência de múltiplos orçamentos, consolidando receitas e despesas em um só documento (LOA).",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A Lei Orçamentária Anual (LOA) é considerada a parte operacional do orçamento público porque:",
+    "answers": [
+      {
+        "text": "É responsável apenas pela consolidação das contas nacionais.",
+        "correct": false
+      },
+      {
+        "text": "É o instrumento que define metas fiscais de médio prazo.",
+        "correct": false
+      },
+      {
+        "text": "É onde se estimam as receitas e se fixam as despesas para o exercício seguinte.",
+        "correct": true
+      },
+      {
+        "text": "É utilizada apenas para a execução de despesas de capital.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um dos objetivos centrais da LOA é:",
+    "answers": [
+      {
+        "text": "Regular exclusivamente o endividamento externo da União.",
+        "correct": false
+      },
+      {
+        "text": "Avaliar o cumprimento das metas do PPA.",
+        "correct": false
+      },
+      {
+        "text": "Estimar receitas e fixar despesas, permitindo identificar déficit ou superávit.",
+        "correct": true
+      },
+      {
+        "text": "Instituir fundos especiais de financiamento de políticas públicas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos termos do art. 165, §4º da CF/88, a LOA deve conter:",
+    "answers": [
+      {
+        "text": "Apenas o orçamento fiscal da União.",
+        "correct": false
+      },
+      {
+        "text": "O orçamento fiscal, o de investimentos das estatais e o da seguridade social.",
+        "correct": true
+      },
+      {
+        "text": "Exclusivamente o orçamento de investimentos e da seguridade social.",
+        "correct": false
+      },
+      {
+        "text": "Somente o orçamento da seguridade social e o fiscal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo o art. 2º da Lei 4.320/64, a Lei de Orçamento conterá:",
+    "answers": [
+      {
+        "text": "A discriminação das despesas de capital desvinculada das receitas.",
+        "correct": false
+      },
+      {
+        "text": "A previsão apenas das receitas correntes, sendo as despesas tratadas em créditos adicionais.",
+        "correct": false
+      },
+      {
+        "text": "A discriminação da receita e despesa, evidenciando a política econômica e obedecendo aos princípios de unidade, universalidade e anualidade.",
+        "correct": true
+      },
+      {
+        "text": "A previsão de receitas condicionada à disponibilidade de créditos suplementares.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os créditos adicionais classificam-se em:",
+    "answers": [
+      {
+        "text": "Extraordinários, condicionados e suplementares.",
+        "correct": false
+      },
+      {
+        "text": "Suplementares, especiais e extraordinários.",
+        "correct": true
+      },
+      {
+        "text": "Suplementares, ordinários e extraordinários.",
+        "correct": false
+      },
+      {
+        "text": "Especiais, vinculados e suplementares.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os créditos suplementares destinam-se a:",
+    "answers": [
+      {
+        "text": "Suprir despesas imprevisíveis e urgentes, como guerra e calamidade.",
+        "correct": false
+      },
+      {
+        "text": "Atender despesas não previstas no orçamento e sem dotação específica.",
+        "correct": false
+      },
+      {
+        "text": "Reforçar dotações já existentes na LOA, com autorização expressa e valor máximo definido.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir despesas correntes, transferindo recursos para despesas de capital.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os créditos especiais caracterizam-se por:",
+    "answers": [
+      {
+        "text": "Constituir reforço de dotação já existente.",
+        "correct": false
+      },
+      {
+        "text": "Serem abertos por decreto do Executivo, sem necessidade de autorização legislativa.",
+        "correct": false
+      },
+      {
+        "text": "Atender despesas não previstas originalmente na LOA, exigindo autorização legal para sua abertura.",
+        "correct": true
+      },
+      {
+        "text": "Atender exclusivamente despesas de capital.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os créditos extraordinários podem ser abertos para:",
+    "answers": [
+      {
+        "text": "Todas as despesas de investimento em infraestrutura.",
+        "correct": false
+      },
+      {
+        "text": "Qualquer despesa não prevista na LOA.",
+        "correct": false
+      },
+      {
+        "text": "Pagamento de restos a pagar processados.",
+        "correct": false
+      },
+      {
+        "text": "Despesas imprevisíveis e urgentes, como guerra, comoção interna ou calamidade pública.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A LOA, ao estimar receitas e fixar despesas, possibilita avaliar se haverá déficit ou superávit orçamentário.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os créditos suplementares podem ser abertos sem necessidade de autorização legislativa.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": false
+      },
+      {
+        "text": "Errado",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No processo de execução orçamentária, a partir da dotação o ordenador de despesa deve:",
+    "answers": [
+      {
+        "text": "Elaborar a previsão de receitas para o exercício seguinte.",
+        "correct": false
+      },
+      {
+        "text": "Cumprir as etapas da despesa orçamentária de forma legal e sequencial.",
+        "correct": true
+      },
+      {
+        "text": "Iniciar a arrecadação de receitas correntes.",
+        "correct": false
+      },
+      {
+        "text": "Encaminhar os créditos adicionais ao Legislativo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A descentralização orçamentária consiste em:",
+    "answers": [
+      {
+        "text": "Transferir receitas de capital para o orçamento corrente.",
+        "correct": false
+      },
+      {
+        "text": "Autorizar créditos suplementares por decreto.",
+        "correct": false
+      },
+      {
+        "text": "Distribuir dotações orçamentárias às unidades gestoras responsáveis pela execução.",
+        "correct": true
+      },
+      {
+        "text": "Delegar competência exclusiva ao Tribunal de Contas para executar a despesa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A dotação orçamentária pode ser conceituada como:",
+    "answers": [
+      {
+        "text": "Receita extraorçamentária vinculada a operações de crédito.",
+        "correct": false
+      },
+      {
+        "text": "Autorização de despesa consignada às unidades gestoras pelo órgão central.",
+        "correct": true
+      },
+      {
+        "text": "Crédito adicional aberto por medida provisória.",
+        "correct": false
+      },
+      {
+        "text": "Valor destinado exclusivamente a restos a pagar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A unidade orçamentária corresponde a:",
+    "answers": [
+      {
+        "text": "Entidade privada contratada para executar despesas públicas.",
+        "correct": false
+      },
+      {
+        "text": "Órgão central do sistema de contabilidade pública.",
+        "correct": false
+      },
+      {
+        "text": "Departamento encarregado da fiscalização externa.",
+        "correct": false
+      },
+      {
+        "text": "Órgão ou entidade a que se consignam dotações orçamentárias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A unidade gestora é definida como:",
+    "answers": [
+      {
+        "text": "Aquela que recebe dotações do órgão central e executa a gestão orçamentária e financeira.",
+        "correct": true
+      },
+      {
+        "text": "Departamento legislativo que analisa a LOA antes de sua votação.",
+        "correct": false
+      },
+      {
+        "text": "Entidade que presta contas apenas de receitas vinculadas.",
+        "correct": false
+      },
+      {
+        "text": "Órgão responsável apenas pelo planejamento estratégico da despesa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A descentralização orçamentária ocorre quando as dotações são distribuídas às unidades gestoras, que passam a executar a despesa.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com a Lei 4.320/64, o empenho é:",
+    "answers": [
+      {
+        "text": "O ato de liquidação da despesa após a comprovação da entrega.",
+        "correct": false
+      },
+      {
+        "text": "O ato da autoridade competente que cria obrigação de pagamento para o Estado, reservando crédito orçamentário.",
+        "correct": true
+      },
+      {
+        "text": "A execução direta do pagamento pelo Tesouro Nacional.",
+        "correct": false
+      },
+      {
+        "text": "A autorização para arrecadação de receitas tributárias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre a realização de despesa sem prévio empenho, é correto afirmar que:",
+    "answers": [
+      {
+        "text": "É admitida em casos de calamidade, sem necessidade de registro posterior.",
+        "correct": false
+      },
+      {
+        "text": "É vedada pela Lei 4.320/64, sendo necessário documento hábil que formalize o empenho.",
+        "correct": true
+      },
+      {
+        "text": "É autorizada quando houver urgência, desde que comunicada ao órgão de controle.",
+        "correct": false
+      },
+      {
+        "text": "É permitida para despesas de pequeno valor até o limite da LDO.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No caso do comandante que recebeu pranchas antes de empenhar a despesa:",
+    "answers": [
+      {
+        "text": "A conduta foi correta, pois a urgência operacional dispensa o empenho.",
+        "correct": false
+      },
+      {
+        "text": "A conduta é válida, desde que o fornecedor tenha nota fiscal emitida.",
+        "correct": false
+      },
+      {
+        "text": "A conduta foi incorreta, porque a despesa deve ser precedida de empenho formal.",
+        "correct": true
+      },
+      {
+        "text": "A conduta está de acordo com a Lei 14.133/21, que permite antecipação de bens.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A liquidação da despesa, segundo o art. 63 da Lei 4.320/64, consiste em:",
+    "answers": [
+      {
+        "text": "Verificar o direito do credor com base em documentos, garantindo que o pagamento corresponda ao contratado.",
+        "correct": true
+      },
+      {
+        "text": "Emitir ordem bancária para efetivar o pagamento.",
+        "correct": false
+      },
+      {
+        "text": "Autorizar a abertura de crédito adicional.",
+        "correct": false
+      },
+      {
+        "text": "Constituir o crédito tributário da União.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Entre os objetivos da liquidação da despesa estão:",
+    "answers": [
+      {
+        "text": "Autorizar o crédito suplementar correspondente ao valor devido.",
+        "correct": false
+      },
+      {
+        "text": "Antecipar a execução financeira antes da entrega do bem.",
+        "correct": false
+      },
+      {
+        "text": "Assegurar que o pagamento corresponda ao contratado, evitar pagamentos indevidos e conferir qualidade do bem ou serviço.",
+        "correct": true
+      },
+      {
+        "text": "Registrar o ingresso da receita no sistema contábil.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O adimplemento da obrigação contratual, segundo a Lei 14.133/2021, pode ocorrer quando:",
+    "answers": [
+      {
+        "text": "For registrado o pagamento no sistema contábil.",
+        "correct": false
+      },
+      {
+        "text": "Houver entrega total ou parcial do bem, prestação de serviço ou outro evento contratual vinculado à cobrança.",
+        "correct": true
+      },
+      {
+        "text": "For emitido o empenho pelo ordenador de despesa, independentemente da entrega.",
+        "correct": false
+      },
+      {
+        "text": "Houver apenas a conclusão integral do contrato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O pagamento, último estágio da despesa pública, caracteriza-se por:",
+    "answers": [
+      {
+        "text": "Emitir nota fiscal pelo fornecedor e arquivar no órgão público.",
+        "correct": false
+      },
+      {
+        "text": "Efetivar a transferência financeira ao credor após empenho e liquidação.",
+        "correct": true
+      },
+      {
+        "text": "Aprovar a programação financeira para o próximo exercício.",
+        "correct": false
+      },
+      {
+        "text": "Registrar o crédito adicional na contabilidade pública.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O empenho deve sempre preceder a realização da despesa, sendo vedado o gasto sem essa formalização.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A liquidação verifica se o que foi entregue corresponde ao empenhado em valor, quantidade e qualidade.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": false
+      },
+      {
+        "text": "Certo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pagamento pode ocorrer antes da liquidação se houver disponibilidade de caixa.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": false
+      },
+      {
+        "text": "Errado",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "De acordo com a Lei 4.320/64, os Restos a Pagar correspondem a:",
+    "answers": [
+      {
+        "text": "Despesas previstas na LOA mas não empenhadas.",
+        "correct": false
+      },
+      {
+        "text": "Despesas empenhadas e não pagas até 31 de dezembro, constituindo dívida a pagar em exercícios seguintes.",
+        "correct": true
+      },
+      {
+        "text": "Valores autorizados mas não executados, que não constituem obrigação futura.",
+        "correct": false
+      },
+      {
+        "text": "Receitas arrecadadas que ainda não foram repassadas ao Tesouro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os Restos a Pagar Processados caracterizam-se por:",
+    "answers": [
+      {
+        "text": "Operações de crédito contratadas mas não executadas.",
+        "correct": false
+      },
+      {
+        "text": "Despesas já liquidadas, mas ainda não pagas.",
+        "correct": true
+      },
+      {
+        "text": "Despesas empenhadas, mas não liquidadas.",
+        "correct": false
+      },
+      {
+        "text": "Receitas de capital não transferidas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os Restos a Pagar Não Processados correspondem a:",
+    "answers": [
+      {
+        "text": "Receitas não previstas na LOA.",
+        "correct": false
+      },
+      {
+        "text": "Despesas empenhadas mas não liquidadas.",
+        "correct": true
+      },
+      {
+        "text": "Despesas liquidadas e não pagas.",
+        "correct": false
+      },
+      {
+        "text": "Gastos não empenhados, porém já pagos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os Restos a Pagar, sejam processados ou não, representam compromissos financeiros do Estado a serem cumpridos em exercícios seguintes.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": false
+      },
+      {
+        "text": "Certo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O conceito de accountability envolve:",
+    "answers": [
+      {
+        "text": "Apenas a fiscalização do Tribunal de Contas da União sobre a execução da LOA.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente a publicação de balanços patrimoniais pela contabilidade pública.",
+        "correct": false
+      },
+      {
+        "text": "Relatar ações, justificar motivações, demonstrar métodos, indicar recursos aplicados e resultados obtidos.",
+        "correct": true
+      },
+      {
+        "text": "Apenas a obrigação de prestar contas em relatórios financeiros anuais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo Arrais e Veras (2014), a accountability implica:",
+    "answers": [
+      {
+        "text": "Explicar sistematicamente as ações, seus motivos, a forma de realização e os recursos utilizados.",
+        "correct": true
+      },
+      {
+        "text": "Cumprir metas fiscais independentemente de justificativas.",
+        "correct": false
+      },
+      {
+        "text": "Apenas comprovar a legalidade da despesa por meio de nota fiscal.",
+        "correct": false
+      },
+      {
+        "text": "Relatar exclusivamente as despesas de capital executadas no exercício.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com o art. 70 da CF/88, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União:",
+    "answers": [
+      {
+        "text": "É exercida apenas pelo Tribunal de Contas da União, sem participação do Congresso.",
+        "correct": false
+      },
+      {
+        "text": "É de responsabilidade do Ministério Público Federal.",
+        "correct": false
+      },
+      {
+        "text": "É exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.",
+        "correct": true
+      },
+      {
+        "text": "Cabe exclusivamente ao sistema de controle interno do Executivo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Entre os aspectos verificados pela fiscalização prevista no art. 70 da CF/88 estão:",
+    "answers": [
+      {
+        "text": "Exclusivamente a arrecadação de receitas tributárias.",
+        "correct": false
+      },
+      {
+        "text": "Legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas.",
+        "correct": true
+      },
+      {
+        "text": "Somente a execução das despesas de capital.",
+        "correct": false
+      },
+      {
+        "text": "Apenas o equilíbrio fiscal entre receitas e despesas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Accountability significa apenas publicar relatórios financeiros, sem necessidade de justificar decisões ou resultados.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": true
+      },
+      {
+        "text": "Certo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A fiscalização contábil, financeira, orçamentária e patrimonial da União é exercida pelo Congresso Nacional, com apoio dos sistemas de controle interno.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O controle interno caracteriza-se por:",
+    "answers": [
+      {
+        "text": "Ser exercido por órgãos externos ao ente fiscalizado, visando independência.",
+        "correct": false
+      },
+      {
+        "text": "Ser exclusivo do Poder Legislativo, com auxílio do Tribunal de Contas.",
+        "correct": false
+      },
+      {
+        "text": "Ser exercido no âmbito do próprio ente, com finalidade de prevenção e orientação.",
+        "correct": true
+      },
+      {
+        "text": "Ser realizado apenas pela sociedade civil organizada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O controle externo é exercido:",
+    "answers": [
+      {
+        "text": "Pelo Poder Legislativo, com o auxílio do Tribunal de Contas.",
+        "correct": true
+      },
+      {
+        "text": "Diretamente pelos cidadãos, por meio de instrumentos de transparência.",
+        "correct": false
+      },
+      {
+        "text": "Por órgãos da própria Administração, em caráter preventivo.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente pelo Poder Executivo, via controladorias internas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O controle social corresponde a:",
+    "answers": [
+      {
+        "text": "O controle exclusivo do Judiciário sobre atos administrativos.",
+        "correct": false
+      },
+      {
+        "text": "A fiscalização popular da gestão pública, baseada em instrumentos de transparência e prestação de contas.",
+        "correct": true
+      },
+      {
+        "text": "O acompanhamento interno realizado por corregedorias.",
+        "correct": false
+      },
+      {
+        "text": "A atuação do Tribunal de Contas na fiscalização dos entes federativos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O controle interno visa orientar, prevenir e evitar problemas dentro do próprio ente da Administração.",
+    "answers": [
+      {
+        "text": "Errado",
+        "correct": false
+      },
+      {
+        "text": "Certo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O controle externo é exercido pelo Executivo com apoio do Judiciário.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": false
+      },
+      {
+        "text": "Errado",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O controle social depende do acesso da sociedade às informações de transparência e prestações de contas.",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  }
+]
