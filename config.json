@@ -85,11 +85,11 @@
   {
     "id": "direito_penal_militar_1",
     "title": "Direito Penal Militar I",
-    "imageUrl": "https://davissonednei.github.io/app-data/images/penalmilitar1.jpg",
-    "questions_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_militar_1/questions.json",
-    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/direito_penal_militar_1/flashcards.json",
-    "questionCount": 0,
-    "flashcardCount": 0
+    "imageUrl": "https://davissonednei.github.io/app-data/images/dpm1.jpg",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/dpm1/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/dpm1/flashcards.json",
+    "questionCount": 60,
+    "flashcardCount": 60
   },
   {
     "id": "tecnologia_informacao",
