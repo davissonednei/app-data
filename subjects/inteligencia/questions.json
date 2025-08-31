@@ -8,4 +8,13 @@
       {"text": "Apenas a obtenção e análise de dados para subsidiar investigações policiais e judiciais.", "correct": false}
     ]
   }
+  {
+    "question": "aaaaaa",
+    "answers": [
+      {"text": "A produção de provas para persecução penal e formalização da culpa em crimes.", "correct": false},
+      {"text": "Obtenção, análise e disseminação de conhecimentos sobre fatos e situações de imediata ou potencial influência sobre o processo decisório e a ação governamental e sobre a salvaguarda e a segurança da sociedade e do Estado.", "correct": true},
+      {"text": "Coordenar e integrar as atividades de segurança privada em todo o território nacional.", "correct": false},
+      {"text": "Apenas a obtenção e análise de dados para subsidiar investigações policiais e judiciais.", "correct": false}
+    ]
+  }
 ]
