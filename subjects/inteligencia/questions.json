@@ -284,10 +284,10 @@
   {
     "question": "São termos aplicados à atividade de inteligência: I- Inteligência, visa exclusivamente a produção de conhecimentos de interesse da Ordem Pública; II- Contrainteligência, destinada a produzir conhecimento para neutralizar as ações adversas e proteger a atividade e a instituição a que pertence; III- Ética, é essencial ao profissional de inteligência; IV- Sigilo, visa preservar o órgão, a atividade, seus integrantes e suas ações. Assinale:",
     "answers": [
-      {"text": "Somente a II, III e IV estão corretas.", "correct": false},
+      {"text": "Somente a II, III e IV estão corretas.", "correct": true},
       {"text": "Somente a III está correta.", "correct": false},
       {"text": "Somente a III e IV estão corretas.", "correct": false},
-      {"text": "Todas as alternativas estão corretas.", "correct": true},
+      {"text": "Todas as alternativas estão corretas.", "correct": false},
       {"text": "Nenhuma das alternativas está correta.", "correct": false}
     ]
   }
