@@ -32,8 +32,8 @@
     "id": "inteligencia_bm",
     "title": "Inteligência BM",
     "imageUrl": "https://davissonednei.github.io/app-data/images/inteligencia.jpg",
-    "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia_bm/questions.json",
-    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/inteligencia_bm/flashcards.json",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/inteligencia/flashcards.json",
     "questionCount": 0,
     "flashcardCount": 0
   },
