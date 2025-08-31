@@ -1,1 +1,3 @@
-a
+/config.json
+/subjects/<id>/questions.json
+/images/<opcional>.jpg
