@@ -247,7 +247,7 @@
       },
       {
         "text": "Os ministros civis são nomeados pelo Senado Federal.",
-        "correct": falae
+        "correct": false
       }
     ]
   },
