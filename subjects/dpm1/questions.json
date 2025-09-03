@@ -737,11 +737,11 @@
     "answers": [
       {
         "text": "Verdadeiro",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Falso",
-        "correct": true
+        "correct": false
       }
     ]
   },
@@ -776,11 +776,11 @@
     "answers": [
       {
         "text": "Verdadeiro",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Falso",
-        "correct": true
+        "correct": false
       }
     ]
   },
