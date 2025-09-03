@@ -424,11 +424,11 @@
     "answers": [
       {
         "text": "Na origem normativa das duas expressões.",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Na exigência de lei formal para o tipo penal.",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Na possibilidade de aplicação retroativa da norma.",
