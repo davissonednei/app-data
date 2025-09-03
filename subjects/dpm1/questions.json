@@ -243,11 +243,11 @@
       },
       {
         "text": "Todos os ministros militares devem estar na ativa.",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Os ministros civis são nomeados pelo Senado Federal.",
-        "correct": true
+        "correct": falae
       }
     ]
   },
