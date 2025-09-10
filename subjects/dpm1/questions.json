@@ -130,7 +130,7 @@
     "answers": [
       {
         "text": "A territorialidade é plena, mas a extraterritorialidade é condicionada.",
-        "correct": true
+        "correct": false
       },
       {
         "text": "A extraterritorialidade da lei penal militar é condicionada a convenções internacionais.",
@@ -138,7 +138,7 @@
       },
       {
         "text": "Ambas — territorialidade e extraterritorialidade — são adotadas de forma incondicionada.",
-        "correct": false
+        "correct": true
       },
       {
         "text": "A territorialidade só se aplica em missões externas autorizadas pelo Congresso Nacional.",
@@ -302,11 +302,11 @@
       },
       {
         "text": "Normativa subjetiva.",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Unitária temperada.",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Dualista rígida.",
