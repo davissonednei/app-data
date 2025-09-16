@@ -50,7 +50,7 @@
       "subjects": [
         { "id": "comunicacao_social", "title": "Comunicação Social", "weight": 2 },
         { "id": "gestao_de_pessoas", "title": "Gestão de Pessoas", "weight": 2 },
-        { "id": "tecnologia_da_informacao_e_comunicacao_tic", "title": "Tecnologia da Informação e Comunicação (TIC)", "weight": 4 },
+        { "id": "tecnologia_da_informacao_e_comunicacao_tic", "title": "Tecnologia da Informação e Comunicação (TIC)", "weight": 3 },
         { "id": "gerenciamento_e_analises_de_processos", "title": "Gerenciamento e Análises de Processos", "weight": 2 },
         { "id": "administracao_bm_logistica", "title": "Administração BM – Logística", "weight": 2 },
         { "id": "direito_administrativo_ii", "title": "Direito Administrativo II", "weight": 2 },
