@@ -108,6 +108,15 @@
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/taticas_incendio_2/flashcards.json",
     "questionCount": 0,
     "flashcardCount": 0
+  },
+    {
+    "id": "direito_penal_militar_2",
+    "title": "Direito Penal Militar 2",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/dpm2.jpg",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/dpm2/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/dpm2/flashcards.json",
+    "questionCount": 0,
+    "flashcardCount": 0
   }
 ]
 }
