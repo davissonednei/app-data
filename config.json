@@ -117,6 +117,15 @@
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/dpm2/flashcards.json",
     "questionCount": 50,
     "flashcardCount": 50
+  },
+    {
+    "id": "planejamento_operacional",
+    "title": "Planejamento Operacional",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/planop.jpg",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/planop/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/planop/flashcards.json",
+    "questionCount": 40,
+    "flashcardCount": 40
   }
 ]
 }
