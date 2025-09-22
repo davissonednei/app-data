@@ -1,0 +1,155 @@
+[
+  {
+    "question": "No tocante ao planejamento institucional previsto na Lei 14.572/2023, o órgão que atua como elo entre decisão e execução é:",
+    "answers": [
+      {"text": "Subcomando-Geral", "correct": true},
+      {"text": "CGE", "correct": false},
+      {"text": "COBM", "correct": false},
+      {"text": "DEPLAN", "correct": false}
+    ]
+  },
+  {
+    "question": "O Comando-Geral, segundo a Lei 14.572/2023, exerce papel de:",
+    "answers": [
+      {"text": "Vértice do planejamento, centralizando a tomada de decisão.", "correct": true},
+      {"text": "Engrenagem do planejamento, sendo responsável pela execução direta.", "correct": false},
+      {"text": "Cérebro do planejamento, realizando análises técnicas.", "correct": false},
+      {"text": "Órgão de formulação de diretrizes estratégicas.", "correct": false}
+    ]
+  },
+  {
+    "question": "De acordo com a Lei 14.572/2023, a função de formular diretrizes estratégicas cabe a:",
+    "answers": [
+      {"text": "CGE", "correct": true},
+      {"text": "COBM", "correct": false},
+      {"text": "Subcomando-Geral", "correct": false},
+      {"text": "Comando-Geral", "correct": false}
+    ]
+  },
+  {
+    "question": "Considerando os papéis atribuídos pela Lei 14.572/2023, qual órgão foi metaforicamente descrito como 'cérebro do planejamento'?",
+    "answers": [
+      {"text": "DEPLAN", "correct": true},
+      {"text": "COBM", "correct": false},
+      {"text": "CGE", "correct": false},
+      {"text": "Subcomando-Geral", "correct": false}
+    ]
+  },
+  {
+    "question": "Entre os órgãos listados na Lei 14.572/2023, qual é descrito como a 'engrenagem do planejamento'?",
+    "answers": [
+      {"text": "COBM", "correct": true},
+      {"text": "Comando-Geral", "correct": false},
+      {"text": "DEPLAN", "correct": false},
+      {"text": "CGE", "correct": false}
+    ]
+  },
+  {
+    "question": "Associe corretamente cada órgão ao papel que desempenha no planejamento: Comando-Geral, Subcomando-Geral, CGE, COBM e DEPLAN.",
+    "answers": [
+      {"text": "Vértice – Elo – Diretrizes Estratégicas – Engrenagem – Cérebro.", "correct": true},
+      {"text": "Cérebro – Vértice – Engrenagem – Elo – Diretrizes Estratégicas.", "correct": false},
+      {"text": "Elo – Engrenagem – Diretrizes Estratégicas – Vértice – Cérebro.", "correct": false},
+      {"text": "Diretrizes Estratégicas – Cérebro – Vértice – Elo – Engrenagem.", "correct": false}
+    ]
+  },
+  {
+    "question": "Segundo a Portaria nº 316/2024, qual é a principal função do Comando-Geral no âmbito do CBMBA?",
+    "answers": [
+      {"text": "Definir políticas e diretrizes institucionais.", "correct": true},
+      {"text": "Executar planos, projetos e orçamento.", "correct": false},
+      {"text": "Supervisionar a execução das ordens.", "correct": false},
+      {"text": "Assessorar estrategicamente as decisões superiores.", "correct": false}
+    ]
+  },
+  {
+    "question": "De acordo com a Portaria nº 316/2024, o Subcomando exerce função de:",
+    "answers": [
+      {"text": "Supervisão das atividades e cumprimento das diretrizes.", "correct": true},
+      {"text": "Planejamento de projetos e gestão orçamentária.", "correct": false},
+      {"text": "Assessoramento estratégico ao Comando-Geral.", "correct": false},
+      {"text": "Gestão de logística e frota de viaturas.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual órgão da estrutura do CBMBA, segundo a Portaria nº 316/2024, é responsável pelo assessoramento estratégico?",
+    "answers": [
+      {"text": "CGE", "correct": true},
+      {"text": "DEPLAN", "correct": false},
+      {"text": "DAL", "correct": false},
+      {"text": "Subcomando", "correct": false}
+    ]
+  },
+  {
+    "question": "O DEPLAN, conforme a Portaria nº 316/2024, tem a função de:",
+    "answers": [
+      {"text": "Elaborar planos, projetos e orçamento.", "correct": true},
+      {"text": "Supervisionar o cumprimento das diretrizes.", "correct": false},
+      {"text": "Assessorar estrategicamente o Comando-Geral.", "correct": false},
+      {"text": "Gerenciar exclusivamente logística e frota.", "correct": false}
+    ]
+  },
+  {
+    "question": "Na integração da estrutura organizacional prevista pela Portaria nº 316/2024, a sigla DAL corresponde a:",
+    "answers": [
+      {"text": "Diretoria de Apoio Logístico.", "correct": true},
+      {"text": "Departamento de Administração Legal.", "correct": false},
+      {"text": "Divisão de Assuntos Legislativos.", "correct": false},
+      {"text": "Diretoria de Apoio Local.", "correct": false}
+    ]
+  },
+  {
+    "question": "Associe corretamente as diretorias integradas à sua área de atuação, segundo a Portaria nº 316/2024: DAL, DP, DMT e Frota.",
+    "answers": [
+      {"text": "Logística – Recursos Humanos – Tecnologia da Informação – Viaturas.", "correct": true},
+      {"text": "Logística – Tecnologia da Informação – Recursos Humanos – Viaturas.", "correct": false},
+      {"text": "Recursos Humanos – Viaturas – Logística – Tecnologia da Informação.", "correct": false},
+      {"text": "Tecnologia da Informação – Logística – Viaturas – Recursos Humanos.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual é o objeto regulado pela Portaria nº 243 do CBMBA?",
+    "answers": [
+      {"text": "O emprego extraordinário do efetivo.", "correct": true},
+      {"text": "A elaboração do orçamento anual.", "correct": false},
+      {"text": "O regime disciplinar do efetivo.", "correct": false},
+      {"text": "A estrutura organizacional do Comando-Geral.", "correct": false}
+    ]
+  },
+  {
+    "question": "O Plano Anual de Emprego Operacional (PAEO), previsto na Portaria nº 243, caracteriza-se por:",
+    "answers": [
+      {"text": "Ser um planejamento macro anual do emprego extraordinário.", "correct": true},
+      {"text": "Ser o detalhamento específico de cada operação.", "correct": false},
+      {"text": "Estabelecer exclusivamente a dotação orçamentária.", "correct": false},
+      {"text": "Definir apenas a logística de transporte e viaturas.", "correct": false}
+    ]
+  },
+  {
+    "question": "O PLANOP, segundo a Portaria nº 243, tem como característica central:",
+    "answers": [
+      {"text": "Detalhar o emprego extraordinário em cada operação específica.", "correct": true},
+      {"text": "Definir as diretrizes estratégicas anuais.", "correct": false},
+      {"text": "Estabelecer apenas critérios de saúde ocupacional.", "correct": false},
+      {"text": "Substituir integralmente o PAEO.", "correct": false}
+    ]
+  },
+  {
+    "question": "Entre os princípios que regem a Portaria nº 243, destacam-se:",
+    "answers": [
+      {"text": "Missão, finalidade pública, transparência e saúde ocupacional.", "correct": true},
+      {"text": "Hierarquia, disciplina, sigilo e economicidade.", "correct": false},
+      {"text": "Eficiência, eficácia, economicidade e supremacia do interesse público.", "correct": false},
+      {"text": "Finalidade privada, conveniência administrativa e celeridade.", "correct": false}
+    ]
+  },
+  {
+    "question": "Qual é a sequência correta do fluxo de encaminhamento previsto na Portaria nº 243 para o emprego extraordinário do efetivo?",
+    "answers": [
+      {"text": "BBM → CRBM → COBM → Subcomando → Comando-Geral.", "correct": true},
+      {"text": "CRBM → BBM → COBM → Comando-Geral → Subcomando.", "correct": false},
+      {"text": "COBM → BBM → CRBM → Subcomando → Comando-Geral.", "correct": false},
+      {"text": "Subcomando → BBM → CRBM → COBM → Comando-Geral.", "correct": false}
+    ]
+  }
+]
