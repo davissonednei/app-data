@@ -66,5 +66,97 @@
   {
     "front": "Qual é a sequência correta do fluxo de encaminhamento na Portaria nº 243?",
     "back": "BBM → CRBM → COBM → Subcomando → Comando-Geral"
+  },
+  {
+    "front": "Se o CGE formula diretrizes estratégicas, quem transforma essas diretrizes em planos e projetos concretos?",
+    "back": "DEPLAN"
+  },
+  {
+    "front": "Na Lei 14.572/2023, qual órgão seria o mais associado ao papel de 'executor mecânico' das ordens superiores?",
+    "back": "COBM"
+  },
+  {
+    "front": "Qual seria a consequência prática se o Subcomando-Geral falhar em seu papel de elo entre decisão e execução?",
+    "back": "Ruptura entre ordens do Comando-Geral e execução pelas unidades"
+  },
+  {
+    "front": "Entre DAL, DP, DMT e Frota, qual órgão se conecta mais diretamente ao bem-estar do efetivo?",
+    "back": "DP (Recursos Humanos)"
+  },
+  {
+    "front": "Em uma falha de sistema digital que comprometa comunicações, qual órgão deve ser acionado prioritariamente?",
+    "back": "DMT (Tecnologia da Informação)"
+  },
+  {
+    "front": "Se a frota apresentar problemas logísticos, qual diretoria é responsável e como se diferencia da DAL?",
+    "back": "Frota (viaturas), enquanto a DAL trata da logística ampla"
+  },
+  {
+    "front": "Qual a principal diferença entre a função da CGE e a do DEPLAN na Portaria 316/2024?",
+    "back": "CGE assessora estrategicamente, DEPLAN planeja e organiza orçamento"
+  },
+  {
+    "front": "Qual documento macro anual serve como base para todos os planos de emprego extraordinário?",
+    "back": "PAEO"
+  },
+  {
+    "front": "Se um evento exige detalhamento logístico e operacional específico, qual documento deve ser elaborado?",
+    "back": "PLANOP"
+  },
+  {
+    "front": "No fluxo da Portaria 243, qual instância revisa o pedido antes de chegar ao Subcomando?",
+    "back": "COBM"
+  },
+  {
+    "front": "Por que a Portaria 243 destaca saúde ocupacional como princípio?",
+    "back": "Para evitar sobrecarga física e psicológica no efetivo"
+  },
+  {
+    "front": "Qual documento seria usado para preparar a tropa para uma grande operação no mês seguinte, sem detalhar a execução?",
+    "back": "Diretriz Operacional"
+  },
+  {
+    "front": "Se o comandante precisar inspecionar unidades no interior, qual documento deve expedir?",
+    "back": "Nota de Serviço"
+  },
+  {
+    "front": "Qual documento orienta rotinas administrativas simples, como escala de guarda?",
+    "back": "OPO"
+  },
+  {
+    "front": "Qual documento é obrigatório para instruir um novo curso de salvamento aquático no CBMBA?",
+    "back": "Nota de Instrução"
+  },
+  {
+    "front": "Qual documento tem como estrutura mínima introdução, desenvolvimento e conclusão?",
+    "back": "Relatório-Crítica"
+  },
+  {
+    "front": "Se o documento descreve Situação, Missão, Execução, Administração e Comunicações, de qual se trata?",
+    "back": "Plano de Operações"
+  },
+  {
+    "front": "Diferencie a Diretriz Operacional de uma Ordem de Serviço.",
+    "back": "Diretriz é macro-orientação; OS é detalhada em 5 parágrafos"
+  },
+  {
+    "front": "Qual documento deve ser emitido antes da Ordem de Serviço para alertar a tropa?",
+    "back": "Ordem Preparatória"
+  },
+  {
+    "front": "Se a banca disser que o Relatório-Crítica é preparatório, qual é a resposta correta?",
+    "back": "Está errado, é documento pós-operação"
+  },
+  {
+    "front": "Qual documento se aproxima de um 'guia tático-operacional' e não deve ser confundido com a OS?",
+    "back": "Plano de Operações"
+  },
+  {
+    "front": "Em qual documento a hierarquia exige cinco parágrafos fixos, o que o diferencia de todos os demais?",
+    "back": "Ordem de Serviço"
+  },
+  {
+    "front": "Quando a prova trouxer a sigla PLANOP, deve-se lembrar que:",
+    "back": "É o detalhamento por operação, distinto do PAEO macro anual"
   }
 ]
