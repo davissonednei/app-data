@@ -58,7 +58,7 @@
         { "id": "direito_penal_ii", "title": "Direito Penal II", "weight": 2 },
         { "id": "direito_penal_militar_i", "title": "Direito Penal Militar I", "weight": 2 },
         { "id": "resistencia_dos_materiais_i", "title": "Resistência dos Materiais I", "weight": 2 },
-        { "id": "operacao_de_viaturas", "title": "Operação de Viaturas", "weight": 3 },
+        { "id": "operacao_de_viaturas", "title": "Operação de Viaturas", "weight": 2 },
         { "id": "ordem_unida_iii", "title": "Ordem Unida III", "weight": 2 },
         { "id": "treinamento_fisico_militar_iii", "title": "Treinamento Físico Militar III", "weight": 4 },
         { "id": "emergencia_medica_pre_hospitalar_iii", "title": "Emergência Médica Pré-Hospitalar III", "weight": 3 },
