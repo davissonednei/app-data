@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "question": "Qual o conceito de 'Área de Espera' no contexto de incêndios florestais?",
       "answers": [
@@ -211,4 +210,3 @@
       ]
     }
   ]
-}
