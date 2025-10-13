@@ -59,8 +59,8 @@
     "id": "incendio_florestal",
     "title": "Proteção contra Incêndio Florestal I e II",
     "imageUrl": "https://davissonednei.github.io/app-data/images/pcif.jpg",
-    "questions_url": "https://davissonednei.github.io/app-data/subjects/incendio_florestal/questions.json",
-    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/incendio_florestal/flashcards.json",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/pcif/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/pcif/flashcards.json",
     "questionCount": 50,
     "flashcardCount": 50
   },
