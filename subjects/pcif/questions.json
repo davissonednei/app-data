@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "question": "Qual o conceito de 'Área de Espera' no contexto de incêndios florestais?",
+      "answers": [
+        {
+          "text": "Local designado para aguardar recursos materiais e pessoal, organizado antes do combate, para facilitar a logística e deslocamento.",
+          "correct": true
+        },
+        {
+          "text": "Região da linha de fogo usada como ponto de descanso dos combatentes durante o combate direto.",
+          "correct": false
+        },
+        {
+          "text": "Zona de segurança estabelecida após o rescaldo, destinada ao armazenamento de ferramentas.",
+          "correct": false
+        },
+        {
+          "text": "Área demarcada para posicionar viaturas de reforço durante o combate indireto.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quais são as três formas básicas pelas quais o fogo se propaga em um incêndio florestal?",
+      "answers": [
+        {
+          "text": "Convecção, radiação e condução.",
+          "correct": true
+        },
+        {
+          "text": "Evaporação, combustão e dispersão.",
+          "correct": false
+        },
+        {
+          "text": "Radiação, fricção e oxidação.",
+          "correct": false
+        },
+        {
+          "text": "Condução, difusão e irradiação solar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qual a principal função do Comandante da Guarnição de Combate a Incêndios Florestais (GCIF)?",
+      "answers": [
+        {
+          "text": "Comandar a GCIF, determinar e fiscalizar os serviços, e zelar pela segurança da equipe.",
+          "correct": true
+        },
+        {
+          "text": "Atuar diretamente na linha de fogo e executar o combate físico do incêndio.",
+          "correct": false
+        },
+        {
+          "text": "Controlar exclusivamente a comunicação entre as equipes de apoio aéreo.",
+          "correct": false
+        },
+        {
+          "text": "Emitir relatórios meteorológicos para a Defesa Civil estadual.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quais EPIs são essenciais para o combate a incêndios florestais?",
+      "answers": [
+        {
+          "text": "Roupa, óculos de proteção, perneira, luvas de vaqueta e capacete multifuncional.",
+          "correct": true
+        },
+        {
+          "text": "Macacão impermeável, colete balístico e botas de borracha lisa.",
+          "correct": false
+        },
+        {
+          "text": "Capacete de escalada, cinto de segurança e protetor auricular.",
+          "correct": false
+        },
+        {
+          "text": "Uniforme operacional padrão, gorro e tênis de corrida.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "O que é um aceiro no contexto de incêndios florestais e qual sua principal finalidade?",
+      "answers": [
+        {
+          "text": "Faixa de terreno onde a vegetação é retirada para impedir a propagação do fogo e servir como linha de contenção ou rota de fuga.",
+          "correct": true
+        },
+        {
+          "text": "Área onde são armazenados materiais queimados para posterior descarte.",
+          "correct": false
+        },
+        {
+          "text": "Depósito temporário de ferramentas e equipamentos da guarnição.",
+          "correct": false
+        },
+        {
+          "text": "Região destinada ao posicionamento das aeronaves de apoio logístico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qual a importância de se realizar a manutenção diária dos equipamentos utilizados no combate a incêndios florestais?",
+      "answers": [
+        {
+          "text": "Evita falhas operacionais, aumenta a vida útil dos equipamentos e garante a segurança da equipe durante o combate.",
+          "correct": true
+        },
+        {
+          "text": "Reduz o consumo de combustível e melhora a eficiência energética das viaturas.",
+          "correct": false
+        },
+        {
+          "text": "Permite o reaproveitamento de materiais queimados e reduz custos logísticos.",
+          "correct": false
+        },
+        {
+          "text": "Facilita a inspeção visual pelos oficiais administrativos do quartel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quais são os principais fatores topográficos que influenciam a propagação de incêndios florestais?",
+      "answers": [
+        {
+          "text": "Inclinação do terreno, aspecto solar, altitude e presença de barreiras naturais ou artificiais.",
+          "correct": true
+        },
+        {
+          "text": "Profundidade do solo, tipo de argila, altitude e presença de fauna local.",
+          "correct": false
+        },
+        {
+          "text": "Distância entre árvores, densidade populacional e umidade relativa.",
+          "correct": false
+        },
+        {
+          "text": "Altura das copas, tipo de chuva e qualidade do ar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qual a diferença entre combustíveis leves e pesados na vegetação?",
+      "answers": [
+        {
+          "text": "Leves queimam rapidamente e propagam o fogo com facilidade; pesados queimam lentamente, mas são mais difíceis de extinguir.",
+          "correct": true
+        },
+        {
+          "text": "Leves são sempre inofensivos e usados em áreas agrícolas; pesados provocam incêndios subterrâneos.",
+          "correct": false
+        },
+        {
+          "text": "Leves têm alto teor de umidade e pesados possuem baixa densidade energética.",
+          "correct": false
+        },
+        {
+          "text": "Leves são materiais orgânicos verdes e pesados são minerais.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quais são os quatro fatores climáticos fundamentais que influenciam o comportamento dos incêndios florestais?",
+      "answers": [
+        {
+          "text": "Temperatura, vento, umidade relativa do ar e precipitação.",
+          "correct": true
+        },
+        {
+          "text": "Pressão atmosférica, insolação, geada e neblina.",
+          "correct": false
+        },
+        {
+          "text": "Umidade do solo, densidade do ar, latitude e insolação.",
+          "correct": false
+        },
+        {
+          "text": "Altitude, fase lunar, nebulosidade e pressão barométrica.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quais são as partes principais de um incêndio florestal?",
+      "answers": [
+        {
+          "text": "Frente, retaguarda, flancos, dedos, bolsa, ilha e foco secundário.",
+          "correct": true
+        },
+        {
+          "text": "Cabeceira, base, núcleo e extremidade.",
+          "correct": false
+        },
+        {
+          "text": "Foco inicial, epicentro e zona de dissipação.",
+          "correct": false
+        },
+        {
+          "text": "Linha quente, área fria e zona de pressão.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
