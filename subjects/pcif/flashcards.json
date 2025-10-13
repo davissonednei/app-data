@@ -1,0 +1,210 @@
+ [
+    {
+      "front": "Qual o conceito de 'Área de Espera' no contexto de incêndios florestais?",
+      "back": "Local preparado para reunir pessoal e materiais antes do combate, facilitando logística e deslocamento."
+    },
+    {
+      "front": "Quais são as três formas básicas pelas quais o fogo se propaga em um incêndio florestal?",
+      "back": "Convecção, radiação e condução."
+    },
+    {
+      "front": "Qual a principal função do Comandante da GCIF?",
+      "back": "Comandar a equipe, fiscalizar o serviço e garantir a segurança da guarnição."
+    },
+    {
+      "front": "Quais EPIs são essenciais para o combate a incêndios florestais?",
+      "back": "Roupa de proteção, óculos, perneira, luvas de vaqueta e capacete multifuncional."
+    },
+    {
+      "front": "O que é um aceiro e qual sua finalidade?",
+      "back": "Faixa sem vegetação que impede a propagação do fogo e serve como linha de contenção."
+    },
+    {
+      "front": "Por que realizar manutenção diária dos equipamentos de combate?",
+      "back": "Para evitar falhas, prolongar a vida útil e garantir segurança durante o uso."
+    },
+    {
+      "front": "Quais fatores topográficos influenciam a propagação de incêndios florestais?",
+      "back": "Inclinação, aspecto solar, altitude e barreiras naturais ou artificiais."
+    },
+    {
+      "front": "Qual a diferença entre combustíveis leves e pesados?",
+      "back": "Leves queimam rápido e espalham o fogo; pesados queimam devagar e são difíceis de extinguir."
+    },
+    {
+      "front": "Quais fatores climáticos influenciam o comportamento do fogo?",
+      "back": "Temperatura, vento, umidade relativa e precipitação."
+    },
+    {
+      "front": "Quais são as partes principais de um incêndio florestal?",
+      "back": "Frente, retaguarda, flancos, dedos, bolsa, ilha e foco secundário."
+    },
+    {
+      "front": "O que é 'foco secundário' em incêndios florestais?",
+      "back": "Novo foco causado por fagulhas ou brasas transportadas além da linha de controle."
+    },
+    {
+      "front": "O que diferencia os métodos de combate direto e indireto?",
+      "back": "Direto atua sobre as chamas; indireto cria barreiras como aceiros e linhas negras."
+    },
+    {
+      "front": "Qual a importância do rescaldo?",
+      "back": "Eliminar focos remanescentes e evitar reignições após o combate."
+    },
+    {
+      "front": "Qual a prioridade de ação da GCIF segundo o POP?",
+      "back": "Preservar vidas humanas acima de qualquer outra ação."
+    },
+    {
+      "front": "Quem controla os materiais da GCIF?",
+      "back": "O Comandante da GCIF."
+    },
+    {
+      "front": "Qual a função da Notificação Preventiva?",
+      "back": "Alertar sobre condições propícias a incêndios e orientar ações preventivas."
+    },
+    {
+      "front": "Quando avaliar a necessidade de emprego de aeronaves?",
+      "back": "Quando os meios terrestres forem insuficientes no local do incidente."
+    },
+    {
+      "front": "Qual recomendação deve ser observada na construção de aceiros?",
+      "back": "Lançar o material combustível removido para dentro da área já queimada."
+    },
+    {
+      "front": "Qual ferramenta é usada em queimas controladas e linhas negras?",
+      "back": "Pinga-fogo."
+    },
+    {
+      "front": "Qual atitude NÃO é um erro crítico durante o combate?",
+      "back": "Seguir as normas e preservar a segurança da equipe."
+    },
+    {
+      "front": "Qual a importância do Sistema de Comando de Incidentes (SCI)?",
+      "back": "Padroniza a gestão e otimiza recursos e comunicação entre as equipes."
+    },
+    {
+      "front": "Qual a função do Militar de Logística da GCIF?",
+      "back": "Manter e controlar equipamentos e materiais da guarnição."
+    },
+    {
+      "front": "Qual a recomendação sobre o uso de aceiros?",
+      "back": "Deve-se lançar o material queimado para dentro da linha de fogo."
+    },
+    {
+      "front": "O que distingue o método de combate direto do indireto?",
+      "back": "Direto combate as chamas; indireto cria barreiras e retira combustíveis."
+    },
+    {
+      "front": "O que é e qual a importância do rescaldo?",
+      "back": "Etapa final que extingue focos remanescentes e evita reignição."
+    },
+    {
+      "front": "O que são os indicativos de queima?",
+      "back": "Sinais do fogo que indicam o sentido de propagação e ajudam a localizar a origem."
+    },
+    {
+      "front": "O que o grau de danos permite identificar?",
+      "back": "Mostra o sentido e o comportamento do fogo, mas não o ponto exato de origem."
+    },
+    {
+      "front": "O que revela a análise dos padrões de queima?",
+      "back": "Desigualdades na queima de um mesmo combustível mostram o sentido do fogo."
+    },
+    {
+      "front": "Como a cor das cinzas indica o sentido do fogo?",
+      "back": "Cinzas claras na frente e escuras na retaguarda revelam a direção da propagação."
+    },
+    {
+      "front": "O que o tombamento de gramíneas indica?",
+      "back": "O sentido e a intensidade das chamas, pois se vergam na direção do fogo."
+    },
+    {
+      "front": "Qual é o principal objetivo da investigação de incêndios florestais?",
+      "back": "Determinar a origem e causa do fogo para prevenir riscos e embasar processos ambientais."
+    },
+    {
+      "front": "Qual o principal marco legal sobre crimes ambientais em incêndios florestais?",
+      "back": "Lei nº 9.605/1998 – Lei de Crimes Ambientais."
+    },
+    {
+      "front": "Quais órgãos investigam as causas de incêndios florestais?",
+      "back": "Corpo de Bombeiros, Polícia Militar Ambiental e Polícia Federal."
+    },
+    {
+      "front": "Por que é importante localizar a origem do incêndio?",
+      "back": "Para reunir provas e reconstruir a dinâmica e autoria do fogo."
+    },
+    {
+      "front": "O que é a 'zona de confusão' em incêndios florestais?",
+      "back": "Área entre frente e retaguarda onde o fogo tem sentidos opostos de propagação."
+    },
+    {
+      "front": "O que caracteriza a carbonização superficial?",
+      "back": "Marcas alongadas em troncos causadas por correntes de ar quente e chamas ascendentes."
+    },
+    {
+      "front": "Por que o perito deve ter preparo técnico e moral?",
+      "back": "Porque a perícia exige precisão, imparcialidade e conhecimento especializado."
+    },
+    {
+      "front": "O que é o Laudo Pericial em incêndios florestais?",
+      "back": "Relatório técnico que orienta o julgamento da infração ambiental."
+    },
+    {
+      "front": "O que representa o indicador 'combustível protegido'?",
+      "back": "Áreas não queimadas sob obstáculos que indicam o sentido contrário da propagação."
+    },
+    {
+      "front": "O que são manchas de fuligem e qual sua função na perícia?",
+      "back": "Resíduos de fumaça que indicam a direção dos ventos e da propagação do fogo."
+    },
+    {
+      "front": "Como a topografia influencia a propagação do fogo?",
+      "back": "Encostas favorecem avanço rápido; o fogo sobe mais velozmente do que desce."
+    },
+    {
+      "front": "Quais fatores climáticos determinam o comportamento do fogo?",
+      "back": "Temperatura, vento, umidade relativa e precipitação."
+    },
+    {
+      "front": "Por que a comunicação é essencial durante o combate?",
+      "back": "Garante coordenação, segurança e resposta eficiente das equipes."
+    },
+    {
+      "front": "O que deve conter o relatório diário do comandante da GCIF?",
+      "back": "Atividades, recursos usados, condições climáticas e necessidades de apoio."
+    },
+    {
+      "front": "Qual a finalidade da Notificação Preventiva?",
+      "back": "Avisar sobre riscos de incêndio e orientar medidas preventivas locais."
+    },
+    {
+      "front": "Quais os riscos do manuseio incorreto de ferramentas?",
+      "back": "Ferimentos, danos a equipamentos e redução da eficiência no combate."
+    },
+    {
+      "front": "Por que o rescaldo é essencial após o combate?",
+      "back": "Evita reignições e garante a extinção completa do incêndio."
+    },
+    {
+      "front": "Qual o significado de 'linha negra'?",
+      "back": "Faixa queimada propositalmente para conter o avanço do fogo."
+    },
+    {
+      "front": "Qual a importância da manutenção diária dos equipamentos?",
+      "back": "Garante funcionamento e segurança durante o uso."
+    },
+    {
+      "front": "Quais são os procedimentos de segurança essenciais durante o combate?",
+      "back": "Uso de EPI, observação do vento e respeito às rotas de fuga."
+    },
+    {
+      "front": "O que é o 'grau de danos' em incêndios florestais?",
+      "back": "Indicador da intensidade do fogo e sentido da propagação, mas não do ponto inicial."
+    },
+    {
+      "front": "Por que a perícia técnica é importante após um incêndio?",
+      "back": "Determina causa, origem e responsabilidades legais pelo evento."
+    }
+
