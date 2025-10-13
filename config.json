@@ -57,12 +57,12 @@
   },
   {
     "id": "incendio_florestal",
-    "title": "Proteção contra Incêndio Florestal",
+    "title": "Proteção contra Incêndio Florestal I e II",
     "imageUrl": "https://davissonednei.github.io/app-data/images/pcif.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/incendio_florestal/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/incendio_florestal/flashcards.json",
-    "questionCount": 0,
-    "flashcardCount": 0
+    "questionCount": 50,
+    "flashcardCount": 50
   },
   {
     "id": "direito_penal_1",
