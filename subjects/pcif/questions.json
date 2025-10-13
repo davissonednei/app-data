@@ -733,5 +733,322 @@
         "correct": false
       }
     ]
+  },
+  {
+    "question": "O que é o rescaldo e qual sua importância em um incêndio florestal?",
+    "answers": [
+      {
+        "text": "É a etapa final do combate que elimina focos remanescentes e previne reignições.",
+        "correct": true
+      },
+      {
+        "text": "É o momento de preparação da equipe antes do combate.",
+        "correct": false
+      },
+      {
+        "text": "É o procedimento de evacuação após o controle do fogo.",
+        "correct": false
+      },
+      {
+        "text": "É a inspeção meteorológica anterior à operação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual deve ser a prioridade de ação em um incêndio florestal segundo o POP de Comando da GCIF?",
+    "answers": [
+      {
+        "text": "Preservar vidas humanas antes de qualquer ação de combate.",
+        "correct": true
+      },
+      {
+        "text": "Conter a propagação do fogo antes de qualquer evacuação.",
+        "correct": false
+      },
+      {
+        "text": "Proteger equipamentos e veículos de combate.",
+        "correct": false
+      },
+      {
+        "text": "Fazer o reconhecimento total da área antes de agir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quem é o responsável pelo controle e guarda dos materiais da GCIF?",
+    "answers": [
+      {
+        "text": "O Comandante da GCIF.",
+        "correct": true
+      },
+      {
+        "text": "O chefe de logística municipal.",
+        "correct": false
+      },
+      {
+        "text": "O coordenador de defesa civil estadual.",
+        "correct": false
+      },
+      {
+        "text": "O combatente mais antigo da guarnição.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual a função da Notificação Preventiva no contexto de incêndios florestais?",
+    "answers": [
+      {
+        "text": "Alertar sobre condições favoráveis ao fogo e orientar ações preventivas.",
+        "correct": true
+      },
+      {
+        "text": "Substituir o relatório final de ocorrência.",
+        "correct": false
+      },
+      {
+        "text": "Registrar o término das operações de combate.",
+        "correct": false
+      },
+      {
+        "text": "Comunicar a imprensa sobre a situação de risco.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em que situação a GCIF deve avaliar o uso de aeronaves no combate?",
+    "answers": [
+      {
+        "text": "Quando os meios terrestres forem insuficientes para controlar o fogo.",
+        "correct": true
+      },
+      {
+        "text": "Sempre antes de qualquer deslocamento da equipe.",
+        "correct": false
+      },
+      {
+        "text": "Somente após o rescaldo para registrar imagens aéreas.",
+        "correct": false
+      },
+      {
+        "text": "Quando houver solicitação de outro órgão, independentemente da gravidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual a recomendação correta sobre a construção de aceiros?",
+    "answers": [
+      {
+        "text": "O material removido deve ser lançado para dentro da área queimada, evitando reignições.",
+        "correct": true
+      },
+      {
+        "text": "O material deve ser empilhado sobre a linha de controle.",
+        "correct": false
+      },
+      {
+        "text": "Os aceiros devem ser feitos apenas na direção contrária ao vento.",
+        "correct": false
+      },
+      {
+        "text": "Devem ser realizados somente em áreas planas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual ferramenta é usada para realizar queimas controladas e linhas negras?",
+    "answers": [
+      {
+        "text": "Pinga-fogo.",
+        "correct": true
+      },
+      {
+        "text": "Soprador costal.",
+        "correct": false
+      },
+      {
+        "text": "Bate-facho.",
+        "correct": false
+      },
+      {
+        "text": "Pulverizador manual.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual das alternativas NÃO representa um erro crítico em combate a incêndios florestais?",
+    "answers": [
+      {
+        "text": "Seguir normas operacionais e preservar a segurança da equipe.",
+        "correct": true
+      },
+      {
+        "text": "Entrar em área de risco sem comunicação com o comando.",
+        "correct": false
+      },
+      {
+        "text": "Atuar isoladamente sem reconhecimento da área.",
+        "correct": false
+      },
+      {
+        "text": "Deslocar-se sem equipamentos de proteção individual.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Por que é importante o reconhecimento da área antes do início do combate?",
+    "answers": [
+      {
+        "text": "Para avaliar acessos, riscos, direção do vento e condições do terreno.",
+        "correct": true
+      },
+      {
+        "text": "Para registrar o local da ocorrência no sistema SIGBM.",
+        "correct": false
+      },
+      {
+        "text": "Para identificar espécies vegetais predominantes.",
+        "correct": false
+      },
+      {
+        "text": "Para planejar o reflorestamento após o combate.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual o objetivo da linha de controle em um incêndio florestal?",
+    "answers": [
+      {
+        "text": "Delimitar a área que deve ser protegida e impedir a propagação do fogo.",
+        "correct": true
+      },
+      {
+        "text": "Servir como caminho para evacuação da equipe.",
+        "correct": false
+      },
+      {
+        "text": "Indicar o limite da área de rescaldo.",
+        "correct": false
+      },
+      {
+        "text": "Determinar o ponto inicial da perícia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual o papel do apoio logístico em uma operação de incêndio florestal?",
+    "answers": [
+      {
+        "text": "Garantir suprimentos, transporte, hidratação e manutenção dos equipamentos.",
+        "correct": true
+      },
+      {
+        "text": "Atuar no combate direto junto à linha de frente.",
+        "correct": false
+      },
+      {
+        "text": "Fiscalizar o comportamento do vento e o relevo local.",
+        "correct": false
+      },
+      {
+        "text": "Emitir relatórios técnicos ao comando geral.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual a principal vantagem do combate indireto ao fogo?",
+    "answers": [
+      {
+        "text": "Permite planejar a contenção com menor exposição ao calor e risco direto.",
+        "correct": true
+      },
+      {
+        "text": "Garante extinção mais rápida com menor equipe.",
+        "correct": false
+      },
+      {
+        "text": "Dispensa o uso de aceiros e ferramentas manuais.",
+        "correct": false
+      },
+      {
+        "text": "É utilizado apenas em áreas urbanas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que caracteriza o combate direto a incêndios florestais?",
+    "answers": [
+      {
+        "text": "A ação diretamente sobre as chamas utilizando água, abafadores ou ferramentas manuais.",
+        "correct": true
+      },
+      {
+        "text": "O uso de aceiros e queimas controladas à distância do fogo.",
+        "correct": false
+      },
+      {
+        "text": "A delimitação de áreas de segurança antes da ignição.",
+        "correct": false
+      },
+      {
+        "text": "A supressão do combustível por meio de escavação profunda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que são 'dedos' em um incêndio florestal?",
+    "answers": [
+      {
+        "text": "Prolongamentos estreitos da frente de fogo que avançam em direção distinta do corpo principal.",
+        "correct": true
+      },
+      {
+        "text": "Focos secundários formados após o rescaldo.",
+        "correct": false
+      },
+      {
+        "text": "Regiões de vegetação queimada mais lentamente.",
+        "correct": false
+      },
+      {
+        "text": "Áreas que delimitam o início do fogo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que é a 'ilha' em um incêndio florestal?",
+    "answers": [
+      {
+        "text": "Porção de vegetação não queimada cercada por áreas já consumidas pelo fogo.",
+        "correct": true
+      },
+      {
+        "text": "Área de refúgio para os combatentes durante o rescaldo.",
+        "correct": false
+      },
+      {
+        "text": "Zona destinada à montagem da base de operações.",
+        "correct": false
+      },
+      {
+        "text": "Ponto onde o fogo se originou inicialmente.",
+        "correct": false
+      }
+    ]
   }
 ]
+
+
