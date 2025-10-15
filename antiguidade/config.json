@@ -83,7 +83,6 @@
       "id": "ano3",
       "title": "3º CFO",
       "subjects": [
-        [
   { "id": "aquatico_iv", "title": "Aquático IV", "weight": 2 },
   { "id": "defesa_civil_ii", "title": "Defesa Civil II", "weight": 2 },
   { "id": "gestao_orcamentaria", "title": "Gestão Orçamentária", "weight": 3 },
@@ -94,7 +93,6 @@
   { "id": "penal_militar_ii", "title": "Penal Militar II", "weight": 2 },
   { "id": "planop", "title": "PLANOP", "weight": 3 }
         ]
-      ]
     }
   ]
 }
