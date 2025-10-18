@@ -1,0 +1,162 @@
+[
+  {
+    "front": "Quais blocos formam o arranjo mínimo de um sistema de hidrantes e mangotinhos?",
+    "back": "RTI, pressurização, comando e distribuição com pontos terminais."
+  },
+  {
+    "front": "Como deve ocorrer a subdivisão da reserva técnica de incêndio?",
+    "back": "Com unidades de no mínimo três metros cúbicos ligadas à sucção."
+  },
+  {
+    "front": "O que se aplica ao uso conjunto de reservatórios subterrâneo e elevado na RTI?",
+    "back": "Não é admitido para compor a mesma reserva de incêndio."
+  },
+  {
+    "front": "Qual diretriz vale para material e construção do reservatório?",
+    "back": "Deve ter resistência ao fogo e resistência mecânica adequada."
+  },
+  {
+    "front": "Qual posição do reservatório favorece desempenho e confiabilidade?",
+    "back": "Preferencialmente elevado, aceitando subterrâneo quando atender aos requisitos."
+  },
+  {
+    "front": "Em RTI subdividida, como deve ser a alimentação da casa de bombas?",
+    "back": "Cada unidade deve alimentar diretamente a tubulação de sucção."
+  },
+  {
+    "front": "Qual relação funcional é mais adequada entre rede pública e rede privada de hidrantes?",
+    "back": "A privada garante disponibilidade autônoma na edificação; a pública apoia abastecimento externo e operações de viatura."
+  },
+  {
+    "front": "Por que a rede pública não deve ser a única fonte para atender a demanda de projeto da edificação?",
+    "back": "Suscetível a variações e interrupções de pressão e vazão, sem garantia no instante crítico."
+  },
+  {
+    "front": "Qual enunciado traduz corretamente o papel da IT-22 do CBMBA no Estado da Bahia?",
+    "back": "Estabelece requisitos locais para projeto, instalação, manutenção, ensaios e aceitação de sistemas de hidrantes e mangotinhos."
+  },
+  {
+    "front": "Na correlação de normas, qual par está corretamente associado ao seu escopo principal?",
+    "back": "NBR 13714: sistemas de hidrantes e mangotinhos em edificações; NBR 5667: hidrantes urbanos de ferro fundido dúctil."
+  },
+  {
+    "front": "Quando referências NFPA são utilizadas em projetos no Brasil, qual postura técnica é adequada?",
+    "back": "Empregar como complemento, como a NFPA 24 para redes privadas, sem afastar ABNT e IT local."
+  },
+  {
+    "front": "Quais são as formas usuais de pressurização em sistemas de hidrantes e mangotinhos?",
+    "back": "Por gravidade, por bombas de incêndio e por bombas de reforço."
+  },
+  {
+    "front": "Em redes mantidas pressurizadas continuamente, qual elemento compensa pequenas perdas?",
+    "back": "Bomba jockey com acionamento automático e vazão reduzida."
+  },
+  {
+    "front": "Qual é o tipo de bomba adequado para sistemas de incêndio no contexto apresentado?",
+    "back": "Bomba centrífuga acionada por motor elétrico ou de combustão."
+  },
+  {
+    "front": "Quando o suprimento depende de bombas, qual arranjo de redundância está conforme?",
+    "back": "Duas bombas: uma elétrica e uma a combustão, ou duas elétricas com gerador dedicado."
+  },
+  {
+    "front": "Qual diretriz se aplica à lógica de desligamento da bomba principal?",
+    "back": "Partida automática; desligamento somente manual no painel da casa de bombas."
+  },
+  {
+    "front": "Quanto à condição hidráulica de instalação, qual recomendação é preferencial?",
+    "back": "Instalar as bombas em sucção positiva para reduzir cavitação e perdas."
+  },
+  {
+    "front": "Qual afirmação resume a limitação recomendada de pressão nas bombas de incêndio?",
+    "back": "Não é recomendada pressão superior a 100 metros de coluna d’água."
+  },
+  {
+    "front": "Qual ajuste evita sobrepressões acima de 100 metros de coluna d’água?",
+    "back": "Selecionar bomba e ponto de operação compatíveis com os limites do sistema."
+  },
+  {
+    "front": "Quais são os modos de acionamento previstos para o sistema de comando?",
+    "back": "Automático por chaves de fluxo e pressostatos, e manual por botoeiras."
+  },
+  {
+    "front": "Qual requisito de alimentação elétrica se aplica às bombas de incêndio?",
+    "back": "Ligação elétrica independente daquela do edifício."
+  },
+  {
+    "front": "Onde a chave de fluxo deve ser instalada para leitura adequada?",
+    "back": "Na direção do escoamento, evitando trechos próximos a mudanças bruscas."
+  },
+  {
+    "front": "Qual é o princípio de atuação do pressostato no sistema de comando?",
+    "back": "Acionamento automático por queda da pressão de rede."
+  },
+  {
+    "front": "Qual é a finalidade das botoeiras no contexto do sistema de comando?",
+    "back": "Permitir acionamento manual da bomba de incêndio em pontos estratégicos."
+  },
+  {
+    "front": "Qual é o diâmetro mínimo especificado para a tubulação do sistema de hidrantes?",
+    "back": "63 mm (2 1/2\")"
+  },
+  {
+    "front": "Quais materiais são indicados para tubulação aérea do sistema de distribuição?",
+    "back": "Aço preto, ferro galvanizado (FG) e cobre."
+  },
+  {
+    "front": "Qual material é indicado para tubulação subterrânea do sistema de hidrantes?",
+    "back": "PVC rígido."
+  },
+  {
+    "front": "Qual é a padronização de cores para a rede aparente de hidrantes e seus acessórios?",
+    "back": "Tubulação vermelha; conexões e registros amarelos."
+  },
+  {
+    "front": "Qual critério de teste de estanquidade está correto para a rede de hidrantes?",
+    "back": "Pressão de 2x a pressão de trabalho ou 150 mca, por 2 horas."
+  },
+  {
+    "front": "Para mitigar o golpe de aríete, qual requisito deve ser observado nas válvulas?",
+    "back": "Tempo de fechamento superior a 5 segundos."
+  },
+  {
+    "front": "Em relação ao sistema de hidrantes, como se caracteriza a descarga de água do sistema de mangotinho?",
+    "back": "Menor descarga, porém adequada ao risco da área protegida."
+  },
+  {
+    "front": "Qual vantagem operacional é típica do sistema de mangotinho?",
+    "back": "Facilidade e rapidez de operação."
+  },
+  {
+    "front": "Sobre o uso do mangotinho ao retirar a mangueira do abrigo, qual afirmação procede?",
+    "back": "Funciona com qualquer comprimento desdobrado."
+  },
+  {
+    "front": "Quanto à cobertura, qual condição deve ser atendida pela instalação do mangotinho?",
+    "back": "Qualquer ponto da área a proteger deve ser alcançado pelo jato d’água."
+  },
+  {
+    "front": "Como se define uma saída de emergência segundo o conteúdo apresentado?",
+    "back": "Caminho contínuo, protegido e sinalizado, que leva o usuário com segurança até a via pública ou área de refúgio."
+  },
+  {
+    "front": "Qual é o principal objetivo das saídas de emergência em uma edificação?",
+    "back": "Permitir que a população abandone o local protegida em sua integridade física."
+  },
+  {
+    "front": "Além da evacuação, qual outro objetivo das saídas de emergência é destacado?",
+    "back": "Permitir o acesso das guarnições de bombeiros para combate e resgate."
+  },
+  {
+    "front": "Quais normas brasileiras tratam diretamente das saídas de emergência em edificações?",
+    "back": "NBR 9077/01, NBR 9050/04 e IT 11 e 12/2016."
+  },
+  {
+    "front": "As saídas de emergência classificadas no plano horizontal incluem:",
+    "back": "Portas, corredores, saguões, passarelas, varandas e sacadas."
+  },
+  {
+    "front": "Quais elementos são exemplos de saídas no plano vertical?",
+    "back": "Escadas, rampas e elevadores de emergência."
+  }
+]
