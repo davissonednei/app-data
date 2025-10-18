@@ -126,6 +126,15 @@
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/planop/flashcards.json",
     "questionCount": 40,
     "flashcardCount": 40
+  },
+    {
+    "id": "seguranca_contra_incendio",
+    "title": "Segurança Contra Incêndio",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/csci.png",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/csci/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/csci/flashcards.json",
+    "questionCount": 0,
+    "flashcardCount": 0
   }
 ]
 }
