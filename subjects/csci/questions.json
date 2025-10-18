@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Quais blocos formam o arranjo mínimo de um sistema de hidrantes e mangotinhos?",
+    "answers": [
+      { "text": "RTI, pressurização, comando e distribuição com pontos terminais.", "correct": true },
+      { "text": "Pressurização, sprinklers, detecção e hidrantes de via pública.", "correct": false },
+      { "text": "Reservatório, extintores, sinalização e rotas de fuga.", "correct": false },
+      { "text": "Rede pública, iluminação, exaustão e escadas enclausuradas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Como deve ocorrer a subdivisão da reserva técnica de incêndio?",
+    "answers": [
+      { "text": "Com unidades de no mínimo três metros cúbicos ligadas à sucção.", "correct": true },
+      { "text": "Com volumes livres ligados apenas ao recalque de teste.", "correct": false },
+      { "text": "Com um metro cúbico por unidade e ligação por mangotes móveis.", "correct": false },
+      { "text": "Sem limite de volume quando há hidrante público próximo.", "correct": false }
+    ]
+  },
+  {
+    "question": "O que se aplica ao uso conjunto de reservatórios subterrâneo e elevado na RTI?",
+    "answers": [
+      { "text": "Não é admitido para compor a mesma reserva de incêndio.", "correct": true },
+      { "text": "É recomendado para evitar bombas e simplificar a operação.", "correct": false },
+      { "text": "É aceito se a rede pública garantir pressão mínima contínua.", "correct": false },
+      { "text": "É obrigatório quando a RTI for maior que trinta metros cúbicos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual diretriz vale para material e construção do reservatório?",
+    "answers": [
+      { "text": "Deve ter resistência ao fogo e resistência mecânica adequada.", "correct": true },
+      { "text": "Pode ser de madeira tratada com pintura intumescente externa.", "correct": false },
+      { "text": "Deve ser plástico flexível para absorver dilatações térmicas.", "correct": false },
+      { "text": "Não há restrição de material quando existe bomba jockey.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual posição do reservatório favorece desempenho e confiabilidade?",
+    "answers": [
+      { "text": "Preferencialmente elevado, aceitando subterrâneo quando atender aos requisitos.", "correct": true },
+      { "text": "Exclusivamente subterrâneo por estabilidade estrutural do conjunto.", "correct": false },
+      { "text": "Somente elevado por garantir pressão estática mínima sempre.", "correct": false },
+      { "text": "Indiferente, pois a posição não afeta o desempenho hidráulico.", "correct": false }
+    ]
+  },
+  {
+    "question": "Em RTI subdividida, como deve ser a alimentação da casa de bombas?",
+    "answers": [
+      { "text": "Cada unidade deve alimentar diretamente a tubulação de sucção.", "correct": true },
+      { "text": "Apenas a maior unidade conecta na sucção por linha exclusiva.", "correct": false },
+      { "text": "A interligação ocorre pelo recalque externo com válvulas globo.", "correct": false },
+      { "text": "Liga-se à rede pública e dispensa sucção dedicada ao conjunto.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual relação funcional é mais adequada entre rede pública e rede privada de hidrantes?",
+    "answers": [
+      { "text": "A privada garante disponibilidade autônoma na edificação; a pública apoia abastecimento externo e operações de viatura.", "correct": true },
+      { "text": "A pública pressuriza continuamente a privada por determinação legal, dispensando bombas internas.", "correct": false },
+      { "text": "A privada só é instalada quando não existe rede pública na via do empreendimento.", "correct": false },
+      { "text": "A pública substitui o sistema interno sempre que a vazão de rua for superior a 500 L/min.", "correct": false }
+    ]
+  },
+  {
+    "question": "Por que a rede pública não deve ser a única fonte para atender a demanda de projeto da edificação?",
+    "answers": [
+      { "text": "Suscetível a variações e interrupções de pressão e vazão, sem garantia no instante crítico.", "correct": true },
+      { "text": "Proibida para qualquer uso de combate a incêndio, inclusive por viaturas.", "correct": false },
+      { "text": "Contém aditivos que inutilizam mangueiras e esguichos em uso prolongado.", "correct": false },
+      { "text": "Opera sempre com pressão excessiva, inviabilizando registros em linha.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual enunciado traduz corretamente o papel da IT-22 do CBMBA no Estado da Bahia?",
+    "answers": [
+      { "text": "Estabelece requisitos locais para projeto, instalação, manutenção, ensaios e aceitação de sistemas de hidrantes e mangotinhos.", "correct": true },
+      { "text": "Define apenas a padronização de pintura de hidrantes urbanos da concessionária.", "correct": false },
+      { "text": "Regulamenta exclusivamente bombas de incêndio, sem tratar de rede e terminais.", "correct": false },
+      { "text": "Funciona como guia voluntário, sem impacto na aprovação de projetos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Na correlação de normas, qual par está corretamente associado ao seu escopo principal?",
+    "answers": [
+      { "text": "NBR 13714: sistemas de hidrantes e mangotinhos em edificações; NBR 5667: hidrantes urbanos de ferro fundido dúctil.", "correct": true },
+      { "text": "NBR 13714: hidrantes de via pública; NBR 5667: cálculo hidráulico interno.", "correct": false },
+      { "text": "NBR 13714 e NBR 5667: documentos equivalentes e intercambiáveis.", "correct": false },
+      { "text": "NBR 5667: mangotinhos internos; NBR 13714: extintores portáteis.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quando referências NFPA são utilizadas em projetos no Brasil, qual postura técnica é adequada?",
+    "answers": [
+      { "text": "Empregar como complemento, como a NFPA 24 para redes privadas, sem afastar ABNT e IT local.", "correct": true },
+      { "text": "Substituir ABNT e IT sempre que a NFPA apresentar maior detalhamento.", "correct": false },
+      { "text": "Citar a NFPA dispensa a comprovação de requisitos da autoridade estadual.", "correct": false },
+      { "text": "Usar NFPA apenas para reduzir reservação em função de hidrante público próximo.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quais são as formas usuais de pressurização em sistemas de hidrantes e mangotinhos?",
+    "answers": [
+      { "text": "Por gravidade, por bombas de incêndio e por bombas de reforço.", "correct": true },
+      { "text": "Por ventiladores, por sprinklers e por detectores de fumaça.", "correct": false },
+      { "text": "Por compressores, por hidrantes públicos e por extintores.", "correct": false },
+      { "text": "Por recalque externo, por caixas de incêndio e por válvulas globo.", "correct": false }
+    ]
+  },
+  {
+    "question": "Em redes mantidas pressurizadas continuamente, qual elemento compensa pequenas perdas?",
+    "answers": [
+      { "text": "Bomba jockey com acionamento automático e vazão reduzida.", "correct": true },
+      { "text": "Bomba principal com partida manual a cada hora de operação.", "correct": false },
+      { "text": "Válvula de retenção com retorno para o reservatório superior.", "correct": false },
+      { "text": "Dispositivo de recalque utilizado como ponto de alívio.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é o tipo de bomba adequado para sistemas de incêndio no contexto apresentado?",
+    "answers": [
+      { "text": "Bomba centrífuga acionada por motor elétrico ou de combustão.", "correct": true },
+      { "text": "Bomba peristáltica com motor pneumático portátil.", "correct": false },
+      { "text": "Bomba de deslocamento positivo com acionamento manual.", "correct": false },
+      { "text": "Bomba helicoidal acoplada a turbina eólica de cobertura.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quando o suprimento depende de bombas, qual arranjo de redundância está conforme?",
+    "answers": [
+      { "text": "Duas bombas: uma elétrica e uma a combustão, ou duas elétricas com gerador dedicado.", "correct": true },
+      { "text": "Uma única bomba elétrica desde que haja hidrante público na calçada.", "correct": false },
+      { "text": "Uma bomba elétrica e uma jockey, sem fonte alternativa.", "correct": false },
+      { "text": "Duas bombas a combustão sem qualquer alimentação elétrica.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual diretriz se aplica à lógica de desligamento da bomba principal?",
+    "answers": [
+      { "text": "Partida automática; desligamento somente manual no painel da casa de bombas.", "correct": true },
+      { "text": "Partida e desligamento totalmente automáticos por pressostato.", "correct": false },
+      { "text": "Desligamento remoto pelo sistema de alarme da edificação.", "correct": false },
+      { "text": "Parada automática quando a pressão atinge o setpoint do jockey.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quanto à condição hidráulica de instalação, qual recomendação é preferencial?",
+    "answers": [
+      { "text": "Instalar as bombas em sucção positiva para reduzir cavitação e perdas.", "correct": true },
+      { "text": "Instalar as bombas em sucção negativa para aumentar a velocidade.", "correct": false },
+      { "text": "Instalar as bombas acima do nível d’água para facilitar a drenagem.", "correct": false },
+      { "text": "Instalar as bombas distante do reservatório para estabilizar fluxo.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual afirmação resume a limitação recomendada de pressão nas bombas de incêndio?",
+    "answers": [
+      { "text": "Não é recomendada pressão superior a 100 metros de coluna d’água.", "correct": true },
+      { "text": "Recomenda-se pressão superior a 150 metros de coluna d’água.", "correct": false },
+      { "text": "A pressão mínima deve ser 10 metros de coluna d’água sempre.", "correct": false },
+      { "text": "A pressão é irrelevante quando existem válvulas redutoras.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual ajuste evita sobrepressões acima de 100 metros de coluna d’água?",
+    "answers": [
+      { "text": "Selecionar bomba e ponto de operação compatíveis com os limites do sistema.", "correct": true },
+      { "text": "Aumentar o diâmetro de todas as mangueiras de ataque.", "correct": false },
+      { "text": "Fechar parcialmente o registro do barrilete para restringir a vazão.", "correct": false },
+      { "text": "Ativar a jockey e desligar a principal durante o combate.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quais são os modos de acionamento previstos para o sistema de comando?",
+    "answers": [
+      { "text": "Automático por chaves de fluxo e pressostatos, e manual por botoeiras.", "correct": true },
+      { "text": "Somente automático por sensores de fumaça e temperatura.", "correct": false },
+      { "text": "Exclusivamente manual por chave geral no painel elétrico.", "correct": false },
+      { "text": "Automático por hidrante público e manual pelo hidrômetro.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual requisito de alimentação elétrica se aplica às bombas de incêndio?",
+    "answers": [
+      { "text": "Ligação elétrica independente daquela do edifício.", "correct": true },
+      { "text": "Conexão direta aos quadros de tomadas de uso geral.", "correct": false },
+      { "text": "Interligação ao circuito de iluminação de emergência.", "correct": false },
+      { "text": "Alimentação por extensão temporária durante o sinistro.", "correct": false }
+    ]
+  },
+  {
+    "question": "Onde a chave de fluxo deve ser instalada para leitura adequada?",
+    "answers": [
+      { "text": "Na direção do escoamento, evitando trechos próximos a mudanças bruscas.", "correct": true },
+      { "text": "A jusante imediato de cotovelos para aumentar a sensibilidade.", "correct": false },
+      { "text": "Em derivação cega com água parada para evitar vibração.", "correct": false },
+      { "text": "Sobre válvulas de bloqueio para servir como limitador de curso.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é o princípio de atuação do pressostato no sistema de comando?",
+    "answers": [
+      { "text": "Acionamento automático por queda da pressão de rede.", "correct": true },
+      { "text": "Acionamento manual por botoeira local na casa de bombas.", "correct": false },
+      { "text": "Desligamento automático da bomba principal por temporizador.", "correct": false },
+      { "text": "Equalização de pressão com a via pública pelo recalque externo.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é a finalidade das botoeiras no contexto do sistema de comando?",
+    "answers": [
+      { "text": "Permitir acionamento manual da bomba de incêndio em pontos estratégicos.", "correct": true },
+      { "text": "Realizar o desligamento automático quando a pressão estabiliza.", "correct": false },
+      { "text": "Liberar o acesso à casa de bombas por controle de presença.", "correct": false },
+      { "text": "Atuar como válvula de retenção em linhas de sucção.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é o diâmetro mínimo especificado para a tubulação do sistema de hidrantes?",
+    "answers": [
+      { "text": "63 mm (2 1/2\")", "correct": true },
+      { "text": "50 mm (1 1/2\")", "correct": false },
+      { "text": "75 mm (3\")", "correct": false },
+      { "text": "40 mm (1 1/4\")", "correct": false }
+    ]
+  },
+  {
+    "question": "Quais materiais são indicados para tubulação aérea do sistema de distribuição?",
+    "answers": [
+      { "text": "Aço preto, ferro galvanizado (FG) e cobre.", "correct": true },
+      { "text": "PVC rígido e PEAD.", "correct": false },
+      { "text": "CPVC exclusivo para água quente.", "correct": false },
+      { "text": "PPR verde para redes sanitárias.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual material é indicado para tubulação subterrânea do sistema de hidrantes?",
+    "answers": [
+      { "text": "PVC rígido.", "correct": true },
+      { "text": "Cobre flexível.", "correct": false },
+      { "text": "Aço inox corrugado (flexível).", "correct": false },
+      { "text": "PPR de uso sanitário.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é a padronização de cores para a rede aparente de hidrantes e seus acessórios?",
+    "answers": [
+      { "text": "Tubulação vermelha; conexões e registros amarelos.", "correct": true },
+      { "text": "Tubulação amarela; registros e conexões vermelhos.", "correct": false },
+      { "text": "Toda a rede na cor cinza industrial.", "correct": false },
+      { "text": "Tubulação azul; registros verdes.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual critério de teste de estanquidade está correto para a rede de hidrantes?",
+    "answers": [
+      { "text": "Pressão de 2x a pressão de trabalho ou 150 mca, por 2 horas.", "correct": true },
+      { "text": "Pressão de 1,1x a pressão de trabalho por 30 minutos.", "correct": false },
+      { "text": "Pressão de 250 mca por 10 minutos.", "correct": false },
+      { "text": "Pressão igual à pressão de trabalho por 1 hora.", "correct": false }
+    ]
+  },
+  {
+    "question": "Para mitigar o golpe de aríete, qual requisito deve ser observado nas válvulas?",
+    "answers": [
+      { "text": "Tempo de fechamento superior a 5 segundos.", "correct": true },
+      { "text": "Fechamento instantâneo para evitar retorno.", "correct": false },
+      { "text": "Abertura e fechamento por solenoide de pulso.", "correct": false },
+      { "text": "Fechamento parcial até metade do curso.", "correct": false }
+    ]
+  },
+  {
+    "question": "Em relação ao sistema de hidrantes, como se caracteriza a descarga de água do sistema de mangotinho?",
+    "answers": [
+      { "text": "Menor descarga, porém adequada ao risco da área protegida.", "correct": true },
+      { "text": "Maior descarga, adequada apenas a áreas externas.", "correct": false },
+      { "text": "Igual descarga, independente do risco local.", "correct": false },
+      { "text": "Descarga variável apenas por ação do esguicho.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual vantagem operacional é típica do sistema de mangotinho?",
+    "answers": [
+      { "text": "Facilidade e rapidez de operação.", "correct": true },
+      { "text": "Demanda de equipe mínima de três pessoas.", "correct": false },
+      { "text": "Dependência de viatura para pressurização inicial.", "correct": false },
+      { "text": "Necessidade de desenrolar mangueiras rígidas completas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Sobre o uso do mangotinho ao retirar a mangueira do abrigo, qual afirmação procede?",
+    "answers": [
+      { "text": "Funciona com qualquer comprimento desdobrado.", "correct": true },
+      { "text": "Exige a retirada completa de toda a mangueira.", "correct": false },
+      { "text": "Opera somente com metade do comprimento nominal.", "correct": false },
+      { "text": "Não admite variação do comprimento em uso.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quanto à cobertura, qual condição deve ser atendida pela instalação do mangotinho?",
+    "answers": [
+      { "text": "Qualquer ponto da área a proteger deve ser alcançado pelo jato d’água.", "correct": true },
+      { "text": "Apenas metade da área deve ser atingida, com apoio de extintores.", "correct": false },
+      { "text": "O jato deve cobrir somente as rotas de fuga.", "correct": false },
+      { "text": "A cobertura pode ser parcial quando houver sprinklers.", "correct": false }
+    ]
+  },
+  {
+    "question": "Como se define uma saída de emergência segundo o conteúdo apresentado?",
+    "answers": [
+      { "text": "Caminho contínuo, protegido e sinalizado, que leva o usuário com segurança até a via pública ou área de refúgio.", "correct": true },
+      { "text": "Corredor ventilado destinado apenas à circulação de serviço interno.", "correct": false },
+      { "text": "Abertura direta para o exterior usada exclusivamente por brigadistas.", "correct": false },
+      { "text": "Espaço de ventilação natural projetado para controle de fumaça.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é o principal objetivo das saídas de emergência em uma edificação?",
+    "answers": [
+      { "text": "Permitir que a população abandone o local protegida em sua integridade física.", "correct": true },
+      { "text": "Facilitar o controle de acesso de visitantes durante o expediente.", "correct": false },
+      { "text": "Permitir evacuação parcial apenas de áreas administrativas.", "correct": false },
+      { "text": "Servir como ventilação auxiliar para redução de calor.", "correct": false }
+    ]
+  },
+  {
+    "question": "Além da evacuação, qual outro objetivo das saídas de emergência é destacado?",
+    "answers": [
+      { "text": "Permitir o acesso das guarnições de bombeiros para combate e resgate.", "correct": true },
+      { "text": "Servir como rota exclusiva para veículos de emergência.", "correct": false },
+      { "text": "Abastecer o sistema de hidrantes por sucção natural.", "correct": false },
+      { "text": "Reduzir a temperatura interna da edificação em incêndios leves.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quais normas brasileiras tratam diretamente das saídas de emergência em edificações?",
+    "answers": [
+      { "text": "NBR 9077/01, NBR 9050/04 e IT 11 e 12/2016.", "correct": true },
+      { "text": "NBR 13714/00 e NBR 5667/06.", "correct": false },
+      { "text": "NBR 15200/12 e NBR 10897/10.", "correct": false },
+      { "text": "NBR 5410/04 e NBR 14023/15.", "correct": false }
+    ]
+  },
+  {
+    "question": "As saídas de emergência classificadas no plano horizontal incluem:",
+    "answers": [
+      { "text": "Portas, corredores, saguões, passarelas, varandas e sacadas.", "correct": true },
+      { "text": "Escadas enclausuradas e rampas inclinadas.", "correct": false },
+      { "text": "Elevadores de emergência e dutos de ventilação.", "correct": false },
+      { "text": "Apenas portas de acesso às escadas de segurança.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quais elementos são exemplos de saídas no plano vertical?",
+    "answers": [
+      { "text": "Escadas, rampas e elevadores de emergência.", "correct": true },
+      { "text": "Corredores e varandas externas.", "correct": false },
+      { "text": "Halls de entrada e portas de serviço.", "correct": false },
+      { "text": "Sacadas e passarelas interligadas.", "correct": false }
+    ]
+  }
+]
