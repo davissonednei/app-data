@@ -1,0 +1,79 @@
+[
+  {
+    "question": "Segundo as diretrizes discutidas no seminário da KAN, qual é o principal risco da apresentação de dados complexos em tempo real aos usuários de EPI inteligentes?",
+    "answers": [
+      { "text": "Falha na transmissão criptografada dos dados.", "correct": false },
+      { "text": "Sobrecarga de informação, dificultando a tomada de decisão rápida.", "correct": true },
+      { "text": "Dificuldade em compartilhar dados com supervisores remotos.", "correct": false },
+      { "text": "Limitações no armazenamento local dos dados coletados.", "correct": false },
+      { "text": "Desconexão automática do sistema em ambientes com pouca luminosidade.", "correct": false }
+    ]
+  },
+  {
+    "question": "Os Equipamentos de Proteção Individual (EPIs) inteligentes representam um avanço tecnológico importante no trabalho dos bombeiros. Qual das alternativas a seguir descreve corretamente uma funcionalidade típica desses equipamentos?",
+    "answers": [
+      { "text": "Permitem que os bombeiros respirem sem o uso de cilindros de oxigênio.", "correct": false },
+      { "text": "São capazes de extinguir pequenos focos de incêndio automaticamente.", "correct": false },
+      { "text": "Monitoram sinais vitais e condições ambientais, transmitindo dados em tempo real para a central de comando.", "correct": true },
+      { "text": "Possuem blindagem contra balas para atuar em áreas de risco urbano.", "correct": false },
+      { "text": "Funcionam apenas em ambientes com conexão à internet de alta velocidade.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual das alternativas abaixo melhor descreve a principal transformação ocorrida na transição da Era da Conectividade e Sensoriamento (anos 2010) para a Consolidação dos EPIs Inteligentes (anos 2020)?",
+    "answers": [
+      { "text": "A substituição completa dos EPIs tradicionais por exoesqueletos e tecidos inteligentes, com foco exclusivo na ergonomia e conforto do trabalhador.", "correct": false },
+      { "text": "A introdução dos primeiros sensores eletrônicos simples e dispositivos com funções de alarme sonoro, marcando o início da automação nos EPIs.", "correct": false },
+      { "text": "A evolução dos EPIs de dispositivos com sensores isolados para sistemas integrados com tecnologias como IA, GPS, realidade aumentada e conectividade em tempo real.", "correct": true },
+      { "text": "O desenvolvimento de EPIs com capacidade limitada de coleta de dados, ainda sem integração com plataformas ou comunicação em rede.", "correct": false },
+      { "text": "A eliminação da responsabilidade do usuário quanto à segurança pessoal, transferida integralmente para sistemas automatizados de supervisão baseados em nuvem.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual das seguintes características é um benefício técnico principal de um Sistema de Comunicação por Rede Mesh para bombeiros?",
+    "answers": [
+      { "text": "Ele exige um ponto central de comunicação fixo para funcionar, garantindo uma conexão estável.", "correct": false },
+      { "text": "Sua principal função é apenas transmitir dados de saúde do bombeiro para uma central.", "correct": false },
+      { "text": "Permite que a rede se auto-reconfigure dinamicamente, mantendo a comunicação mesmo se um dispositivo falhar, garantindo alta resiliência e cobertura.", "correct": true },
+      { "text": "É uma tecnologia exclusiva para a transmissão de imagens térmicas do capacete.", "correct": false },
+      { "text": "Opera com alta latência, priorizando a segurança em detrimento da velocidade da comunicação.", "correct": false }
+    ]
+  },
+  {
+    "question": "Sobre os EPIs Inteligentes, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa: ( ) Os EPI’s inteligentes proporcionam níveis mais elevados de proteção e de conforto através da utilização de materiais melhorados ou de componentes eletrônicos. ( ) Um aspecto positivo do macacão com sensores de saúde integrados é que ele pode ser programado para acionar o resfriamento automático em regiões do corpo. ( ) São exemplos de EPI’s inteligentes: sensores térmicos, câmeras integradas, sensores de substâncias químicas e risco elétrico. As afirmativas são, respectivamente:",
+    "answers": [
+      { "text": "V – V – V.", "correct": true },
+      { "text": "F – F – F.", "correct": false },
+      { "text": "V – F – V.", "correct": false },
+      { "text": "F – F – V.", "correct": false },
+      { "text": "F – V – F.", "correct": false }
+    ]
+  },
+  {
+    "question": "Em uma operação urbana de incêndio com múltiplas equipes atuando simultaneamente, a comunicação operacional entre os bombeiros deve priorizar:",
+    "answers": [
+      { "text": "O uso de aplicativos de mensagens instantâneas por celular.", "correct": false },
+      { "text": "A gravação das ações para futura análise institucional.", "correct": false },
+      { "text": "A coordenação direta entre guarnições por meio de canais de rádio definidos.", "correct": true },
+      { "text": "O acionamento de sirenes para sinalizar mudanças de estratégia.", "correct": false }
+    ]
+  },
+  {
+    "question": "Durante uma operação em local sem cobertura de rede móvel e sem infraestrutura de rádio local, a alternativa mais eficaz e imediata para restabelecer a comunicação é:",
+    "answers": [
+      { "text": "Solicitar reforço de equipes com rádios mais potentes.", "correct": false },
+      { "text": "Utilizar sinalizadores luminosos para comunicação visual.", "correct": false },
+      { "text": "Montar uma antena improvisada utilizando equipamentos do caminhão de combate.", "correct": false },
+      { "text": "Acionar sistemas de comunicação via satélite com terminais portáteis.", "correct": true }
+    ]
+  },
+  {
+    "question": "Em redes mesh aplicadas a operações de campo do Corpo de Bombeiros, uma das principais características é:",
+    "answers": [
+      { "text": "A necessidade de linha de visão direta entre todos os nós para comunicação.", "correct": false },
+      { "text": "O funcionamento exclusivo com internet terrestre (fibra ou ADSL).", "correct": false },
+      { "text": "A capacidade de rerotear os dados automaticamente mesmo com falhas em parte da rede.", "correct": true },
+      { "text": "A dependência de um nó mestre que centraliza todo o tráfego de dados.", "correct": false }
+    ]
+  }
+]
