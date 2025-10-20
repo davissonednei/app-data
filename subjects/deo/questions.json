@@ -1,0 +1,527 @@
+[
+  {
+    "question": "Quais princípios da andragogia são essenciais para instrução de adultos militares?",
+    "answers": [
+      {
+        "text": "Necessidade de saber, auto-conceito, experiência prévia, prontidão, orientação para problemas e motivação interna.",
+        "correct": true
+      },
+      {
+        "text": "Dependência total do instrutor, foco em memorização e motivação extrínseca exclusivamente.",
+        "correct": false
+      },
+      {
+        "text": "Aprendizagem centrada em conteúdo abstrato sem vínculo com a prática.",
+        "correct": false
+      },
+      {
+        "text": "Uso predominante de provas longas e leitura silenciosa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em planejamento de ensino, qual sequência é mais adequada?",
+    "answers": [
+      {
+        "text": "Diagnóstico do público → objetivos → conteúdo → métodos → recursos → avaliação → cronograma.",
+        "correct": true
+      },
+      {
+        "text": "Escolha de slides → avaliação → métodos → conteúdo → objetivos → diagnóstico.",
+        "correct": false
+      },
+      {
+        "text": "Objetivos → diagnóstico → conteúdo → cronograma → recursos → métodos.",
+        "correct": false
+      },
+      {
+        "text": "Cronograma → recursos → avaliação → diagnóstico → objetivos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na Taxonomia de Bloom revisada, qual é a ordem correta do nível mais baixo ao mais alto?",
+    "answers": [
+      {
+        "text": "Lembrar → Entender → Aplicar → Analisar → Avaliar → Criar.",
+        "correct": true
+      },
+      {
+        "text": "Entender → Lembrar → Aplicar → Criar → Analisar → Avaliar.",
+        "correct": false
+      },
+      {
+        "text": "Criar → Avaliar → Analisar → Aplicar → Entender → Lembrar.",
+        "correct": false
+      },
+      {
+        "text": "Aplicar → Lembrar → Entender → Avaliar → Criar → Analisar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual exemplo representa um objetivo bem formulado (específico e avaliável)?",
+    "answers": [
+      {
+        "text": "Ao final da aula, o cadete será capaz de aplicar os 9 eventos de Gagné na condução de uma instrução simulada.",
+        "correct": true
+      },
+      {
+        "text": "Ensinar bem a turma a planejar aulas interessantes.",
+        "correct": false
+      },
+      {
+        "text": "Explicar tudo sobre didática e oratória em uma manhã.",
+        "correct": false
+      },
+      {
+        "text": "Falar de Gagné, Bloom e avaliação quando der tempo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Entre os 9 eventos de instrução de Gagné, qual ação corresponde a 'estimular a recordação de pré-requisitos'?",
+    "answers": [
+      {
+        "text": "Solicitar que os alunos relatem experiências prévias relevantes antes de apresentar o novo conteúdo.",
+        "correct": true
+      },
+      {
+        "text": "Apresentar os objetivos ao final da aula.",
+        "correct": false
+      },
+      {
+        "text": "Aplicar uma prova surpresa antes do conteúdo.",
+        "correct": false
+      },
+      {
+        "text": "Entregar um certificado de participação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual característica define melhor a avaliação formativa?",
+    "answers": [
+      {
+        "text": "Acompanha o processo de aprendizagem para ajustar a instrução com feedback contínuo.",
+        "correct": true
+      },
+      {
+        "text": "Ocorre apenas ao final do curso e atribui nota final.",
+        "correct": false
+      },
+      {
+        "text": "Substitui a necessidade de objetivos claros.",
+        "correct": false
+      },
+      {
+        "text": "É sempre feita por prova objetiva sem comentários.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em metodologias ativas, qual alternativa é coerente com aprendizagem centrada no aluno?",
+    "answers": [
+      {
+        "text": "PBL/ABP, estudo de caso, simulações e sala de aula invertida com tarefas prévias.",
+        "correct": true
+      },
+      {
+        "text": "Aulas expositivas longas com pouca interação.",
+        "correct": false
+      },
+      {
+        "text": "Memorização mecânica de apostilas sem prática.",
+        "correct": false
+      },
+      {
+        "text": "Leitura silenciosa sem discussão ou feedback.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual estratégia é mais eficaz para o 'gancho' nos primeiros 90 segundos da apresentação?",
+    "answers": [
+      {
+        "text": "Narrar um mini-caso real e conectar explicitamente com o objetivo da aula.",
+        "correct": true
+      },
+      {
+        "text": "Ler todas as referências bibliográficas.",
+        "correct": false
+      },
+      {
+        "text": "Exibir um slide com parágrafo de texto corrido.",
+        "correct": false
+      },
+      {
+        "text": "Solicitar silêncio absoluto por 1 minuto sem contexto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na comunicação de risco e crise, qual princípio deve orientar a fala do instrutor/comandante?",
+    "answers": [
+      {
+        "text": "Clareza, concisão e veracidade com foco em ações imediatas e orientações práticas.",
+        "correct": true
+      },
+      {
+        "text": "Uso de jargões técnicos extensos para demonstrar autoridade.",
+        "correct": false
+      },
+      {
+        "text": "Evitar admitir incertezas ou limitações.",
+        "correct": false
+      },
+      {
+        "text": "Priorizar humor para aliviar tensões em qualquer situação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre linguagem corporal na oratória, qual afirmação é mais adequada?",
+    "answers": [
+      {
+        "text": "Postura aberta, contato visual distribuído e gestos congruentes reforçam a mensagem.",
+        "correct": true
+      },
+      {
+        "text": "Braços cruzados e olhar fixo no chão passam segurança.",
+        "correct": false
+      },
+      {
+        "text": "Movimentação constante sem propósito mantém a atenção.",
+        "correct": false
+      },
+      {
+        "text": "Evitar pausas para não perder o ritmo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual prática vocal ajuda a manter a clareza e o engajamento?",
+    "answers": [
+      {
+        "text": "Variar ritmo e entonação, usando pausas estratégicas para ênfase.",
+        "correct": true
+      },
+      {
+        "text": "Falar o mais rápido possível para mostrar domínio.",
+        "correct": false
+      },
+      {
+        "text": "Sussurrar para criar clima de confidência.",
+        "correct": false
+      },
+      {
+        "text": "Evitar respirar fundo para não interromper a fala.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que diferencia um conteúdo 'essencial' de 'acessório' na seleção do que vai para o slide?",
+    "answers": [
+      {
+        "text": "Essencial apoia o objetivo da aula e a ação do aluno; acessório é detalhe que pode ficar em material de apoio.",
+        "correct": true
+      },
+      {
+        "text": "Essencial é todo o texto do capítulo; acessório é qualquer imagem.",
+        "correct": false
+      },
+      {
+        "text": "Essencial são citações longas; acessório é resumo.",
+        "correct": false
+      },
+      {
+        "text": "Essencial é humor; acessório é dado técnico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao elaborar slides, qual diretriz é mais recomendada?",
+    "answers": [
+      {
+        "text": "Alta legibilidade: pouco texto, tópicos curtos e contraste adequado.",
+        "correct": true
+      },
+      {
+        "text": "Texto corrido em parágrafos longos para evitar dúvidas.",
+        "correct": false
+      },
+      {
+        "text": "Múltiplas fontes e cores para 'dinamizar'.",
+        "correct": false
+      },
+      {
+        "text": "Transições complexas em todos os slides.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual técnica de storytelling pode estruturar a narrativa de uma aula?",
+    "answers": [
+      {
+        "text": "Situação → Complicação → Solução, conectando com o objetivo da aprendizagem.",
+        "correct": true
+      },
+      {
+        "text": "Início sem contexto → dados soltos → encerramento abrupto.",
+        "correct": false
+      },
+      {
+        "text": "Listar conceitos sem exemplos até o final.",
+        "correct": false
+      },
+      {
+        "text": "Focar apenas em definições e siglas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é a melhor forma de lidar com o nervosismo antes de falar em público?",
+    "answers": [
+      {
+        "text": "Preparação com roteiro, prática deliberada e respiração diafragmática.",
+        "correct": true
+      },
+      {
+        "text": "Evitar ensaiar para parecer 'natural'.",
+        "correct": false
+      },
+      {
+        "text": "Beber muito café para ficar mais alerta.",
+        "correct": false
+      },
+      {
+        "text": "Começar pedindo desculpas pelo desempenho.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Durante a condução de perguntas da plateia, o que é mais indicado?",
+    "answers": [
+      {
+        "text": "Ouvir até o fim, parafrasear a pergunta e responder de forma objetiva.",
+        "correct": true
+      },
+      {
+        "text": "Interromper para manter o ritmo.",
+        "correct": false
+      },
+      {
+        "text": "Responder com outra pergunta evasiva.",
+        "correct": false
+      },
+      {
+        "text": "Ignorar dúvidas para não perder tempo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual combinação é mais alinhada a avaliação justa e transparente?",
+    "answers": [
+      {
+        "text": "Critérios explícitos (rubrica), pesos definidos e feedback específico e tempestivo.",
+        "correct": true
+      },
+      {
+        "text": "Critérios implícitos e avaliação surpresa.",
+        "correct": false
+      },
+      {
+        "text": "Nota baseada em impressão geral do instrutor.",
+        "correct": false
+      },
+      {
+        "text": "Apenas presença como critério de aprovação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual prática de feedback é mais útil para melhoria de desempenho?",
+    "answers": [
+      {
+        "text": "Descrever comportamento, impacto e sugestão (ex.: método SBI) focando na próxima ação.",
+        "correct": true
+      },
+      {
+        "text": "Avaliar a pessoa, não o comportamento.",
+        "correct": false
+      },
+      {
+        "text": "Aguardar semanas para comentar o desempenho.",
+        "correct": false
+      },
+      {
+        "text": "Elogiar genericamente sem referência a evidências.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No planejamento de ensino, o que caracteriza a 'coerência interna'?",
+    "answers": [
+      {
+        "text": "Aderência entre diagnóstico, objetivos, métodos, avaliação e resultados esperados.",
+        "correct": true
+      },
+      {
+        "text": "Uso do mesmo template de slide em todas as aulas.",
+        "correct": false
+      },
+      {
+        "text": "Quantidade máxima de atividades por encontro.",
+        "correct": false
+      },
+      {
+        "text": "Troca de conteúdos conforme preferências pessoais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual método ativo é mais apropriado para treinar tomada de decisão em emergências?",
+    "answers": [
+      {
+        "text": "Simulação com cenários realistas e debriefing estruturado.",
+        "correct": true
+      },
+      {
+        "text": "Leitura silenciosa de manuais.",
+        "correct": false
+      },
+      {
+        "text": "Exposição teórica sem prática.",
+        "correct": false
+      },
+      {
+        "text": "Questionário de múltipla escolha sem discussão.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é o papel do 'encerramento' em uma boa apresentação?",
+    "answers": [
+      {
+        "text": "Reforçar pontos-chave e indicar próxima ação/treino esperado.",
+        "correct": true
+      },
+      {
+        "text": "Abrir novos tópicos não tratados.",
+        "correct": false
+      },
+      {
+        "text": "Repetir todos os slides lidos.",
+        "correct": false
+      },
+      {
+        "text": "Agradecer e encerrar sem conclusão.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que significa adequar a linguagem ao público-alvo?",
+    "answers": [
+      {
+        "text": "Escolher termos, exemplos e profundidade conforme contexto e experiência dos participantes.",
+        "correct": true
+      },
+      {
+        "text": "Manter linguagem padronizada para qualquer público.",
+        "correct": false
+      },
+      {
+        "text": "Usar siglas e jargões extensivamente.",
+        "correct": false
+      },
+      {
+        "text": "Evitar exemplos práticos para não 'simplificar demais'.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para slides, qual prática favorece retenção sem 'poluir' a tela?",
+    "answers": [
+      {
+        "text": "Tópicos curtos com verbos de ação, ícones simples e espaço em branco.",
+        "correct": true
+      },
+      {
+        "text": "Textos longos justificados e múltiplas tabelas pequenas.",
+        "correct": false
+      },
+      {
+        "text": "Animações e sons em cada item.",
+        "correct": false
+      },
+      {
+        "text": "Fonte pequena para caber mais conteúdo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em apresentação técnica, qual é a melhor prática ao citar dados e fontes?",
+    "answers": [
+      {
+        "text": "Apontar a origem de forma clara no slide/notas e saber explicar a metodologia de forma resumida.",
+        "correct": true
+      },
+      {
+        "text": "Omitir a fonte para evitar distrações.",
+        "correct": false
+      },
+      {
+        "text": "Usar números arredondados sem contexto.",
+        "correct": false
+      },
+      {
+        "text": "Citar 'pesquisas dizem' sem referência.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual atitude deve ser evitada na postura do orador?",
+    "answers": [
+      {
+        "text": "Arrogância e desqualificação de colegas, que corroem a credibilidade.",
+        "correct": true
+      },
+      {
+        "text": "Humildade intelectual e abertura a perguntas.",
+        "correct": false
+      },
+      {
+        "text": "Reconhecer limites e buscar fontes.",
+        "correct": false
+      },
+      {
+        "text": "Valorizar a cooperação e o respeito.",
+        "correct": false
+      }
+    ]
+  }
+]
