@@ -358,5 +358,1098 @@
       { "text": "Halls de entrada e portas de serviço.", "correct": false },
       { "text": "Sacadas e passarelas interligadas.", "correct": false }
     ]
+  },
+  {
+    "question": "Segundo a IT 01 (Procedimentos Administrativos), quando o Projeto Técnico (PT) é obrigatório?",
+    "answers": [
+      {
+        "text": "Área > 750 m² e/ou altura > 3 pavimentos, ou quando houver sistemas fixos (hidrantes, sprinklers, alarme etc.) e para o grupo L.",
+        "correct": true
+      },
+      {
+        "text": "Apenas quando a edificação tiver subsolos e heliponto, independente da área.",
+        "correct": false
+      },
+      {
+        "text": "Somente quando houver depósito de GLP acima de 190 kg.",
+        "correct": false
+      },
+      {
+        "text": "Apenas quando houver rotas de fuga pressurizadas e elevador de emergência.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual modalidade contempla circos, feiras e demais instalações temporárias por até 6 meses?",
+    "answers": [
+      {
+        "text": "PTIOT – Projeto para Instalação Temporária.",
+        "correct": true
+      },
+      {
+        "text": "PTOTEP – Projeto para Ocupação Temporária em Edificação Permanente.",
+        "correct": false
+      },
+      {
+        "text": "PTS – Projeto Técnico Simplificado.",
+        "correct": false
+      },
+      {
+        "text": "FAT – Formulário de Atendimento Técnico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual documento atesta a aprovação de um projeto de segurança contra incêndio no CBMBA?",
+    "answers": [
+      {
+        "text": "ACP – Atestado de Conformidade de Projeto.",
+        "correct": true
+      },
+      {
+        "text": "AVCB – Auto de Vistoria do Corpo de Bombeiros.",
+        "correct": false
+      },
+      {
+        "text": "ART/RRT – Documento de Responsabilidade Técnica.",
+        "correct": false
+      },
+      {
+        "text": "FAT – Formulário de Atendimento Técnico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na apresentação do PT, quais são itens básicos de composição?",
+    "answers": [
+      {
+        "text": "Formulário, ART/RRT, peças gráficas e memorial descritivo rubricado pelo RT.",
+        "correct": true
+      },
+      {
+        "text": "Memorial de cálculo, laudo elétrico, inventário de materiais e PPRA.",
+        "correct": false
+      },
+      {
+        "text": "Somente plantas e cortes, dispensando memorial.",
+        "correct": false
+      },
+      {
+        "text": "Apenas formulário e ART/RRT, sem anexos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais documentos complementares podem ser exigidos no PT conforme a IT 01?",
+    "answers": [
+      {
+        "text": "Memorial industrial, memorial de cálculo, sistema de gases e carga de incêndio.",
+        "correct": true
+      },
+      {
+        "text": "Plano de evacuação de vírus, laudo ergonômico e PGRSS.",
+        "correct": false
+      },
+      {
+        "text": "Somente laudo estrutural e inspeção de pára-raios.",
+        "correct": false
+      },
+      {
+        "text": "Apenas termo de responsabilidade e checklist fotográfico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devem ser apresentadas as plantas do projeto, segundo a IT 01?",
+    "answers": [
+      {
+        "text": "Em formatos A4 a A0, medidas de segurança em vermelho, símbolos conforme IT 04 e escalas padronizadas.",
+        "correct": true
+      },
+      {
+        "text": "Em qualquer formato, sem padronização de cores e símbolos.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente em A0 e em cores livres por disciplina.",
+        "correct": false
+      },
+      {
+        "text": "Somente em A4 com indicação manuscrita dos sistemas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é o canal de protocolo e o prazo de análise do PT na IT 01?",
+    "answers": [
+      {
+        "text": "Protocolo eletrônico (PDF) via Sistema Fênix; análise em até 60 dias por ordem cronológica.",
+        "correct": true
+      },
+      {
+        "text": "Entrega física no quartel e análise imediata em 5 dias.",
+        "correct": false
+      },
+      {
+        "text": "Envio por e-mail e análise em até 90 dias em regime excepcional.",
+        "correct": false
+      },
+      {
+        "text": "Protocolo via ofício e retorno sem prazo definido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Durante a vistoria para emissão do AVCB, qual requisito é destacado na IT 01?",
+    "answers": [
+      {
+        "text": "Presença de pessoa apta a demonstrar o funcionamento dos sistemas e documentação comprobatória.",
+        "correct": true
+      },
+      {
+        "text": "Dispensa de acompanhamento técnico e de comprovação documental.",
+        "correct": false
+      },
+      {
+        "text": "Exigência apenas de ART de projeto, sem comprovação de instalação.",
+        "correct": false
+      },
+      {
+        "text": "Somente memorial descritivo assinado é suficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é a validade usual do AVCB indicada na apresentação da IT 01?",
+    "answers": [
+      {
+        "text": "1 ano para edificações permanentes; até 6 meses para temporárias.",
+        "correct": true
+      },
+      {
+        "text": "5 anos para permanentes; 1 ano para temporárias.",
+        "correct": false
+      },
+      {
+        "text": "Indeterminada, a critério do responsável técnico.",
+        "correct": false
+      },
+      {
+        "text": "2 anos para permanentes; 1 ano para temporárias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual instrumento permite esclarecimentos, retificações e revisões com resposta em até 10 dias úteis?",
+    "answers": [
+      {
+        "text": "FAT – Formulário para Atendimento Técnico.",
+        "correct": true
+      },
+      {
+        "text": "PTOTEP – Projeto para Ocupação Temporária.",
+        "correct": false
+      },
+      {
+        "text": "ACP – Atestado de Conformidade de Projeto.",
+        "correct": false
+      },
+      {
+        "text": "Comissão Técnica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando se recorre à Comissão Técnica segundo a IT 01?",
+    "answers": [
+      {
+        "text": "Quando persistirem discordâncias após argumentações, com decisão em até 60 dias.",
+        "correct": true
+      },
+      {
+        "text": "Sempre antes da análise técnica do PT.",
+        "correct": false
+      },
+      {
+        "text": "Somente para projetos de ocupação em eventos desportivos.",
+        "correct": false
+      },
+      {
+        "text": "Apenas para empreendimentos do grupo L (explosivos).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais são itens típicos exigidos para a vistoria segundo a IT 01?",
+    "answers": [
+      {
+        "text": "ART/RRT de instalação/manutenção, atestado de brigada, planilha de informações operacionais e taxa.",
+        "correct": true
+      },
+      {
+        "text": "Somente comprovante de pagamento de taxa.",
+        "correct": false
+      },
+      {
+        "text": "Apenas projeto arquitetônico aprovado pela prefeitura.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente laudo elétrico e CNPJ.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em caso de alterações prejudiciais às medidas de segurança, o que pode ocorrer com o AVCB?",
+    "answers": [
+      {
+        "text": "Cassação, com prazo para correção das não conformidades.",
+        "correct": true
+      },
+      {
+        "text": "Conversão automática em ACP.",
+        "correct": false
+      },
+      {
+        "text": "Prorrogação compulsória por mais 6 meses.",
+        "correct": false
+      },
+      {
+        "text": "Substituição por laudo de responsabilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual documentação deve ser rubricada pelo RT, conforme a IT 01?",
+    "answers": [
+      {
+        "text": "Memorial descritivo (todas as páginas).",
+        "correct": true
+      },
+      {
+        "text": "Somente as plantas baixas.",
+        "correct": false
+      },
+      {
+        "text": "Apenas o formulário de segurança.",
+        "correct": false
+      },
+      {
+        "text": "Isométricos e cortes, exclusivamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é o conceito de medidas de segurança contra incêndio e pânico (SCIP)?",
+    "answers": [
+      {
+        "text": "Conjunto de dispositivos/sistemas para evitar, limitar propagação, extinguir o incêndio e proteger vida, meio ambiente e patrimônio.",
+        "correct": true
+      },
+      {
+        "text": "Apenas equipamentos para extinguir incêndios após propagação generalizada.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente sistemas de detecção endereçável.",
+        "correct": false
+      },
+      {
+        "text": "Somente elementos construtivos de compartimentação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como as medidas de SCIP são classificadas?",
+    "answers": [
+      {
+        "text": "Passivas (independem de ação) e ativas (dependem de ação).",
+        "correct": true
+      },
+      {
+        "text": "Preventivas e reativas apenas.",
+        "correct": false
+      },
+      {
+        "text": "Estruturais e elétricas.",
+        "correct": false
+      },
+      {
+        "text": "Obrigatórias e facultativas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual item NÃO integra o rol de medidas de SCIP da apresentação?",
+    "answers": [
+      {
+        "text": "Plano de cargos e salários.",
+        "correct": true
+      },
+      {
+        "text": "Saídas de emergência.",
+        "correct": false
+      },
+      {
+        "text": "Controle de fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Brigada de incêndio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre extintores, qual afirmativa está correta?",
+    "answers": [
+      {
+        "text": "Um extintor de pó ABC pode substituir qualquer tipo específico das classes A, B e C dentro da edificação.",
+        "correct": true
+      },
+      {
+        "text": "Extintores podem ser instalados em escadas para facilitar o acesso.",
+        "correct": false
+      },
+      {
+        "text": "É proibida a instalação de unidade extintora única em áreas < 50 m².",
+        "correct": false
+      },
+      {
+        "text": "A altura do suporte na parede deve ser sempre a 2,0 m do piso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual regra de instalação de extintores é destacada?",
+    "answers": [
+      {
+        "text": "Altura do suporte até 1,60 m; base mínima a 0,10 m do piso quando em suporte.",
+        "correct": true
+      },
+      {
+        "text": "Instalação obrigatória em escadas enclausuradas.",
+        "correct": false
+      },
+      {
+        "text": "Somente extintores sobre rodas são aceitos em alto risco.",
+        "correct": false
+      },
+      {
+        "text": "Dispensa de sinalização conforme IT 20.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é o mínimo por pavimento quanto a unidades extintoras, segundo a apresentação?",
+    "answers": [
+      {
+        "text": "Duas unidades: uma para classe A e outra para classe B/C (ou duas ABC).",
+        "correct": true
+      },
+      {
+        "text": "Uma unidade qualquer, independente da ocupação.",
+        "correct": false
+      },
+      {
+        "text": "Três unidades obrigatórias, todas CO₂.",
+        "correct": false
+      },
+      {
+        "text": "Não há requisito mínimo por pavimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos postos de abastecimento com tanques enterrados, qual medida adicional é citada?",
+    "answers": [
+      {
+        "text": "Extintor portátil de pó ABC/BC ou espuma mecânica por bomba de abastecimento, em local de fácil acesso.",
+        "correct": true
+      },
+      {
+        "text": "Dispensa de extintores por existir hidrante público na via.",
+        "correct": false
+      },
+      {
+        "text": "Apenas extintores sobre rodas são aceitos.",
+        "correct": false
+      },
+      {
+        "text": "Extintores podem ser colocados dentro de salas técnicas fechadas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quanto à certificação e validade dos extintores, assinale a correta:",
+    "answers": [
+      {
+        "text": "Devem ter selo Inmetro, estar lacrados e a validade segue fabricante ou empresa certificada (se recarga).",
+        "correct": true
+      },
+      {
+        "text": "A validade é sempre de 2 anos para qualquer extintor.",
+        "correct": false
+      },
+      {
+        "text": "Dispensam selo em edificações residenciais.",
+        "correct": false
+      },
+      {
+        "text": "A pressão não precisa ser verificada na vistoria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quanto à iluminação de emergência, quais são objetivos citados?",
+    "answers": [
+      {
+        "text": "Evacuação (aclaramento e sinalização) e continuidade de atividade.",
+        "correct": true
+      },
+      {
+        "text": "Apenas iluminação de fachadas externas.",
+        "correct": false
+      },
+      {
+        "text": "Somente reduzir consumo elétrico em emergência.",
+        "correct": false
+      },
+      {
+        "text": "Iluminar exclusivamente escadas rolantes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais são exemplos de tipos de sistemas de iluminação de emergência?",
+    "answers": [
+      {
+        "text": "Bloco autônomo; centralizado com baterias; centralizado com grupo motogerador.",
+        "correct": true
+      },
+      {
+        "text": "Luminárias solares sem baterias; tochas manuais apenas.",
+        "correct": false
+      },
+      {
+        "text": "Somente lanternas portáteis pessoais.",
+        "correct": false
+      },
+      {
+        "text": "Apenas refletores de LED conectados à rede pública.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é a relação correta entre lux e lúmen, segundo a explicação?",
+    "answers": [
+      {
+        "text": "Lux = lúmens por metro quadrado (iluminância).",
+        "correct": true
+      },
+      {
+        "text": "Lúmen = lux por metro quadrado.",
+        "correct": false
+      },
+      {
+        "text": "Lux mede fluxo luminoso total da fonte.",
+        "correct": false
+      },
+      {
+        "text": "Lúmen mede iluminância sobre uma superfície.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre sinalização de emergência (IT 20), qual afirmativa é correta?",
+    "answers": [
+      {
+        "text": "Sinalização básica inclui proibição, alerta, orientação e salvamento, e equipamentos.",
+        "correct": true
+      },
+      {
+        "text": "A sinalização complementar substitui a básica.",
+        "correct": false
+      },
+      {
+        "text": "As formas geométricas e dimensões não são padronizadas.",
+        "correct": false
+      },
+      {
+        "text": "Materiais podem propagar chamas desde que tenham alta espessura.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual característica de materiais de sinalização é exigida?",
+    "answers": [
+      {
+        "text": "Resistência mecânica, não propagação de chamas e resistência a agentes químicos, água e intemperismo.",
+        "correct": true
+      },
+      {
+        "text": "Apenas estética e fotoluminescência.",
+        "correct": false
+      },
+      {
+        "text": "Somente baixa espessura para flexibilidade.",
+        "correct": false
+      },
+      {
+        "text": "Ausência de qualquer requisito de durabilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual definição está correta para Brigada de Incêndio?",
+    "answers": [
+      {
+        "text": "Grupo organizado (brigadistas/bombeiros civis) treinado em prevenção, combate, primeiros socorros e abandono.",
+        "correct": true
+      },
+      {
+        "text": "Equipe exclusiva do CBMBA alocada em cada edifício.",
+        "correct": false
+      },
+      {
+        "text": "Grupo informal de voluntários sem treinamento.",
+        "correct": false
+      },
+      {
+        "text": "Apenas profissionais de saúde.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual item integra as ações de emergência da Brigada?",
+    "answers": [
+      {
+        "text": "Identificação da situação, alarme/abandono, acionar CBMBA, corte de energia, primeiros socorros e combate a princípio de incêndio.",
+        "correct": true
+      },
+      {
+        "text": "Apenas auditoria de documentos.",
+        "correct": false
+      },
+      {
+        "text": "Somente recepção ao público externo.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente inspeções anuais de sprinklers.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é a melhor síntese da definição de saída de emergência?",
+    "answers": [
+      {
+        "text": "Caminho contínuo, protegido e sinalizado, do ponto de origem até a via pública/área de refúgio, garantindo integridade física.",
+        "correct": true
+      },
+      {
+        "text": "Trajeto apenas até um saguão interno, sem necessidade de proteção.",
+        "correct": false
+      },
+      {
+        "text": "Apenas portas e janelas para ventilação natural.",
+        "correct": false
+      },
+      {
+        "text": "Percurso exclusivo de brigadistas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais são objetivos das saídas de emergência?",
+    "answers": [
+      {
+        "text": "Evacuação segura e acesso das guarnições de bombeiros para combate/resgate.",
+        "correct": true
+      },
+      {
+        "text": "Melhorar conforto térmico e acústico.",
+        "correct": false
+      },
+      {
+        "text": "Servir para transporte de cargas.",
+        "correct": false
+      },
+      {
+        "text": "Substituir elevadores sociais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que normas/regulamentações são citadas para saídas de emergência?",
+    "answers": [
+      {
+        "text": "NBR 9077/01, NBR 9050/04 e IT 11/IT 12 (CBMBA).",
+        "correct": true
+      },
+      {
+        "text": "NBR 5410 e NBR 5626.",
+        "correct": false
+      },
+      {
+        "text": "NBR 13714 e IT 22.",
+        "correct": false
+      },
+      {
+        "text": "NBR 10897 e NBR 15575.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais são exemplos de saída no plano horizontal?",
+    "answers": [
+      {
+        "text": "Portas, corredores, saguões, passarelas, varandas, sacadas, terraços.",
+        "correct": true
+      },
+      {
+        "text": "Escadas e elevadores de emergência.",
+        "correct": false
+      },
+      {
+        "text": "Dutos de ar condicionado.",
+        "correct": false
+      },
+      {
+        "text": "Casas de máquinas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais são exemplos de saída no plano vertical?",
+    "answers": [
+      {
+        "text": "Escadas, rampas e elevadores de emergência.",
+        "correct": true
+      },
+      {
+        "text": "Corredores e varandas.",
+        "correct": false
+      },
+      {
+        "text": "Passarelas e sacadas.",
+        "correct": false
+      },
+      {
+        "text": "Átrios e jardins.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais são componentes clássicos do sistema de saídas?",
+    "answers": [
+      {
+        "text": "Acessos (horizontais), rotas verticais (escadas/rampas/elevadores) e descarga até a via pública.",
+        "correct": true
+      },
+      {
+        "text": "Somente escadas enclausuradas.",
+        "correct": false
+      },
+      {
+        "text": "Apenas portas corta-fogo.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente corredores internos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual definição descreve a escada não enclausurada (NE)?",
+    "answers": [
+      {
+        "text": "Escada que se comunica diretamente com ambientes, sem portas corta-fogo, embora possa integrar rota de saída.",
+        "correct": true
+      },
+      {
+        "text": "Escada ventilada envolvida por paredes resistentes ao fogo.",
+        "correct": false
+      },
+      {
+        "text": "Escada com antecâmara vedada à fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Escada pressurizada por ventiladores mecânicos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual definição descreve a escada enclausurada protegida (EP)?",
+    "answers": [
+      {
+        "text": "Escada ventilada, com paredes resistentes ao fogo e portas corta-fogo.",
+        "correct": true
+      },
+      {
+        "text": "Escada aberta externa sem enclausuramento.",
+        "correct": false
+      },
+      {
+        "text": "Escada com pressurização mecânica obrigatória.",
+        "correct": false
+      },
+      {
+        "text": "Escada comum com PCF apenas nos patamares.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual definição descreve a escada à prova de fumaça (PF)?",
+    "answers": [
+      {
+        "text": "Escada com acesso por antecâmara enclausurada/local aberto que evita entrada de fumaça, com paredes e portas corta-fogo.",
+        "correct": true
+      },
+      {
+        "text": "Escada com ventilação natural sem antecâmara.",
+        "correct": false
+      },
+      {
+        "text": "Escada com apenas pressurização positiva.",
+        "correct": false
+      },
+      {
+        "text": "Escada NE com janela basculante.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual definição descreve a escada à prova de fumaça pressurizada (PFP)?",
+    "answers": [
+      {
+        "text": "Escada PF cuja estanqueidade à fumaça é obtida por pressurização (NBR 14880).",
+        "correct": true
+      },
+      {
+        "text": "Escada aberta externa sem antecâmara.",
+        "correct": false
+      },
+      {
+        "text": "Escada EP com dutos de alívio.",
+        "correct": false
+      },
+      {
+        "text": "Escada NE com portas de madeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual novidade da IT 11 do CBMBA é citada?",
+    "answers": [
+      {
+        "text": "Escada Aberta Externa (AE) pode substituir outros tipos até 45 m de altura.",
+        "correct": true
+      },
+      {
+        "text": "Eliminação das portas corta-fogo em qualquer tipo de escada.",
+        "correct": false
+      },
+      {
+        "text": "Proibição de escadas para mezaninos.",
+        "correct": false
+      },
+      {
+        "text": "Desuso de rampas em qualquer condição.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual é a definição que melhor descreve a escada não enclausurada (NE)?",
+    "answers": [
+      {
+        "text": "Escada que se comunica diretamente com os ambientes, sem antecâmara e sem portas corta-fogo.",
+        "correct": true
+      },
+      {
+        "text": "Escada envolta por paredes resistentes ao fogo e portas corta-fogo.",
+        "correct": false
+      },
+      {
+        "text": "Escada com acesso por antecâmara estanque à fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Escada com estanqueidade garantida por pressurização mecânica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que caracteriza a escada enclausurada protegida (EP)?",
+    "answers": [
+      {
+        "text": "Caixa de escada ventilada, construída com elementos resistentes ao fogo e dotada de portas corta-fogo nos acessos.",
+        "correct": true
+      },
+      {
+        "text": "Escada aberta externa, sem necessidade de portas ou ventilação controlada.",
+        "correct": false
+      },
+      {
+        "text": "Escada com pressurização mecânica permanente e sem portas corta-fogo.",
+        "correct": false
+      },
+      {
+        "text": "Escada integrada diretamente aos corredores, sem separação física.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual afirmação descreve corretamente a escada à prova de fumaça (PF)?",
+    "answers": [
+      {
+        "text": "Tem acesso por antecâmara enclausurada ou local aberto que evita a entrada de fumaça na caixa da escada.",
+        "correct": true
+      },
+      {
+        "text": "Permanece estanque apenas por janelas basculantes no patamar.",
+        "correct": false
+      },
+      {
+        "text": "Substitui as portas corta-fogo por cortinas de ar.",
+        "correct": false
+      },
+      {
+        "text": "Não admite ventilação natural em nenhuma hipótese.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na escada à prova de fumaça pressurizada (PFP), como se garante a estanqueidade?",
+    "answers": [
+      {
+        "text": "Por pressurização mecânica que mantém diferencial de pressão em relação às áreas adjacentes.",
+        "correct": true
+      },
+      {
+        "text": "Por aumento da largura dos patamares e inserção de janelas.",
+        "correct": false
+      },
+      {
+        "text": "Por instalar portas de madeira com fechamento manual.",
+        "correct": false
+      },
+      {
+        "text": "Por ventilação cruzada natural entre corredores e caixa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em quais condições a escada aberta externa (AE) costuma ser aceita como rota de saída?",
+    "answers": [
+      {
+        "text": "Quando instalada a céu aberto, afastada de aberturas, respeitando limites de altura e demais requisitos locais.",
+        "correct": true
+      },
+      {
+        "text": "Em qualquer edificação, sem restrições de altura ou afastamentos.",
+        "correct": false
+      },
+      {
+        "text": "Somente em subsolos, desde que compartimentada por portas de madeira.",
+        "correct": false
+      },
+      {
+        "text": "Apenas quando existirem sprinklers, dispensando guarda-corpo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Associe o tipo de escada ao mecanismo de controle de fumaça predominante.",
+    "answers": [
+      {
+        "text": "NE: sem controle dedicado; EP: ventilação da caixa; PF: antecâmara/ambiente aberto; PFP: pressurização mecânica.",
+        "correct": true
+      },
+      {
+        "text": "NE: pressurização; EP: dutos mecânicos; PF: sem portas; PFP: janelas basculantes.",
+        "correct": false
+      },
+      {
+        "text": "NE: antecâmara; EP: pressurização; PF: ventilação de patamar; PFP: sem diferencial de pressão.",
+        "correct": false
+      },
+      {
+        "text": "NE: dutos de exaustão; EP: antecâmara; PF: sem enclausuramento; PFP: ventilação cruzada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual requisito construtivo é comum às escadas de saída, independentemente do tipo?",
+    "answers": [
+      {
+        "text": "Materiais incombustíveis, pisos antiderrapantes e corrimãos em ambos os lados.",
+        "correct": true
+      },
+      {
+        "text": "Permissão de elementos combustíveis desde que pintados.",
+        "correct": false
+      },
+      {
+        "text": "Ausência de guarda-corpo quando houver paredes laterais.",
+        "correct": false
+      },
+      {
+        "text": "Degraus com alturas variáveis sem limite dimensional.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual erro compromete mais a eficiência de uma escada do tipo PF?",
+    "answers": [
+      {
+        "text": "Ante-câmara com portas sem vedação adequada, permitindo infiltração de fumaça.",
+        "correct": true
+      },
+      {
+        "text": "Instalação de portas corta-fogo com fechamento automático.",
+        "correct": false
+      },
+      {
+        "text": "Uso de piso antiderrapante nos lances e patamares.",
+        "correct": false
+      },
+      {
+        "text": "Provisão de iluminação de emergência ao longo da rota.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em uma PFP, qual situação exige atenção para manter o diferencial de pressão?",
+    "answers": [
+      {
+        "text": "Portas frequentemente abertas durante a evacuação, exigindo capacidade de ventilador compatível e rotas de alívio.",
+        "correct": true
+      },
+      {
+        "text": "Patamares com maior largura que o mínimo regulamentar.",
+        "correct": false
+      },
+      {
+        "text": "Presença de sinalização fotoluminescente nas paredes.",
+        "correct": false
+      },
+      {
+        "text": "Uso de corrimãos com seção circular.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual combinação de requisitos é típica para EP e PF, respectivamente?",
+    "answers": [
+      {
+        "text": "EP: ventilação da caixa e PCF; PF: antecâmara estanque e PCF.",
+        "correct": true
+      },
+      {
+        "text": "EP: pressurização e PCF; PF: sem portas e sem antecâmara.",
+        "correct": false
+      },
+      {
+        "text": "EP: sem ventilação e sem PCF; PF: dutos de fumaça sem antecâmara.",
+        "correct": false
+      },
+      {
+        "text": "EP: janelas basculantes obrigatórias; PF: cortinas de ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual alternativa relaciona corretamente o tipo de escada ao risco de entrada de fumaça?",
+    "answers": [
+      {
+        "text": "NE: maior risco; EP: risco reduzido; PF: risco muito reduzido; PFP: risco minimizado pelo diferencial de pressão.",
+        "correct": true
+      },
+      {
+        "text": "NE: risco nulo; EP: risco médio; PF: risco alto; PFP: risco elevado.",
+        "correct": false
+      },
+      {
+        "text": "NE: risco reduzido por ventilação; EP: risco elevado; PF: risco nulo; PFP: risco médio.",
+        "correct": false
+      },
+      {
+        "text": "NE: risco controlado por antecâmara; EP: risco nulo; PF: risco médio; PFP: risco alto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em termos de manutenção e inspeção, qual prioridade é crítica para todos os tipos?",
+    "answers": [
+      {
+        "text": "Operação confiável das portas corta-fogo (quando existentes), desobstrução de rotas e integridade dos corrimãos/guardas.",
+        "correct": true
+      },
+      {
+        "text": "Pintura decorativa dos espelhos de degrau.",
+        "correct": false
+      },
+      {
+        "text": "Instalação de tapetes para conforto dos usuários.",
+        "correct": false
+      },
+      {
+        "text": "Uso de iluminação ambiente por dimerização.",
+        "correct": false
+      }
+    ]
   }
 ]
+
