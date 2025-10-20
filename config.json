@@ -135,6 +135,15 @@
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/csci/flashcards.json",
     "questionCount": 92,
     "flashcardCount": 92
+  },
+    {
+    "id": "didatica_e_oratória",
+    "title": "Didática e Oratória",
+    "imageUrl": "https://davissonednei.github.io/app-data/images/deo.png",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/deo/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/deo/flashcards.json",
+    "questionCount": 0,
+    "flashcardCount": 0
   }
 ]
 }
