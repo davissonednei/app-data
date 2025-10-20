@@ -5,8 +5,8 @@
     "id": "protecao_defesa_civil",
     "title": "Proteção e Defesa Civil",
     "imageUrl": "https://davissonednei.github.io/app-data/images/DECI.jpg",
-    "questions_url": "https://davissonednei.github.io/app-data/subjects/protecao_defesa_civil/questions.json",
-    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/protecao_defesa_civil/flashcards.json",
+    "questions_url": "https://davissonednei.github.io/app-data/subjects/dec1/questions.json",
+    "flashcards_url": "https://davissonednei.github.io/app-data/subjects/dec1/flashcards.json",
     "questionCount": 0,
     "flashcardCount": 0
   },
