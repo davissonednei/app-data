@@ -320,19 +320,51 @@
     "back": "Escada Aberta Externa (AE) pode substituir outros tipos até 45 m de altura."
   },
   {
-    "front": "Quais características construtivas são exigidas para escadas de saída?",
-    "back": "Material incombustível, TRRF ≥ 2 h, pisos antiderrapantes, guarda-corpo e corrimãos em ambos os lados."
+    "front": "Qual é a definição que melhor descreve a escada não enclausurada (NE)?",
+    "back": "Escada que se comunica diretamente com os ambientes, sem antecâmara e sem portas corta-fogo."
   },
   {
-    "front": "Sobre Portas Corta-Fogo (PCF), assinale a correta:",
-    "back": "Funções: compartimentação, isolamento térmico e estanqueidade; classes P-30, P-60, P-90, P-120."
+    "front": "O que caracteriza a escada enclausurada protegida (EP)?",
+    "back": "Caixa de escada ventilada, construída com elementos resistentes ao fogo e dotada de portas corta-fogo nos acessos."
   },
   {
-    "front": "Quais parâmetros geométricos de degraus são indicados?",
-    "back": "Altura (h) entre 16 e 18 cm; fórmula de Blondel 63 ≤ (2h + b) ≤ 64 cm; bocel ≥ 1,5 cm."
+    "front": "Qual afirmação descreve corretamente a escada à prova de fumaça (PF)?",
+    "back": "Tem acesso por antecâmara enclausurada ou local aberto que evita a entrada de fumaça na caixa da escada."
   },
   {
-    "front": "Quais requisitos valem para guardas e corrimãos?",
-    "back": "Corrimãos em ambos os lados; seção circular 38–65 mm; prolongamentos de ~0,3 m; altura mínima de guarda 1,10 m (1,30 m em AE)."
+    "front": "Na escada à prova de fumaça pressurizada (PFP), como se garante a estanqueidade?",
+    "back": "Por pressurização mecânica que mantém diferencial de pressão em relação às áreas adjacentes."
+  },
+  {
+    "front": "Em quais condições a escada aberta externa (AE) costuma ser aceita como rota de saída?",
+    "back": "Quando instalada a céu aberto, afastada de aberturas, respeitando limites de altura e demais requisitos locais."
+  },
+  {
+    "front": "Associe o tipo de escada ao mecanismo de controle de fumaça predominante.",
+    "back": "NE: sem controle dedicado; EP: ventilação da caixa; PF: antecâmara/ambiente aberto; PFP: pressurização mecânica."
+  },
+  {
+    "front": "Qual requisito construtivo é comum às escadas de saída, independentemente do tipo?",
+    "back": "Materiais incombustíveis, pisos antiderrapantes e corrimãos em ambos os lados."
+  },
+  {
+    "front": "Qual erro compromete mais a eficiência de uma escada do tipo PF?",
+    "back": "Ante-câmara com portas sem vedação adequada, permitindo infiltração de fumaça."
+  },
+  {
+    "front": "Em uma PFP, qual situação exige atenção para manter o diferencial de pressão?",
+    "back": "Portas frequentemente abertas durante a evacuação, exigindo capacidade de ventilador compatível e rotas de alívio."
+  },
+  {
+    "front": "Qual combinação de requisitos é típica para EP e PF, respectivamente?",
+    "back": "EP: ventilação da caixa e PCF; PF: antecâmara estanque e PCF."
+  },
+  {
+    "front": "Qual alternativa relaciona corretamente o tipo de escada ao risco de entrada de fumaça?",
+    "back": "NE: maior risco; EP: risco reduzido; PF: risco muito reduzido; PFP: risco minimizado pelo diferencial de pressão."
+  },
+  {
+    "front": "Em termos de manutenção e inspeção, qual prioridade é crítica para todos os tipos?",
+    "back": "Operação confiável das portas corta-fogo (quando existentes), desobstrução de rotas e integridade dos corrimãos/guardas."
   }
 ]
