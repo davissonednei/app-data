@@ -142,8 +142,8 @@
     "imageUrl": "https://davissonednei.github.io/app-data/images/deo.png",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/deo/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/deo/flashcards.json",
-    "questionCount": 0,
-    "flashcardCount": 0
+    "questionCount": 25,
+    "flashcardCount": 25
   }
 ]
 }
