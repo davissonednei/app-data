@@ -158,5 +158,181 @@
   {
     "front": "Quais elementos são exemplos de saídas no plano vertical?",
     "back": "Escadas, rampas e elevadores de emergência."
+  },
+  {
+    "front": "Segundo a IT 01 (Procedimentos Administrativos), quando o Projeto Técnico (PT) é obrigatório?",
+    "back": "Área > 750 m² e/ou altura > 3 pavimentos, ou quando houver sistemas fixos (hidrantes, sprinklers, alarme etc.) e para o grupo L."
+  },
+  {
+    "front": "Qual modalidade contempla circos, feiras e demais instalações temporárias por até 6 meses?",
+    "back": "PTIOT – Projeto para Instalação Temporária."
+  },
+  {
+    "front": "Qual documento atesta a aprovação de um projeto de segurança contra incêndio no CBMBA?",
+    "back": "ACP – Atestado de Conformidade de Projeto."
+  },
+  {
+    "front": "Na apresentação do PT, quais são itens básicos de composição?",
+    "back": "Formulário, ART/RRT, peças gráficas e memorial descritivo rubricado pelo RT."
+  },
+  {
+    "front": "Quais documentos complementares podem ser exigidos no PT conforme a IT 01?",
+    "back": "Memorial industrial, memorial de cálculo, sistema de gases e carga de incêndio."
+  },
+  {
+    "front": "Como devem ser apresentadas as plantas do projeto, segundo a IT 01?",
+    "back": "Em formatos A4 a A0, medidas de segurança em vermelho, símbolos conforme IT 04 e escalas padronizadas."
+  },
+  {
+    "front": "Qual é o canal de protocolo e o prazo de análise do PT na IT 01?",
+    "back": "Protocolo eletrônico (PDF) via Sistema Fênix; análise em até 60 dias por ordem cronológica."
+  },
+  {
+    "front": "Durante a vistoria para emissão do AVCB, qual requisito é destacado na IT 01?",
+    "back": "Presença de pessoa apta a demonstrar o funcionamento dos sistemas e documentação comprobatória."
+  },
+  {
+    "front": "Qual é a validade usual do AVCB indicada na apresentação da IT 01?",
+    "back": "1 ano para edificações permanentes; até 6 meses para temporárias."
+  },
+  {
+    "front": "Qual instrumento permite esclarecimentos, retificações e revisões com resposta em até 10 dias úteis?",
+    "back": "FAT – Formulário para Atendimento Técnico."
+  },
+  {
+    "front": "Quando se recorre à Comissão Técnica segundo a IT 01?",
+    "back": "Quando persistirem discordâncias após argumentações, com decisão em até 60 dias."
+  },
+  {
+    "front": "Quais são itens típicos exigidos para a vistoria segundo a IT 01?",
+    "back": "ART/RRT de instalação/manutenção, atestado de brigada, planilha de informações operacionais e taxa."
+  },
+  {
+    "front": "Em caso de alterações prejudiciais às medidas de segurança, o que pode ocorrer com o AVCB?",
+    "back": "Cassação, com prazo para correção das não conformidades."
+  },
+  {
+    "front": "Qual documentação deve ser rubricada pelo RT, conforme a IT 01?",
+    "back": "Memorial descritivo (todas as páginas)."
+  },
+  {
+    "front": "Qual é o conceito de medidas de segurança contra incêndio e pânico (SCIP)?",
+    "back": "Conjunto de dispositivos/sistemas para evitar, limitar propagação, extinguir o incêndio e proteger vida, meio ambiente e patrimônio."
+  },
+  {
+    "front": "Como as medidas de SCIP são classificadas?",
+    "back": "Passivas (independem de ação) e ativas (dependem de ação)."
+  },
+  {
+    "front": "Qual item NÃO integra o rol de medidas de SCIP da apresentação?",
+    "back": "Plano de cargos e salários."
+  },
+  {
+    "front": "Sobre extintores, qual afirmativa está correta?",
+    "back": "Um extintor de pó ABC pode substituir qualquer tipo específico das classes A, B e C dentro da edificação."
+  },
+  {
+    "front": "Qual regra de instalação de extintores é destacada?",
+    "back": "Altura do suporte até 1,60 m; base mínima a 0,10 m do piso quando em suporte."
+  },
+  {
+    "front": "Qual é o mínimo por pavimento quanto a unidades extintoras, segundo a apresentação?",
+    "back": "Duas unidades: uma para classe A e outra para classe B/C (ou duas ABC)."
+  },
+  {
+    "front": "Nos postos de abastecimento com tanques enterrados, qual medida adicional é citada?",
+    "back": "Extintor portátil de pó ABC/BC ou espuma mecânica por bomba de abastecimento, em local de fácil acesso."
+  },
+  {
+    "front": "Quanto à certificação e validade dos extintores, assinale a correta:",
+    "back": "Devem ter selo Inmetro, estar lacrados e a validade segue fabricante ou empresa certificada (se recarga)."
+  },
+  {
+    "front": "Quanto à iluminação de emergência, quais são objetivos citados?",
+    "back": "Evacuação (aclaramento e sinalização) e continuidade de atividade."
+  },
+  {
+    "front": "Quais são exemplos de tipos de sistemas de iluminação de emergência?",
+    "back": "Bloco autônomo; centralizado com baterias; centralizado com grupo motogerador."
+  },
+  {
+    "front": "Qual é a relação correta entre lux e lúmen, segundo a explicação?",
+    "back": "Lux = lúmens por metro quadrado (iluminância)."
+  },
+  {
+    "front": "Sobre sinalização de emergência (IT 20), qual afirmativa é correta?",
+    "back": "Sinalização básica inclui proibição, alerta, orientação e salvamento, e equipamentos."
+  },
+  {
+    "front": "Qual característica de materiais de sinalização é exigida?",
+    "back": "Resistência mecânica, não propagação de chamas e resistência a agentes químicos, água e intemperismo."
+  },
+  {
+    "front": "Qual definição está correta para Brigada de Incêndio?",
+    "back": "Grupo organizado (brigadistas/bombeiros civis) treinado em prevenção, combate, primeiros socorros e abandono."
+  },
+  {
+    "front": "Qual item integra as ações de emergência da Brigada?",
+    "back": "Identificação da situação, alarme/abandono, acionar CBMBA, corte de energia, primeiros socorros e combate a princípio de incêndio."
+  },
+  {
+    "front": "Qual é a melhor síntese da definição de saída de emergência?",
+    "back": "Caminho contínuo, protegido e sinalizado, do ponto de origem até a via pública/área de refúgio, garantindo integridade física."
+  },
+  {
+    "front": "Quais são objetivos das saídas de emergência?",
+    "back": "Evacuação segura e acesso das guarnições de bombeiros para combate/resgate."
+  },
+  {
+    "front": "Que normas/regulamentações são citadas para saídas de emergência?",
+    "back": "NBR 9077/01, NBR 9050/04 e IT 11/IT 12 (CBMBA)."
+  },
+  {
+    "front": "Quais são exemplos de saída no plano horizontal?",
+    "back": "Portas, corredores, saguões, passarelas, varandas, sacadas, terraços."
+  },
+  {
+    "front": "Quais são exemplos de saída no plano vertical?",
+    "back": "Escadas, rampas e elevadores de emergência."
+  },
+  {
+    "front": "Quais são componentes clássicos do sistema de saídas?",
+    "back": "Acessos (horizontais), rotas verticais (escadas/rampas/elevadores) e descarga até a via pública."
+  },
+  {
+    "front": "Qual definição descreve a escada não enclausurada (NE)?",
+    "back": "Escada que se comunica diretamente com ambientes, sem portas corta-fogo, embora possa integrar rota de saída."
+  },
+  {
+    "front": "Qual definição descreve a escada enclausurada protegida (EP)?",
+    "back": "Escada ventilada, com paredes resistentes ao fogo e portas corta-fogo."
+  },
+  {
+    "front": "Qual definição descreve a escada à prova de fumaça (PF)?",
+    "back": "Escada com acesso por antecâmara enclausurada/local aberto que evita entrada de fumaça, com paredes e portas corta-fogo."
+  },
+  {
+    "front": "Qual definição descreve a escada à prova de fumaça pressurizada (PFP)?",
+    "back": "Escada PF cuja estanqueidade à fumaça é obtida por pressurização (NBR 14880)."
+  },
+  {
+    "front": "Qual novidade da IT 11 do CBMBA é citada?",
+    "back": "Escada Aberta Externa (AE) pode substituir outros tipos até 45 m de altura."
+  },
+  {
+    "front": "Quais características construtivas são exigidas para escadas de saída?",
+    "back": "Material incombustível, TRRF ≥ 2 h, pisos antiderrapantes, guarda-corpo e corrimãos em ambos os lados."
+  },
+  {
+    "front": "Sobre Portas Corta-Fogo (PCF), assinale a correta:",
+    "back": "Funções: compartimentação, isolamento térmico e estanqueidade; classes P-30, P-60, P-90, P-120."
+  },
+  {
+    "front": "Quais parâmetros geométricos de degraus são indicados?",
+    "back": "Altura (h) entre 16 e 18 cm; fórmula de Blondel 63 ≤ (2h + b) ≤ 64 cm; bocel ≥ 1,5 cm."
+  },
+  {
+    "front": "Quais requisitos valem para guardas e corrimãos?",
+    "back": "Corrimãos em ambos os lados; seção circular 38–65 mm; prolongamentos de ~0,3 m; altura mínima de guarda 1,10 m (1,30 m em AE)."
   }
 ]
