@@ -106,9 +106,10 @@
     "imageUrl": "https://davissonednei.github.io/app-data/images/TTCIII.jpg",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/flashcards.json",
-    "questionCount": 0,
-    "flashcardCount": 106,
     "texts_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/texts.json",
+    "questionCount": 0,
+    "flashcardCount": 106
+    
   },
     {
     "id": "direito_penal_militar_2",
