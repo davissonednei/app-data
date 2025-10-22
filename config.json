@@ -108,7 +108,8 @@
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/flashcards.json",
     "texts_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/texts.json",
     "questionCount": 0,
-    "flashcardCount": 106
+    "flashcardCount": 106,
+    "textCount" : 15
     
   },
     {
