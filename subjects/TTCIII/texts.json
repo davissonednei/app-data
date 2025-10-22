@@ -1,0 +1,108 @@
+[
+  {
+    "id": "introducao_combustao",
+    "title": "A Combustão e seus Fundamentos",
+    "estimated_read_time": "6 min",
+    "content": "<p><strong>Combustão</strong> é uma reação química entre um <em>combustível</em> e um <em>comburente</em>, ativada por uma fonte de calor. Esse processo libera luz e calor, tornando-se autossustentável enquanto houver reagentes disponíveis.</p><p>Para que ocorra a combustão, é necessário o encontro dos três elementos do <strong>Triângulo do Fogo</strong>: combustível, comburente e calor. Quando a reação se mantém sozinha, surge o quarto elemento — a <em>reação em cadeia</em> — formando o <strong>Tetraedro do Fogo</strong>.</p><p>Os <strong>pontos notáveis</strong> de temperatura dos combustíveis são: <em>ponto de fulgor</em> (onde surgem vapores inflamáveis), <em>ponto de ignição</em> (onde a chama se mantém) e <em>ponto de autoignição</em> (em que o material inflama sem fonte externa).</p>",
+    "related_flashcards": ["O que é e como acontece a combustão?", "Quais são os requisitos para a combustão ocorrer?", "Quais são os pontos notáveis de temperatura dos combustíveis?"]
+  },
+  {
+    "id": "tipos_combustao",
+    "title": "Tipos de Combustão e Produtos",
+    "estimated_read_time": "4 min",
+    "content": "<p>A combustão pode ser classificada segundo dois critérios principais:</p><ul><li><strong>Velocidade da reação:</strong> <em>lenta</em> (como a ferrugem), <em>viva</em> (com chama controlada) ou <em>explosiva</em> (altíssima velocidade).</li><li><strong>Liberação de produtos:</strong> <em>completa</em> (libera CO₂ e H₂O) ou <em>incompleta</em> (gera monóxido de carbono, fuligem e outros gases tóxicos).</li></ul><p>A compreensão desses tipos é essencial para prever o comportamento do fogo e aplicar o agente extintor correto.</p>",
+    "related_flashcards": ["Quais os tipos de combustão pela velocidade?", "Quais os tipos de combustão pela liberação dos produtos?"]
+  },
+  {
+    "id": "classes_incendio",
+    "title": "Classes de Incêndio e Agentes Extintores",
+    "estimated_read_time": "7 min",
+    "content": "<p>Os incêndios são classificados conforme o tipo de material que alimenta a chama:</p><ul><li><strong>Classe A:</strong> materiais sólidos como madeira, papel e tecido. Queimam em <em>superfície e profundidade</em>, deixando resíduos. O combate é feito principalmente com <strong>água</strong>.</li><li><strong>Classe B:</strong> líquidos inflamáveis e gases, que queimam apenas em superfície. Exigem <strong>espuma</strong> ou <strong>pó químico seco</strong>.</li><li><strong>Classe C:</strong> equipamentos elétricos energizados, onde se emprega <strong>CO₂</strong> ou <strong>pó químico seco</strong>.</li><li><strong>Classe D:</strong> metais pirofóricos, que reagem com a água — exigem agentes especiais.</li></ul><p>Os principais agentes extintores são a água, a espuma mecânica, o pó químico e o dióxido de carbono (CO₂). A escolha correta depende da classe e das condições do incêndio.</p>",
+    "related_flashcards": ["Quais são as classes de incêndio e suas características?", "Quais são os principais agentes extintores?"]
+  },
+  {
+    "id": "propagacao_calor",
+    "title": "Formas de Propagação do Calor",
+    "estimated_read_time": "4 min",
+    "content": "<p>O calor pode se propagar de três formas principais:</p><ul><li><strong>Condução:</strong> transferência direta entre corpos em contato físico (como o aquecimento de uma barra de ferro).</li><li><strong>Convecção:</strong> movimentação do ar quente que sobe e do ar frio que desce, espalhando energia térmica pelo ambiente.</li><li><strong>Irradiação:</strong> transmissão de calor por ondas eletromagnéticas, sem necessidade de contato ou meio material.</li></ul><p>Essas formas influenciam diretamente a propagação do incêndio e o posicionamento seguro da equipe.</p>",
+    "related_flashcards": ["Quais são formas de propagação do calor?", "Como acontece a forma de transferência de calor chamada convecção?"]
+  },
+  {
+    "id": "pirolose",
+    "title": "A Pirólise e a Formação da Fumaça",
+    "estimated_read_time": "5 min",
+    "content": "<p><strong>Pirólise</strong> é a decomposição de materiais sólidos sob ação do calor, gerando gases inflamáveis e não-inflamáveis. Esses gases podem se acumular e servir de combustível para novas ignições.</p><p>A fumaça é um subproduto da combustão incompleta e apresenta cinco características principais: é <strong>quente</strong>, <strong>opaca</strong>, <strong>móvel</strong>, <strong>inflamável</strong> e <strong>tóxica</strong>. Sua análise indica o estágio e o tipo de incêndio.</p>",
+    "related_flashcards": ["O que é pirólise?", "Quais são as características da fumaça?"]
+  },
+  {
+    "id": "fenomenos_extremos",
+    "title": "Fenômenos Extremos do Fogo",
+    "estimated_read_time": "5 min",
+    "content": "<p>Durante um incêndio podem ocorrer fenômenos perigosos que ameaçam a vida dos bombeiros e alteram a dinâmica do fogo:</p><ul><li><strong>Flashover:</strong> transição súbita para a queima generalizada de todos os materiais do ambiente.</li><li><strong>Backdraft:</strong> explosão causada pela entrada súbita de oxigênio em um ambiente saturado de gases quentes e fumaça inflamável.</li><li><strong>Ignição da fumaça:</strong> combustão retardada dos gases após seu acúmulo em locais confinados.</li></ul><p>Reconhecer os sinais desses fenômenos é essencial para definir o tipo de ataque e garantir a segurança da guarnição.</p>",
+    "related_flashcards": ["Quais são os principais fenômenos extremos do fogo?", "O que é Flashover?", "O que é Backdraft?", "Quais as prováveis características que indicam um possível backdraft?"]
+  },
+  {
+    "id": "ataques_combate",
+    "title": "Tipos de Ataque e Modos de Combate",
+    "estimated_read_time": "8 min",
+    "content": "<p>As estratégias de combate ao fogo são divididas em <strong>modos de combate</strong> e <strong>tipos de ataque</strong>:</p><ul><li><strong>Modos de combate:</strong> <em>ofensivo</em> (ação direta na área de risco), <em>defensivo</em> (proteção de áreas vizinhas) e <em>passivo</em> (evacuação e isolamento).</li><li><strong>Tipos de ataque:</strong> <em>direto</em> (aplica água sobre o combustível), <em>indireto</em> (resfria o ambiente com vapor), <em>transicional</em> (resfriamento inicial antes da entrada), <em>combinado</em> (mistura direta e indireta) e <em>tridimensional</em> (resfriamento simultâneo em vários planos).</li></ul><p>Cada técnica é escolhida conforme o estágio do incêndio e os riscos ao efetivo.</p>",
+    "related_flashcards": ["Quais são os principais tipos de ataque?", "Quais os modos de combate e a principal característica de cada?", "Qual a diferença entre modo de combate e tipos de ataque?"]
+  },
+  {
+    "id": "planejamento_operacional",
+    "title": "Preparação, Planejamento e Execução do Socorro",
+    "estimated_read_time": "9 min",
+    "content": "<p>A eficiência no combate a incêndios depende da <strong>preparação técnica e mental</strong> da equipe, do <strong>pré-planejamento</strong> das áreas de risco e do <strong>emprego coordenado</strong> dos recursos disponíveis.</p><p>O ciclo operacional segue as fases descritas em manuais de CIU (como os do CBMGO e CBMDF): Aviso, Deslocamento, Reconhecimento, Planejamento, Estabelecimento, Salvamento, Combate, Controle, Inspeção Final, Rescaldo e Desmobilização.</p><p>Ferramentas como o <strong>SICER-VP</strong> e o <strong>SLICE-RS</strong> auxiliam o comandante na tomada de decisão. A filosofia de <strong>Risco x Benefício</strong> orienta que se deve arriscar na medida do que há a salvar.</p>",
+    "related_flashcards": ["Quais são as fases do CIU, em relação aos manuais do CBMGO e CBMDF?", "O que significa SICER - VP e quem deve seguir esse acrônimo?", "O que significa SLICE - RS e quem deve seguir esse acrônimo?", "Qual a filosofia de Risco x Benefício?"]
+  },
+  {
+    "id": "sci_organizacao",
+    "title": "Sistema de Comando em Incidentes (SCI)",
+    "estimated_read_time": "7 min",
+    "content": "<p>O <strong>Sistema de Comando em Incidentes (SCI)</strong> é uma estrutura padronizada de gerenciamento criada nos Estados Unidos na década de 1970 para coordenar respostas a incêndios florestais. Após o 11 de setembro, o modelo foi aprimorado e difundido globalmente.</p><p>Seus princípios fundamentais incluem:</p><ul><li><strong>Terminologia Comum:</strong> garante comunicação clara entre equipes.</li><li><strong>Organização Modular:</strong> cria apenas funções necessárias ao incidente.</li><li><strong>Cadeia de Comando:</strong> cada pessoa se reporta a um superior definido.</li><li><strong>Comunicação Integrada:</strong> assegura troca eficiente de informações.</li></ul><p>O SCI emprega conceitos como <em>recurso único</em>, <em>equipe de intervenção</em> e <em>força-tarefa</em>, adaptando-se ao porte da ocorrência e priorizando o controle unificado de recursos.</p>",
+    "related_flashcards": ["O que é o SCI?", "Como foi a origem e desenvolvimento do SCI?", "Qual a importância da Terminologia Comum?", "O que é a Cadeia de Comando?", "O que é o Comando Unificado?"]
+  },
+  {
+    "id": "jatos_agua",
+    "title": "Jatos de Água e suas Aplicações",
+    "estimated_read_time": "7 min",
+    "content": "<p>A água é o agente extintor mais utilizado devido à sua ampla disponibilidade e excelente capacidade de absorver calor. Seu <strong>calor específico</strong> é de 1 cal/g.ºC e seu <strong>calor latente</strong> de vaporização é de 540 cal/g, o que a torna extremamente eficiente no resfriamento e no abafamento do fogo.</p><p>Existem diferentes <strong>tipos de jato</strong> produzidos pelo esguicho pistola:</p><ul><li><strong>Compacto:</strong> maior alcance e impacto, porém menor absorção de calor.</li><li><strong>Neblinado:</strong> forma gotículas finas, reduz o impacto e aumenta a absorção de calor.</li><li><strong>Atomizado:</strong> usado para resfriar fumaça e melhorar a visibilidade.</li></ul><p>O desempenho dos jatos depende da <strong>capacidade da bomba</strong> (mínimo 7 bar no esguicho), da eficiência do equipamento e da <strong>relação superfície/massa</strong> da água.</p>",
+    "related_flashcards": ["Quais são os tipos de jatos que o esguicho pistola permite realizar?", "Quais são as principais características do jato compacto?", "Quais são as principais características do jato neblinado?", "Quais são as principais características do jato atomizado?", "Quais são os pré-requisitos para fazer os jatos atuais?", "Qual o principal fator que interfere na velocidade da combustão?"]
+  },
+  {
+    "id": "ataques_hidraulicos",
+    "title": "Ataques Hidráulicos e Estratégias de Combate",
+    "estimated_read_time": "8 min",
+    "content": "<p>Os <strong>ataques hidráulicos</strong> são classificados conforme a forma de aplicação da água sobre o fogo:</p><ul><li><strong>Direto:</strong> mira diretamente o combustível; proporciona extinção rápida e pode ser aplicado à distância.</li><li><strong>Indireto:</strong> visa o ambiente, gerando vapor para abafar o fogo, mas pode causar danos por calor e vapor excessivo.</li><li><strong>Transicional:</strong> mistura o ataque externo inicial e o ofensivo posterior — resfria o ambiente antes da entrada.</li><li><strong>Combinado:</strong> mistura ataque direto e indireto (conhecido como técnica ZOTI).</li><li><strong>Tridimensional:</strong> busca reduzir a temperatura em todos os planos do ambiente, impedindo a ignição da fumaça.</li></ul><p>O sucesso depende de reconhecer o estágio do incêndio e escolher a técnica adequada. O ataque tridimensional é especialmente útil para conter a fumaça quente e prevenir o <em>flashover</em>.</p>",
+    "related_flashcards": ["Quais são os principais tipos de ataque?", "O que é o ataque combinado?", "Qual o objetivo em se realizar o ataque tridimensional?", "O que é e como o ataque transicional age no cômodo atuado?"]
+  },
+  {
+    "id": "modos_combate",
+    "title": "Modos de Combate e Filosofia Operacional",
+    "estimated_read_time": "6 min",
+    "content": "<p>Os <strong>modos de combate</strong> determinam a postura tática dos bombeiros em relação à área de risco:</p><ul><li><strong>Ofensivo:</strong> entrada direta para extinguir o foco; exige alto preparo e recursos suficientes.</li><li><strong>Defensivo:</strong> visa conter a propagação, protegendo áreas vizinhas quando o risco ao efetivo é elevado.</li><li><strong>Passivo:</strong> concentra-se na evacuação e isolamento da área, priorizando a preservação da vida.</li></ul><p>A decisão entre os modos depende da <strong>avaliação de risco</strong>, disponibilidade de efetivo, segurança estrutural e potencial de salvamento. O <em>acesso adequado</em> é essencial para o sucesso no modo ofensivo.</p>",
+    "related_flashcards": ["Quais são os modos de combate?", "Por que o acesso adequado é fundamental no combate ofensivo?", "Quando decidir pelo combate defensivo?"]
+  },
+  {
+    "id": "preplanejamento",
+    "title": "Pré-Planejamento e Rotina Operacional",
+    "estimated_read_time": "6 min",
+    "content": "<p>O <strong>pré-planejamento</strong> é parte essencial da preparação para o socorro. Consiste no levantamento de:</p><ul><li>Pontos de captação de água;</li><li>Áreas e tipos de risco;</li><li>Fichas de pré-planejamento de edificações estratégicas.</li></ul><p>A <strong>Rotina Operacional</strong> padronizada nos quartéis garante que todos os bombeiros saibam o que fazer desde o aviso da ocorrência até o retorno. Isso inclui a checagem de equipamentos, definição de funções e o <strong>briefing</strong> antes do atendimento.</p><p>Manter equipamentos, efetivo e planos prontos reduz o tempo de resposta e aumenta a eficiência no atendimento.</p>",
+    "related_flashcards": ["Quais as características do Pré-Planejamento?", "Por que é importante que a Rotina Operacional seja descrita nos quartéis?", "Na assunção do serviço o que é o Briefing?"]
+  },
+  {
+    "id": "ventilacao_basica",
+    "title": "Ventilação e Ventilação Tática",
+    "estimated_read_time": "7 min",
+    "content": "<p>A <strong>ventilação</strong> é a técnica que remove gases, fumaça e calor de um ambiente incendiado. Quando planejada estrategicamente, ela é chamada de <strong>ventilação tática</strong>.</p><ul><li><strong>Tipos quanto ao fluxo:</strong> <em>horizontal</em> (por portas e janelas) e <em>vertical</em> (por aberturas no teto).</li><li><strong>Quanto à ação:</strong> <em>natural</em> (correntes de ar) e <em>forçada</em> (uso de ventiladores).</li></ul><p>Os principais indícios do incêndio são observados pela <strong>cor da fumaça</strong>: acinzentada (combustível úmido), preta (chamas perturbadas), caqui (calor intenso) e branca (excesso de água). Reconhecer esses sinais auxilia no comando das táticas.</p><p>Entre as técnicas modernas, destaca-se a <strong>VEIS</strong> — Ventilar, Entrar, Isolar e Buscar — utilizada para resgatar vítimas com segurança em áreas de alto risco.</p>",
+    "related_flashcards": ["Qual a principal diferença entre ventilação e ventilação tática?", "Quais são os tipos de ventilação tática?", "Descreva a tática VEIS.", "Quais são os principais indícios do incêndio pela cor da fumaça?"]
+  },
+  {
+    "id": "vpp_hidraulica",
+    "title": "VPP, Condições de Emprego e Ventilação Hidráulica",
+    "estimated_read_time": "6 min",
+    "content": "<p>A <strong>Ventilação Positiva por Pressão (VPP)</strong> é uma técnica que utiliza ventiladores para injetar ar fresco e empurrar fumaça e gases quentes para fora do ambiente.</p><p>Os <strong>procedimentos básicos</strong> são: preparar equipe, acionar ventilador, conectar duto, abrir saída, acelerar ventilador e aguardar cerca de 20 segundos para estabilização.</p><p><strong>Condições em que não deve ser usada:</strong> vento contrário superior a 15 km/h, indícios de backdraft, presença de vítimas na rota quente ou foco do incêndio indeterminado.</p><p>A <strong>ventilação hidráulica</strong> é uma alternativa que utiliza o próprio jato de água para criar o fluxo de ar. Deve-se posicionar o esguicho a cerca de 2 metros da abertura, evitando molhar anteparos e movimentando o jato de forma suave.</p>",
+    "related_flashcards": ["Quais são os procedimentos para a VPP?", "Quais condições para não usar a VPP?", "Como proceder a ventilação hidráulica?"]
+  }
+]
+
