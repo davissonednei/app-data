@@ -1,0 +1,1157 @@
+[
+  {
+    "question": "Em segurança contra incêndio, 'compartimentação' significa:",
+    "answers": [
+      {
+        "text": "Dividir a edificação em setores de incêndio por barreiras corta-fogo com TRRF.",
+        "correct": true
+      },
+      {
+        "text": "Aumentar a ventilação para diluir a fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Instalar detectores apenas nas rotas de fuga.",
+        "correct": false
+      },
+      {
+        "text": "Separar ambientes por portas acústicas sem requisitos ao fogo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A compartimentação horizontal tem por objetivo principal:",
+    "answers": [
+      {
+        "text": "Impedir a propagação do fogo dentro do mesmo pavimento.",
+        "correct": true
+      },
+      {
+        "text": "Impedir a propagação entre pavimentos contíguos.",
+        "correct": false
+      },
+      {
+        "text": "Criar sobrepressão em escadas enclausuradas.",
+        "correct": false
+      },
+      {
+        "text": "Substituir a detecção automática.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A compartimentação vertical tem por objetivo:",
+    "answers": [
+      {
+        "text": "Impedir a propagação do fogo entre pavimentos consecutivos.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a carga de incêndio por sala.",
+        "correct": false
+      },
+      {
+        "text": "Aumentar a ventilação natural.",
+        "correct": false
+      },
+      {
+        "text": "Garantir apenas conforto acústico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo o Quadro 9, a área máxima de compartimentação para H-I (edificação térrea) é:",
+    "answers": [
+      {
+        "text": "5.000 m²",
+        "correct": true
+      },
+      {
+        "text": "2.500 m²",
+        "correct": false
+      },
+      {
+        "text": "1.500 m²",
+        "correct": false
+      },
+      {
+        "text": "750 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com o Quadro 9, a área máxima para H-II (3 m ≤ H ≤ 12 m) é:",
+    "answers": [
+      {
+        "text": "2.500 m²",
+        "correct": true
+      },
+      {
+        "text": "5.000 m²",
+        "correct": false
+      },
+      {
+        "text": "2.000 m²",
+        "correct": false
+      },
+      {
+        "text": "1.500 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com o Quadro 9, a área máxima para H-III (12 m < H ≤ 24 m) é:",
+    "answers": [
+      {
+        "text": "2.000 m²",
+        "correct": true
+      },
+      {
+        "text": "1.500 m²",
+        "correct": false
+      },
+      {
+        "text": "1.000 m²",
+        "correct": false
+      },
+      {
+        "text": "750 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com o Quadro 9, a área máxima para H-IV (24 m < H ≤ 30 m) é:",
+    "answers": [
+      {
+        "text": "1.500 m²",
+        "correct": true
+      },
+      {
+        "text": "2.000 m²",
+        "correct": false
+      },
+      {
+        "text": "1.000 m²",
+        "correct": false
+      },
+      {
+        "text": "750 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com o Quadro 9, a área máxima para H-V (30 m < H ≤ 45 m) é:",
+    "answers": [
+      {
+        "text": "1.000 m²",
+        "correct": true
+      },
+      {
+        "text": "1.500 m²",
+        "correct": false
+      },
+      {
+        "text": "2.000 m²",
+        "correct": false
+      },
+      {
+        "text": "750 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para H-VI (acima de 45 m), o Quadro 9 indica área máxima de:",
+    "answers": [
+      {
+        "text": "750 m²",
+        "correct": true
+      },
+      {
+        "text": "1.000 m²",
+        "correct": false
+      },
+      {
+        "text": "500 m²",
+        "correct": false
+      },
+      {
+        "text": "2.500 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo o Quadro 8, a área de armazenagem/arquivos/depósitos deve, em geral, ser compartimentada até:",
+    "answers": [
+      {
+        "text": "250 m² e TRRF mínimo de 60 min.",
+        "correct": true
+      },
+      {
+        "text": "100 m² e TRRF mínimo de 30 min.",
+        "correct": false
+      },
+      {
+        "text": "500 m² e TRRF mínimo de 90 min.",
+        "correct": false
+      },
+      {
+        "text": "Sem limite de área e sem TRRF.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O Quadro 8 recomenda TRRF mínimo de 120 min. para qual dos ambientes abaixo?",
+    "answers": [
+      {
+        "text": "Cozinha / Serviço de nutrição",
+        "correct": true
+      },
+      {
+        "text": "Apoio administrativo",
+        "correct": false
+      },
+      {
+        "text": "Ambulatório",
+        "correct": false
+      },
+      {
+        "text": "Anfiteatro",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual ambiente do Quadro 8 apresenta sugestão de área máxima de 300 m² com TRRF 120 min.?",
+    "answers": [
+      {
+        "text": "Lavanderia",
+        "correct": true
+      },
+      {
+        "text": "Sala de caldeiras",
+        "correct": false
+      },
+      {
+        "text": "Laboratório",
+        "correct": false
+      },
+      {
+        "text": "Depósito de inflamáveis",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No Quadro 8, qual é a área máxima sugerida para Sala de caldeiras/oficinas mecânicas?",
+    "answers": [
+      {
+        "text": "150 m²",
+        "correct": true
+      },
+      {
+        "text": "250 m²",
+        "correct": false
+      },
+      {
+        "text": "300 m²",
+        "correct": false
+      },
+      {
+        "text": "100 m²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo o Quadro 8, depósitos de inflamáveis/combustíveis devem ser compartimentados até:",
+    "answers": [
+      {
+        "text": "100 m² e TRRF 120 min.",
+        "correct": true
+      },
+      {
+        "text": "250 m² e TRRF 60 min.",
+        "correct": false
+      },
+      {
+        "text": "300 m² e TRRF 90 min.",
+        "correct": false
+      },
+      {
+        "text": "Sem limite e TRRF 30 min.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo o Quadro 8, laboratórios em EAS devem ser compartimentados até:",
+    "answers": [
+      {
+        "text": "250 m² e TRRF 120 min.",
+        "correct": true
+      },
+      {
+        "text": "500 m² e TRRF 60 min.",
+        "correct": false
+      },
+      {
+        "text": "100 m² e TRRF 30 min.",
+        "correct": false
+      },
+      {
+        "text": "Sem limite e TRRF 90 min.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos EAS, a priorização de áreas para compartimentação deve considerar:",
+    "answers": [
+      {
+        "text": "Probabilidade de origem do incêndio e consequências (vítimas/danos).",
+        "correct": true
+      },
+      {
+        "text": "Apenas o custo de materiais corta-fogo.",
+        "correct": false
+      },
+      {
+        "text": "Somente a estética arquitetônica.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente a ventilação cruzada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em centros cirúrgicos/obstétricos, recomenda-se que a compartimentação do pavimento técnico:",
+    "answers": [
+      {
+        "text": "Replique a compartimentação do pavimento assistencial correspondente.",
+        "correct": true
+      },
+      {
+        "text": "Seja dispensada devido ao baixo risco.",
+        "correct": false
+      },
+      {
+        "text": "Possua aberturas livres para alívio de fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Seja substituída por detecção pontual.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sistema de detecção e alarme de incêndio integra dispositivos de iniciação e sinalização a:",
+    "answers": [
+      {
+        "text": "Um Painel Central de Alarme de Incêndio (PCAI).",
+        "correct": true
+      },
+      {
+        "text": "A uma rede de sprinklers.",
+        "correct": false
+      },
+      {
+        "text": "Aos hidrantes de fachada.",
+        "correct": false
+      },
+      {
+        "text": "A um painel de nobreak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Detectores de fumaça devem manter afastamento mínimo, em relação a difusores de ar, de:",
+    "answers": [
+      {
+        "text": "1,00 metro.",
+        "correct": true
+      },
+      {
+        "text": "0,30 metro.",
+        "correct": false
+      },
+      {
+        "text": "1,50 metro.",
+        "correct": false
+      },
+      {
+        "text": "2,00 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O SDAI pode ser integrado para realizar, automaticamente, qual das ações abaixo?",
+    "answers": [
+      {
+        "text": "Desligar condicionadores de ar distribuídos quando do alarme.",
+        "correct": true
+      },
+      {
+        "text": "Liberar portas corta-fogo durante o expediente.",
+        "correct": false
+      },
+      {
+        "text": "Acionar sprinklers sem necessidade de calor local.",
+        "correct": false
+      },
+      {
+        "text": "Aumentar a velocidade dos elevadores de serviço.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Além de sinalizar, o SDAI pode ser utilizado para:",
+    "answers": [
+      {
+        "text": "Acionar diretamente os membros da Brigada de Incêndio via telefonia digital.",
+        "correct": true
+      },
+      {
+        "text": "Desligar permanentemente o sistema elétrico do prédio.",
+        "correct": false
+      },
+      {
+        "text": "Substituir o plano de emergência.",
+        "correct": false
+      },
+      {
+        "text": "Dispensar treinamento da brigada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No esquema básico de hidrantes/mangotinhos, qual item permite suprimento externo direto à rede?",
+    "answers": [
+      {
+        "text": "Registro de recalque.",
+        "correct": true
+      },
+      {
+        "text": "Válvula-gaveta.",
+        "correct": false
+      },
+      {
+        "text": "Válvula de retenção.",
+        "correct": false
+      },
+      {
+        "text": "Acionador manual.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais componentes constam no esquema básico do sistema de hidrantes?",
+    "answers": [
+      {
+        "text": "Bomba de pressurização, válvula-gaveta e válvula de retenção.",
+        "correct": true
+      },
+      {
+        "text": "Filtro ciclônico, damper de fumaça e fan-coil.",
+        "correct": false
+      },
+      {
+        "text": "Porta acústica, duto isolado e split hi-wall.",
+        "correct": false
+      },
+      {
+        "text": "Exaustor eólico, veneziana móvel e visor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os alimentadores do sistema de hidrantes devem estar interligados a:",
+    "answers": [
+      {
+        "text": "Um registro de recalque na fachada ou passeio público.",
+        "correct": true
+      },
+      {
+        "text": "Somente ao reservatório superior.",
+        "correct": false
+      },
+      {
+        "text": "A tomadas de jardim para abastecimento manual.",
+        "correct": false
+      },
+      {
+        "text": "A um sistema de sprinklers molhado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A 'reserva de incêndio' no contexto do sistema de hidrantes é:",
+    "answers": [
+      {
+        "text": "Volume de água dedicado exclusivamente ao combate a incêndio.",
+        "correct": true
+      },
+      {
+        "text": "Água destinada ao consumo humano em emergência.",
+        "correct": false
+      },
+      {
+        "text": "Volume para testes hidráulicos periódicos apenas.",
+        "correct": false
+      },
+      {
+        "text": "Água de reuso para irrigação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo o documento, a taxa de fatalidade em incêndios sem supressão automática é:",
+    "answers": [
+      {
+        "text": "Cerca de sete vezes maior do que em ocorrências com supressão automática.",
+        "correct": true
+      },
+      {
+        "text": "Praticamente igual.",
+        "correct": false
+      },
+      {
+        "text": "Apenas 5% maior.",
+        "correct": false
+      },
+      {
+        "text": "Menor, porque evita pânico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os sprinklers atuam:",
+    "answers": [
+      {
+        "text": "Localmente, apenas nos bicos expostos ao calor, realizando detecção, alarme e combate.",
+        "correct": true
+      },
+      {
+        "text": "Em todos os bicos simultaneamente ao menor sinal de fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Somente após acionamento manual.",
+        "correct": false
+      },
+      {
+        "text": "Apenas como alarme visual.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No sistema de controle de fumaça em EAS classificados como H-VI, o documento destaca que deve haver, no mínimo:",
+    "answers": [
+      {
+        "text": "2 pontos de exaustão por pavimento.",
+        "correct": true
+      },
+      {
+        "text": "1 ponto por pavimento.",
+        "correct": false
+      },
+      {
+        "text": "Exaustão apenas nos pavimentos de descarga.",
+        "correct": false
+      },
+      {
+        "text": "Exaustão apenas nas casas de máquinas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quanto ao posicionamento no corredor da rota de fuga, deve existir ao menos um ponto de exaustão localizado:",
+    "answers": [
+      {
+        "text": "A no máximo 3,00 m de cada uma das extremidades.",
+        "correct": true
+      },
+      {
+        "text": "Exatamente no centro geométrico do corredor.",
+        "correct": false
+      },
+      {
+        "text": "A mais de 10 m das extremidades.",
+        "correct": false
+      },
+      {
+        "text": "Somente em escadas enclausuradas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em cozinhas de EAS, um fator que eleva o risco de incêndio é:",
+    "answers": [
+      {
+        "text": "Acúmulo de gorduras e condensados de óleos nos dutos de exaustão.",
+        "correct": true
+      },
+      {
+        "text": "Uso de exaustão com filtros adequados.",
+        "correct": false
+      },
+      {
+        "text": "Lavagem frequente dos dutos.",
+        "correct": false
+      },
+      {
+        "text": "Instalação de dampers corta-fogo adequados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dutos de ar condicionado/insuflamento/exaustão devem receber atenção porque:",
+    "answers": [
+      {
+        "text": "Podem conduzir fumaça, gases quentes e chamas entre áreas.",
+        "correct": true
+      },
+      {
+        "text": "Aumentam a umidade do ar e reduzem o risco.",
+        "correct": false
+      },
+      {
+        "text": "Impedem naturalmente a passagem de fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Eliminam a necessidade de selagens.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Passagens de instalações através de barreiras corta-fogo:",
+    "answers": [
+      {
+        "text": "Devem ser seladas com sistemas corta-fogo específicos.",
+        "correct": true
+      },
+      {
+        "text": "Podem permanecer abertas para inspeção visual.",
+        "correct": false
+      },
+      {
+        "text": "São irrelevantes para a compartimentação.",
+        "correct": false
+      },
+      {
+        "text": "Devem ser vedadas apenas com espuma acústica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um elemento corta-fogo inserido em uma barreira (porta/janela) pode ter TRRF:",
+    "answers": [
+      {
+        "text": "Até 30 minutos inferior ao da barreira, nunca abaixo de 30 minutos.",
+        "correct": true
+      },
+      {
+        "text": "Livre, sem relação com a barreira.",
+        "correct": false
+      },
+      {
+        "text": "Sempre idêntico ao da barreira.",
+        "correct": false
+      },
+      {
+        "text": "Inferior sem limite mínimo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para setores com alta ocupação em EAS, recomenda-se que as saídas estejam:",
+    "answers": [
+      {
+        "text": "Localizadas em lados opostos, preferencialmente com passagem para compartimento adjacente ou segunda escada.",
+        "correct": true
+      },
+      {
+        "text": "Concentradas no mesmo ponto para facilitar o controle.",
+        "correct": false
+      },
+      {
+        "text": "Voltadas para áreas técnicas internas.",
+        "correct": false
+      },
+      {
+        "text": "Fechadas em horários noturnos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma boa prática de manutenção do SDAI é:",
+    "answers": [
+      {
+        "text": "Plano de manutenção preventiva e testes periódicos de acionamento real.",
+        "correct": true
+      },
+      {
+        "text": "Somente manutenção corretiva quando houver falha.",
+        "correct": false
+      },
+      {
+        "text": "Desligar o sistema em horários noturnos.",
+        "correct": false
+      },
+      {
+        "text": "Evitar testes para não causar pânico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O Quadro 8 sugere TRRF 'I' (integridade) sem valor em minutos para quais ambientes, dentre os abaixo?",
+    "answers": [
+      {
+        "text": "Ambulatório / Ações básicas de saúde",
+        "correct": true
+      },
+      {
+        "text": "Lavanderia",
+        "correct": false
+      },
+      {
+        "text": "Cozinha",
+        "correct": false
+      },
+      {
+        "text": "Depósito de inflamáveis",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual ambiente do Quadro 8 tem sugestão de área máxima de 250 m² e pode ser considerado de alto risco?",
+    "answers": [
+      {
+        "text": "Laboratórios",
+        "correct": true
+      },
+      {
+        "text": "Apoio administrativo",
+        "correct": false
+      },
+      {
+        "text": "Anfiteatro",
+        "correct": false
+      },
+      {
+        "text": "Áreas de refúgio",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "CPD/Data center, segundo o Quadro 8, deve adotar TRRF de:",
+    "answers": [
+      {
+        "text": "120 min.",
+        "correct": true
+      },
+      {
+        "text": "60 min.",
+        "correct": false
+      },
+      {
+        "text": "30 min.",
+        "correct": false
+      },
+      {
+        "text": "Não há exigência de TRRF.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Centrais/depósitos de gases, conforme Quadro 8, apresentam TRRF mínimo de:",
+    "answers": [
+      {
+        "text": "120 min.",
+        "correct": true
+      },
+      {
+        "text": "60 min.",
+        "correct": false
+      },
+      {
+        "text": "90 min.",
+        "correct": false
+      },
+      {
+        "text": "30 min.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A denominação 'H-V' corresponde a edifícios com altura:",
+    "answers": [
+      {
+        "text": "30,00 m < H ≤ 45,00 m",
+        "correct": true
+      },
+      {
+        "text": "24,00 m < H ≤ 30,00 m",
+        "correct": false
+      },
+      {
+        "text": "12,00 m < H ≤ 24,00 m",
+        "correct": false
+      },
+      {
+        "text": "H > 45,00 m",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A denominação 'H-III' corresponde a edifícios com altura:",
+    "answers": [
+      {
+        "text": "12,00 m < H ≤ 24,00 m",
+        "correct": true
+      },
+      {
+        "text": "3,00 m ≤ H ≤ 12,00 m",
+        "correct": false
+      },
+      {
+        "text": "24,00 m < H ≤ 30,00 m",
+        "correct": false
+      },
+      {
+        "text": "30,00 m < H ≤ 45,00 m",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A integração do SDAI com o sistema de ar-condicionado visa principalmente:",
+    "answers": [
+      {
+        "text": "Reduzir a velocidade de propagação do sinistro ao desligar os condicionadores durante o alarme.",
+        "correct": true
+      },
+      {
+        "text": "Refrigerar a fumaça para melhorar o conforto.",
+        "correct": false
+      },
+      {
+        "text": "Aumentar a renovação de ar durante o incêndio.",
+        "correct": false
+      },
+      {
+        "text": "Manter os condicionadores ligados por conforto térmico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Segundo diretriz do documento, o TRRF de elementos inseridos em barreiras nunca deve ser:",
+    "answers": [
+      {
+        "text": "Inferior a 30 minutos.",
+        "correct": true
+      },
+      {
+        "text": "Superior ao da barreira.",
+        "correct": false
+      },
+      {
+        "text": "Igual ao da barreira.",
+        "correct": false
+      },
+      {
+        "text": "Relevante para a segurança.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A função principal do controle de fumaça é:",
+    "answers": [
+      {
+        "text": "Manter condições de fuga/combate, estabilizando a camada de fumaça acima da altura de circulação.",
+        "correct": true
+      },
+      {
+        "text": "Eliminar toda a fumaça do prédio em 60 segundos.",
+        "correct": false
+      },
+      {
+        "text": "Substituir a compartimentação.",
+        "correct": false
+      },
+      {
+        "text": "Permitir ocupação normal durante o incêndio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma boa prática indicada no documento para os hidrantes é:",
+    "answers": [
+      {
+        "text": "Uso de lacres e inspeções regulares para identificar violações/avarias.",
+        "correct": true
+      },
+      {
+        "text": "Manter os hidrantes lacrados sem inspeção para evitar uso indevido.",
+        "correct": false
+      },
+      {
+        "text": "Remover lacres para facilitar manuseio cotidiano.",
+        "correct": false
+      },
+      {
+        "text": "Substituir hidrantes por extintores portáteis.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para áreas de cocção em EAS, o documento referencia atendimento à:",
+    "answers": [
+      {
+        "text": "ABNT NBR 14.518 (sistemas de exaustão para cozinhas profissionais).",
+        "correct": true
+      },
+      {
+        "text": "ABNT NBR 5410 (instalações elétricas de baixa tensão).",
+        "correct": false
+      },
+      {
+        "text": "ABNT NBR 9077 (saídas de emergência).",
+        "correct": false
+      },
+      {
+        "text": "ABNT NBR 10152 (acústica).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em áreas críticas, o documento menciona a possibilidade de:",
+    "answers": [
+      {
+        "text": "Dois sistemas de detecção em paralelo cobrindo a mesma área de risco.",
+        "correct": true
+      },
+      {
+        "text": "Dispensar detecção automática em favor de rondas visuais.",
+        "correct": false
+      },
+      {
+        "text": "Usar apenas acionadores manuais.",
+        "correct": false
+      },
+      {
+        "text": "Confiar apenas em sprinklers.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O elemento corta-fogo, conforme ITCB 09/2011, deve impedir:",
+    "answers": [
+      {
+        "text": "Passagem de chamas, gases quentes/fumaça e calor (isolamento térmico).",
+        "correct": true
+      },
+      {
+        "text": "Apenas passagem de ruído.",
+        "correct": false
+      },
+      {
+        "text": "Apenas passagem de luz.",
+        "correct": false
+      },
+      {
+        "text": "Apenas passagem de ar frio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Áreas de refúgio, segundo o Quadro 8, têm TRRF:",
+    "answers": [
+      {
+        "text": "Classificadas com 'I' (integridade), sem minuto fixo.",
+        "correct": true
+      },
+      {
+        "text": "30 min.",
+        "correct": false
+      },
+      {
+        "text": "60 min.",
+        "correct": false
+      },
+      {
+        "text": "120 min.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para 'Apoio administrativo', o Quadro 8 sugere TRRF de:",
+    "answers": [
+      {
+        "text": "60 min.",
+        "correct": true
+      },
+      {
+        "text": "30 min.",
+        "correct": false
+      },
+      {
+        "text": "120 min.",
+        "correct": false
+      },
+      {
+        "text": "Não aplicável.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A selagem corta-fogo em passagens de instalações visa manter:",
+    "answers": [
+      {
+        "text": "A integridade e o isolamento térmico equivalentes à barreira.",
+        "correct": true
+      },
+      {
+        "text": "A estética do ambiente.",
+        "correct": false
+      },
+      {
+        "text": "A estanqueidade acústica apenas.",
+        "correct": false
+      },
+      {
+        "text": "A ventilação natural.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sobre rotas de fuga em EAS, o documento enfatiza:",
+    "answers": [
+      {
+        "text": "Proteção das rotas quanto à entrada de fumaça, inclusive via dutos.",
+        "correct": true
+      },
+      {
+        "text": "Uso de fornos para aquecimento de ar.",
+        "correct": false
+      },
+      {
+        "text": "Dispensa de controle de fumaça.",
+        "correct": false
+      },
+      {
+        "text": "Manutenção apenas corretiva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No sistema de hidrantes, recomenda-se que:",
+    "answers": [
+      {
+        "text": "As bombas de pressurização sejam identificadas e sinalizadas para fácil localização.",
+        "correct": true
+      },
+      {
+        "text": "O acionamento seja escondido para evitar uso.",
+        "correct": false
+      },
+      {
+        "text": "Não haja identificação de componentes.",
+        "correct": false
+      },
+      {
+        "text": "O recalque seja instalado em área interna apenas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quanto aos dutos, o documento ressalta que eles:",
+    "answers": [
+      {
+        "text": "Têm potencial de fornecer oxigênio ao fogo e conduzir fumaça/chamas.",
+        "correct": true
+      },
+      {
+        "text": "Impedem naturalmente a entrada de fumaça.",
+        "correct": false
+      },
+      {
+        "text": "São neutros para risco de incêndio.",
+        "correct": false
+      },
+      {
+        "text": "Substituem a necessidade de compartimentação.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em EAS H-VI, o controle de fumaça deve proteger:",
+    "answers": [
+      {
+        "text": "Os acessos às rotas de fuga nos pavimentos.",
+        "correct": true
+      },
+      {
+        "text": "Apenas as áreas técnicas.",
+        "correct": false
+      },
+      {
+        "text": "Somente o pavimento térreo.",
+        "correct": false
+      },
+      {
+        "text": "Exclusivamente as escadas pressurizadas.",
+        "correct": false
+      }
+    ]
+  }
+]
