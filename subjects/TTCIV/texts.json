@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Compartimentação Horizontal e Vertical (EAS)",
+    "content": "Compartimentar é dividir a edificação em setores de incêndio por barreiras com TRRF. Horizontal limita a propagação no pavimento; vertical, entre pavimentos. Priorize áreas com maior probabilidade de origem e maior impacto (cozinhas, lavanderias, laboratórios, depósitos). Quadro 9 define áreas máximas por altura (H-I a H-VI: 5.000/2.500/2.000/1.500/1.000/750 m²). Em centros cirúrgicos/obstétricos, recomenda-se refletir a compartimentação do pavimento assistencial no técnico."
+  },
+  {
+    "title": "SDAI — Sistema de Detecção e Alarme",
+    "content": "Integra detectores/acionadores e dispositivos de sinalização a um PCAI. Detectores de fumaça devem manter 1,00 m de afastamento de difusores de ar. Integrações úteis: desligar condicionadores de ar durante o alarme e acionar automaticamente a Brigada via telefonia digital. Manutenção preventiva com testes reais reduz o tempo de resposta e falhas latentes."
+  },
+  {
+    "title": "Hidrantes e Mangotinhos — Componentes e Operação",
+    "content": "Sistema clássico de combate: reservatórios, bombas de pressurização, válvula-gaveta, válvula de retenção, acionador manual, pontos de hidrantes/mangotinhos e registro de recalque (conexão externa para Bombeiros). Alimentadores interligados ao recalque devem estar na fachada/passeio para acesso rápido. Use lacres e inspeções regulares."
+  },
+  {
+    "title": "Sprinklers — Eficácia e Princípio de Atuação",
+    "content": "Os chuveiros automáticos atuam localmente nos bicos expostos ao calor, realizando detecção, alerta e combate. A taxa de fatalidade em incêndios sem supressão automática é cerca de 7× maior. Sprinklers limitam o crescimento do fogo e preservam condições de abandono."
+  },
+  {
+    "title": "Controle de Fumaça — Diretrizes Práticas",
+    "content": "Objetivo: manter a camada de fumaça acima da altura de circulação, garantindo fuga e apoio ao combate. Em EAS H-VI: mínimo 2 pontos de exaustão por pavimento e um ponto a ≤ 3,00 m de cada extremidade do corredor. Dutos e passagens devem ter damper/selagem corta-fogo apropriados para evitar transporte de fumaça/chamas."
+  },
+  {
+    "title": "Áreas Críticas e TRRF (Quadro 8)",
+    "content": "Exemplos: depósitos de inflamáveis (100 m²; TRRF 120 min), lavanderia (300 m²; TRRF 120 min), laboratórios (250 m²; TRRF 120 min), armazenagem/arquivos (250 m²; TRRF 60 min). Ambulatórios/áreas de refúgio aparecem com TRRF do tipo 'I' (integridade). Adeque os valores ao projeto executivo e às normas locais."
+  }
+]
