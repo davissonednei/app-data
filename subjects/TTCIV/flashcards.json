@@ -1,0 +1,226 @@
+[
+  {
+    "front": "Em segurança contra incêndio, 'compartimentação' significa:",
+    "back": "Dividir a edificação em setores de incêndio por barreiras corta-fogo com TRRF."
+  },
+  {
+    "front": "A compartimentação horizontal tem por objetivo principal:",
+    "back": "Impedir a propagação do fogo dentro do mesmo pavimento."
+  },
+  {
+    "front": "A compartimentação vertical tem por objetivo:",
+    "back": "Impedir a propagação do fogo entre pavimentos consecutivos."
+  },
+  {
+    "front": "Segundo o Quadro 9, a área máxima de compartimentação para H-I (edificação térrea) é:",
+    "back": "5.000 m²"
+  },
+  {
+    "front": "De acordo com o Quadro 9, a área máxima para H-II (3 m ≤ H ≤ 12 m) é:",
+    "back": "2.500 m²"
+  },
+  {
+    "front": "De acordo com o Quadro 9, a área máxima para H-III (12 m < H ≤ 24 m) é:",
+    "back": "2.000 m²"
+  },
+  {
+    "front": "De acordo com o Quadro 9, a área máxima para H-IV (24 m < H ≤ 30 m) é:",
+    "back": "1.500 m²"
+  },
+  {
+    "front": "De acordo com o Quadro 9, a área máxima para H-V (30 m < H ≤ 45 m) é:",
+    "back": "1.000 m²"
+  },
+  {
+    "front": "Para H-VI (acima de 45 m), o Quadro 9 indica área máxima de:",
+    "back": "750 m²"
+  },
+  {
+    "front": "Segundo o Quadro 8, a área de armazenagem/arquivos/depósitos deve, em geral, ser compartimentada até:",
+    "back": "250 m² e TRRF mínimo de 60 min."
+  },
+  {
+    "front": "O Quadro 8 recomenda TRRF mínimo de 120 min. para qual dos ambientes abaixo?",
+    "back": "Cozinha / Serviço de nutrição"
+  },
+  {
+    "front": "Qual ambiente do Quadro 8 apresenta sugestão de área máxima de 300 m² com TRRF 120 min.?",
+    "back": "Lavanderia"
+  },
+  {
+    "front": "No Quadro 8, qual é a área máxima sugerida para Sala de caldeiras/oficinas mecânicas?",
+    "back": "150 m²"
+  },
+  {
+    "front": "Segundo o Quadro 8, depósitos de inflamáveis/combustíveis devem ser compartimentados até:",
+    "back": "100 m² e TRRF 120 min."
+  },
+  {
+    "front": "Segundo o Quadro 8, laboratórios em EAS devem ser compartimentados até:",
+    "back": "250 m² e TRRF 120 min."
+  },
+  {
+    "front": "Nos EAS, a priorização de áreas para compartimentação deve considerar:",
+    "back": "Probabilidade de origem do incêndio e consequências (vítimas/danos)."
+  },
+  {
+    "front": "Em centros cirúrgicos/obstétricos, recomenda-se que a compartimentação do pavimento técnico:",
+    "back": "Replique a compartimentação do pavimento assistencial correspondente."
+  },
+  {
+    "front": "O sistema de detecção e alarme de incêndio integra dispositivos de iniciação e sinalização a:",
+    "back": "Um Painel Central de Alarme de Incêndio (PCAI)."
+  },
+  {
+    "front": "Detectores de fumaça devem manter afastamento mínimo, em relação a difusores de ar, de:",
+    "back": "1,00 metro."
+  },
+  {
+    "front": "O SDAI pode ser integrado para realizar, automaticamente, qual das ações abaixo?",
+    "back": "Desligar condicionadores de ar distribuídos quando do alarme."
+  },
+  {
+    "front": "Além de sinalizar, o SDAI pode ser utilizado para:",
+    "back": "Acionar diretamente os membros da Brigada de Incêndio via telefonia digital."
+  },
+  {
+    "front": "No esquema básico de hidrantes/mangotinhos, qual item permite suprimento externo direto à rede?",
+    "back": "Registro de recalque."
+  },
+  {
+    "front": "Quais componentes constam no esquema básico do sistema de hidrantes?",
+    "back": "Bomba de pressurização, válvula-gaveta e válvula de retenção."
+  },
+  {
+    "front": "Os alimentadores do sistema de hidrantes devem estar interligados a:",
+    "back": "Um registro de recalque na fachada ou passeio público."
+  },
+  {
+    "front": "A 'reserva de incêndio' no contexto do sistema de hidrantes é:",
+    "back": "Volume de água dedicado exclusivamente ao combate a incêndio."
+  },
+  {
+    "front": "Segundo o documento, a taxa de fatalidade em incêndios sem supressão automática é:",
+    "back": "Cerca de sete vezes maior do que em ocorrências com supressão automática."
+  },
+  {
+    "front": "Os sprinklers atuam:",
+    "back": "Localmente, apenas nos bicos expostos ao calor, realizando detecção, alarme e combate."
+  },
+  {
+    "front": "No sistema de controle de fumaça em EAS classificados como H-VI, o documento destaca que deve haver, no mínimo:",
+    "back": "2 pontos de exaustão por pavimento."
+  },
+  {
+    "front": "Quanto ao posicionamento no corredor da rota de fuga, deve existir ao menos um ponto de exaustão localizado:",
+    "back": "A no máximo 3,00 m de cada uma das extremidades."
+  },
+  {
+    "front": "Em cozinhas de EAS, um fator que eleva o risco de incêndio é:",
+    "back": "Acúmulo de gorduras e condensados de óleos nos dutos de exaustão."
+  },
+  {
+    "front": "Dutos de ar condicionado/insuflamento/exaustão devem receber atenção porque:",
+    "back": "Podem conduzir fumaça, gases quentes e chamas entre áreas."
+  },
+  {
+    "front": "Passagens de instalações através de barreiras corta-fogo:",
+    "back": "Devem ser seladas com sistemas corta-fogo específicos."
+  },
+  {
+    "front": "Um elemento corta-fogo inserido em uma barreira (porta/janela) pode ter TRRF:",
+    "back": "Até 30 minutos inferior ao da barreira, nunca abaixo de 30 minutos."
+  },
+  {
+    "front": "Para setores com alta ocupação em EAS, recomenda-se que as saídas estejam:",
+    "back": "Localizadas em lados opostos, preferencialmente com passagem para compartimento adjacente ou segunda escada."
+  },
+  {
+    "front": "Uma boa prática de manutenção do SDAI é:",
+    "back": "Plano de manutenção preventiva e testes periódicos de acionamento real."
+  },
+  {
+    "front": "O Quadro 8 sugere TRRF 'I' (integridade) sem valor em minutos para quais ambientes, dentre os abaixo?",
+    "back": "Ambulatório / Ações básicas de saúde"
+  },
+  {
+    "front": "Qual ambiente do Quadro 8 tem sugestão de área máxima de 250 m² e pode ser considerado de alto risco?",
+    "back": "Laboratórios"
+  },
+  {
+    "front": "CPD/Data center, segundo o Quadro 8, deve adotar TRRF de:",
+    "back": "120 min."
+  },
+  {
+    "front": "Centrais/depósitos de gases, conforme Quadro 8, apresentam TRRF mínimo de:",
+    "back": "120 min."
+  },
+  {
+    "front": "A denominação 'H-V' corresponde a edifícios com altura:",
+    "back": "30,00 m < H ≤ 45,00 m"
+  },
+  {
+    "front": "A denominação 'H-III' corresponde a edifícios com altura:",
+    "back": "12,00 m < H ≤ 24,00 m"
+  },
+  {
+    "front": "A integração do SDAI com o sistema de ar-condicionado visa principalmente:",
+    "back": "Reduzir a velocidade de propagação do sinistro ao desligar os condicionadores durante o alarme."
+  },
+  {
+    "front": "Segundo diretriz do documento, o TRRF de elementos inseridos em barreiras nunca deve ser:",
+    "back": "Inferior a 30 minutos."
+  },
+  {
+    "front": "A função principal do controle de fumaça é:",
+    "back": "Manter condições de fuga/combate, estabilizando a camada de fumaça acima da altura de circulação."
+  },
+  {
+    "front": "Uma boa prática indicada no documento para os hidrantes é:",
+    "back": "Uso de lacres e inspeções regulares para identificar violações/avarias."
+  },
+  {
+    "front": "Para áreas de cocção em EAS, o documento referencia atendimento à:",
+    "back": "ABNT NBR 14.518 (sistemas de exaustão para cozinhas profissionais)."
+  },
+  {
+    "front": "Em áreas críticas, o documento menciona a possibilidade de:",
+    "back": "Dois sistemas de detecção em paralelo cobrindo a mesma área de risco."
+  },
+  {
+    "front": "O elemento corta-fogo, conforme ITCB 09/2011, deve impedir:",
+    "back": "Passagem de chamas, gases quentes/fumaça e calor (isolamento térmico)."
+  },
+  {
+    "front": "TRRF (Tempo Requerido de Resistência ao Fogo):",
+    "back": "Tempo mínimo que um elemento deve resistir (integridade/estanqueidade/isolamento)."
+  },
+  {
+    "front": "H-I a H-VI:",
+    "back": "Classificação dos EAS por altura: 5.000 / 2.500 / 2.000 / 1.500 / 1.000 / 750 m² de área máx. de compartimentação."
+  },
+  {
+    "front": "Registro de recalque:",
+    "back": "Ponto de conexão externa para suprimento de água do Corpo de Bombeiros."
+  },
+  {
+    "front": "Integração SDAI × ar-condicionado:",
+    "back": "Permite desligamento automático dos condicionadores durante o alarme."
+  },
+  {
+    "front": "Selagem corta-fogo:",
+    "back": "Mantém desempenho de barreiras em passagens de instalações."
+  },
+  {
+    "front": "Sprinklers — atuação localizada:",
+    "back": "Somente os bicos expostos ao calor descarregam."
+  },
+  {
+    "front": "Controle de fumaça — regra do corredor:",
+    "back": "Ao menos 1 ponto a ≤ 3,00 m de cada extremidade; mínimo 2 por pavimento."
+  },
+  {
+    "front": "Cozinhas — risco nos dutos:",
+    "back": "Acúmulo de gorduras/condensados aumenta risco de incêndio."
+  }
+]
