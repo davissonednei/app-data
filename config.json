@@ -70,7 +70,7 @@
     "imageUrl": "https://davissonednei.github.io/app-data/images/penalI.png",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/penalI/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/peanlI/flashcards.json",
-    "audio_lessons_url": "https://davissonednei.github.io/app-data/subjects/pelanI/audio.json",
+    "audio_lessons_url": "https://davissonednei.github.io/app-data/subjects/pelanI/audio_lessons.json",
     "questionCount": 0,
     "flashcardCount": 52,
     "audioCount": 1
