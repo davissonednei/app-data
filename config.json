@@ -68,7 +68,6 @@
     "id": "direito_penal_1",
     "title": "Direito Penal I",
     "imageUrl": "https://davissonednei.github.io/app-data/images/penalI.png",
-    "questions_url": "https://davissonednei.github.io/app-data/subjects/penalI/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/penalI/flashcards.json",
     "lessons_url": "https://davissonednei.github.io/app-data/subjects/penalI/audio_lessons.json",
     "questionCount": 0,
