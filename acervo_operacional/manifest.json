@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "pops",
+      "title": "POPs",
+      "subtitle": "Procedimentos Operacionais Padrão",
+      "jsonUrl": "https://davissonednei.github.io/app-data/acervo_operacional/pops/manifest.json",
+      "color": "#E53935"
+    },
+    {
+      "id": "manuais",
+      "title": "Manuais",
+      "subtitle": "Guias e Doutrinas",
+      "jsonUrl": "https://davissonednei.github.io/app-data/acervo_operacional/manuais/manifest.json",
+      "color": "#1E88E5"
+    },
+    {
+      "id": "instrucoes_tecnicas",
+      "title": "Instruções Técnicas",
+      "subtitle": "Normas e Instruções de Serviço",
+      "jsonUrl": "https://davissonednei.github.io/app-data/acervo_operacional/instrucoes_tecnicas/manifest.json",
+      "color": "#43A047"
+    }
+  ]
+}
