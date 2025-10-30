@@ -91,7 +91,12 @@
   { "id": "metodologia_ii", "title": "Metodologia II", "weight": 3 },
   { "id": "pcif_ii", "title": "PCIF II", "weight": 2 },
   { "id": "penal_militar_ii", "title": "Penal Militar II", "weight": 2 },
-  { "id": "planop", "title": "PLANOP", "weight": 3 }
+  { "id": "planop", "title": "PLANOP", "weight": 3 },
+  { "id": "didática_oratoria", "title": "Didática e Oratória", "weight": 2 },
+  { "id": "scii", "title": "Segurança Conta Incêndio", "weight": 3 },  
+  { "id": "ouV", "title": "Ordem Unida V", "weight": 2 },  
+  { "id": "terrestre_iv", "title": "Salvamento Terrestre IV", "weight": 3 }   
+        
         ]
     }
   ]
