@@ -2,13 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "pop_001",
-      "title": "POP 001 – Combate a Incêndio Estrutural",
-      "summary": "Procedimento Operacional Padrão para combate em edificações.",
-      "url": "https://davissonednei.github.io/app-data/acervo_operacional/pops/pop_001.md",
-      "pdfUrl": "https://davissonednei.github.io/app-data/acervo_operacional/pops/pop_001.pdf"
-    },
-    {
       "id": "pop_07",
       "title": "POP 07 – Resgate de Vítima Presa em Elevador",
       "summary": "Procedimento Operacional Padrão para resgate de vítima presa em elevador.",
