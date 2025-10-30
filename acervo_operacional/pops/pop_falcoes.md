@@ -2,7 +2,7 @@
 ## ESPAÇOS CONFINADOS  
 
 **Trabalho apresentado à disciplina de Salvamento Terrestre do Curso de Formação de Oficiais da Academia de Bombeiros Militar, como requisito para nota parcial.**  
-**Instrutor:** Ten Cel BM Ramon Dieggo  
+**Instrutor: Ten Cel BM Ramon Dieggo**
 
 ---
 
