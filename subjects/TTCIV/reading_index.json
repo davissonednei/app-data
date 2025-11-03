@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "readings": [
+    {
+      "id": "leitura_5_1",
+      "title": "Compartimentação Horizontal e Vertical",
+      "summary": "Conceito, tipos e importância da compartimentação horizontal e vertical em edificações. Inclui TRRF, selagens corta-fogo e áreas de refúgio.",
+      "url": "https://davissonednei.github.io/app-data/disciplinas/seguranca_contra_incendio/leitura_5_1.md"
+    }
+  ]
+}
