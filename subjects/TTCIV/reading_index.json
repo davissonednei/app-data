@@ -9,24 +9,24 @@
     "id": "sistema_de_deteccao_de_incendio",
     "title": "5.2 – Sistema de Detecção de Incêndio",
     "description": "Funcionamento, tipos e manutenção dos sistemas de detecção e alarme de incêndio.",
-    "file": "readings/sistema_de_deteccao_de_incendio.md"
+    "file": "readings/leitura_5_2.md"
   },
   {
     "id": "sistema_de_hidrantes_e_mangotinhos",
     "title": "5.3 – Sistema de Hidrantes e Mangotinhos",
     "description": "Estrutura, manutenção e operação do sistema de hidrantes e mangotinhos em edificações.",
-    "file": "readings/sistema_de_hidrantes_e_mangotinhos.md"
+    "file": "readings/leitura_5_3.md"
   },
   {
     "id": "sistema_de_chuveiros_automaticos",
     "title": "5.4 – Sistema de Chuveiros Automáticos (Sprinklers)",
     "description": "Funcionamento, tipos e aplicações dos sistemas de sprinklers automáticos em edificações.",
-    "file": "readings/sistema_de_chuveiros_automaticos.md"
+    "file": "readings/leitura_5_4.md"
   },
   {
     "id": "sistema_de_controle_de_fumaca",
     "title": "5.5 – Sistema de Controle de Fumaça",
     "description": "Descrição, tipos, funcionamento e manutenção dos sistemas de controle de fumaça em edificações e ambientes hospitalares.",
-    "file": "readings/sistema_de_controle_de_fumaca.md"
+    "file": "readings/leitura_5_5.md"
   }
 ]
