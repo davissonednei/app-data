@@ -1,1157 +1,592 @@
 [
   {
-    "question": "Em segurança contra incêndio, 'compartimentação' significa:",
+    "question": "Qual é a principal finalidade da compartimentação em edificações?",
     "answers": [
-      {
-        "text": "Dividir a edificação em setores de incêndio por barreiras corta-fogo com TRRF.",
-        "correct": true
-      },
-      {
-        "text": "Aumentar a ventilação para diluir a fumaça.",
-        "correct": false
-      },
-      {
-        "text": "Instalar detectores apenas nas rotas de fuga.",
-        "correct": false
-      },
-      {
-        "text": "Separar ambientes por portas acústicas sem requisitos ao fogo.",
-        "correct": false
-      }
+      { "text": "Permitir maior ventilação natural durante incêndios.", "correct": false },
+      { "text": "Facilitar o acesso de equipes externas às áreas internas.", "correct": false },
+      { "text": "Conter o incêndio no ambiente de origem, evitando sua propagação.", "correct": true },
+      { "text": "Aumentar a resistência mecânica das estruturas em geral.", "correct": false }
     ]
   },
   {
-    "question": "A compartimentação horizontal tem por objetivo principal:",
+    "question": "A compartimentação vertical tem como função principal:",
     "answers": [
-      {
-        "text": "Impedir a propagação do fogo dentro do mesmo pavimento.",
-        "correct": true
-      },
-      {
-        "text": "Impedir a propagação entre pavimentos contíguos.",
-        "correct": false
-      },
-      {
-        "text": "Criar sobrepressão em escadas enclausuradas.",
-        "correct": false
-      },
-      {
-        "text": "Substituir a detecção automática.",
-        "correct": false
-      }
+      { "text": "Dividir grandes áreas de um mesmo pavimento.", "correct": false },
+      { "text": "Isolar pavimentos, impedindo a propagação de fogo e fumaça entre andares.", "correct": true },
+      { "text": "Permitir a passagem de dutos e cabos com livre ventilação.", "correct": false },
+      { "text": "Aumentar a ventilação e iluminação natural das escadas.", "correct": false }
     ]
   },
   {
-    "question": "A compartimentação vertical tem por objetivo:",
+    "question": "O TRRF (Tempo Requerido de Resistência ao Fogo) mede:",
     "answers": [
-      {
-        "text": "Impedir a propagação do fogo entre pavimentos consecutivos.",
-        "correct": true
-      },
-      {
-        "text": "Reduzir a carga de incêndio por sala.",
-        "correct": false
-      },
-      {
-        "text": "Aumentar a ventilação natural.",
-        "correct": false
-      },
-      {
-        "text": "Garantir apenas conforto acústico.",
-        "correct": false
-      }
+      { "text": "O tempo necessário para o Corpo de Bombeiros chegar ao local do incêndio.", "correct": false },
+      { "text": "O período que o material leva para iniciar o processo de combustão.", "correct": false },
+      { "text": "O tempo em que um elemento construtivo resiste ao fogo mantendo suas funções.", "correct": true },
+      { "text": "O tempo máximo de evacuação permitido em um incêndio.", "correct": false }
     ]
   },
   {
-    "question": "Segundo o Quadro 9, a área máxima de compartimentação para H-I (edificação térrea) é:",
+    "question": "As selagens corta-fogo têm como principal função:",
     "answers": [
-      {
-        "text": "5.000 m²",
-        "correct": true
-      },
-      {
-        "text": "2.500 m²",
-        "correct": false
-      },
-      {
-        "text": "1.500 m²",
-        "correct": false
-      },
-      {
-        "text": "750 m²",
-        "correct": false
-      }
+      { "text": "Garantir a ventilação cruzada entre ambientes durante o incêndio.", "correct": false },
+      { "text": "Recompor a barreira corta-fogo em passagens de dutos, cabos e tubulações.", "correct": true },
+      { "text": "Evitar o acúmulo de fumaça nas áreas confinadas.", "correct": false },
+      { "text": "Facilitar o acesso de manutenção em instalações elétricas.", "correct": false }
     ]
   },
   {
-    "question": "De acordo com o Quadro 9, a área máxima para H-II (3 m ≤ H ≤ 12 m) é:",
+    "question": "As áreas de refúgio são destinadas a:",
     "answers": [
-      {
-        "text": "2.500 m²",
-        "correct": true
-      },
-      {
-        "text": "5.000 m²",
-        "correct": false
-      },
-      {
-        "text": "2.000 m²",
-        "correct": false
-      },
-      {
-        "text": "1.500 m²",
-        "correct": false
-      }
+      { "text": "Armazenamento temporário de equipamentos contra incêndio.", "correct": false },
+      { "text": "Permanência segura de pessoas até a evacuação total.", "correct": true },
+      { "text": "Local de controle do sistema de hidrantes e sprinklers.", "correct": false },
+      { "text": "Espaço reservado para brigadistas e bombeiros durante o combate.", "correct": false }
     ]
   },
   {
-    "question": "De acordo com o Quadro 9, a área máxima para H-III (12 m < H ≤ 24 m) é:",
+    "question": "Segundo a NBR 14432, o TRRF mínimo para estruturas de até 12 metros é de:",
     "answers": [
-      {
-        "text": "2.000 m²",
-        "correct": true
-      },
-      {
-        "text": "1.500 m²",
-        "correct": false
-      },
-      {
-        "text": "1.000 m²",
-        "correct": false
-      },
-      {
-        "text": "750 m²",
-        "correct": false
-      }
+      { "text": "30 minutos.", "correct": false },
+      { "text": "45 minutos.", "correct": false },
+      { "text": "60 minutos.", "correct": true },
+      { "text": "90 minutos.", "correct": false }
     ]
   },
   {
-    "question": "De acordo com o Quadro 9, a área máxima para H-IV (24 m < H ≤ 30 m) é:",
+    "question": "Assinale a alternativa correta sobre os benefícios da compartimentação:",
     "answers": [
-      {
-        "text": "1.500 m²",
-        "correct": true
-      },
-      {
-        "text": "2.000 m²",
-        "correct": false
-      },
-      {
-        "text": "1.000 m²",
-        "correct": false
-      },
-      {
-        "text": "750 m²",
-        "correct": false
-      }
+      { "text": "Facilita o colapso controlado de estruturas e reduz custos construtivos.", "correct": false },
+      { "text": "Dificulta a propagação do fogo e da fumaça, facilitando o resgate.", "correct": true },
+      { "text": "Permite o uso de materiais inflamáveis em divisórias.", "correct": false },
+      { "text": "Elimina a necessidade de sistemas automáticos de extinção.", "correct": false }
     ]
   },
   {
-    "question": "De acordo com o Quadro 9, a área máxima para H-V (30 m < H ≤ 45 m) é:",
+    "question": "Qual é o principal objetivo do sistema de detecção de incêndio?",
     "answers": [
-      {
-        "text": "1.000 m²",
-        "correct": true
-      },
-      {
-        "text": "1.500 m²",
-        "correct": false
-      },
-      {
-        "text": "2.000 m²",
-        "correct": false
-      },
-      {
-        "text": "750 m²",
-        "correct": false
-      }
+      { "text": "Detectar precocemente um princípio de incêndio e acionar alarmes sonoros e visuais.", "correct": true },
+      { "text": "Aumentar a temperatura do ambiente para facilitar a ventilação natural.", "correct": false },
+      { "text": "Evitar o acionamento de sistemas automáticos de combate a incêndio.", "correct": false },
+      { "text": "Reduzir o consumo de energia elétrica nos sistemas de segurança.", "correct": false }
     ]
   },
   {
-    "question": "Para H-VI (acima de 45 m), o Quadro 9 indica área máxima de:",
+    "question": "Nos Estabelecimentos Assistenciais de Saúde, a detecção precoce é especialmente importante porque:",
     "answers": [
-      {
-        "text": "750 m²",
-        "correct": true
-      },
-      {
-        "text": "1.000 m²",
-        "correct": false
-      },
-      {
-        "text": "500 m²",
-        "correct": false
-      },
-      {
-        "text": "2.500 m²",
-        "correct": false
-      }
+      { "text": "Os pacientes possuem mobilidade reduzida e dependem de equipamentos sensíveis.", "correct": true },
+      { "text": "Os ambientes são ventilados naturalmente e não há risco de fumaça.", "correct": false },
+      { "text": "Os alarmes manuais são suficientes para acionar a evacuação.", "correct": false },
+      { "text": "Os sistemas de detecção são proibidos nesses locais.", "correct": false }
     ]
   },
   {
-    "question": "Segundo o Quadro 8, a área de armazenagem/arquivos/depósitos deve, em geral, ser compartimentada até:",
+    "question": "O sistema de detecção de incêndio é composto por:",
     "answers": [
-      {
-        "text": "250 m² e TRRF mínimo de 60 min.",
-        "correct": true
-      },
-      {
-        "text": "100 m² e TRRF mínimo de 30 min.",
-        "correct": false
-      },
-      {
-        "text": "500 m² e TRRF mínimo de 90 min.",
-        "correct": false
-      },
-      {
-        "text": "Sem limite de área e sem TRRF.",
-        "correct": false
-      }
+      { "text": "Detectores automáticos, acionadores manuais e uma Central de Alarme de Incêndio.", "correct": true },
+      { "text": "Sprinklers, hidrantes e extintores portáteis.", "correct": false },
+      { "text": "Somente detectores de fumaça e sirenes de emergência.", "correct": false },
+      { "text": "Somente sensores de temperatura acoplados ao sistema de ventilação.", "correct": false }
     ]
   },
   {
-    "question": "O Quadro 8 recomenda TRRF mínimo de 120 min. para qual dos ambientes abaixo?",
+    "question": "A diferença entre o sistema convencional e o endereçável está no fato de que:",
     "answers": [
-      {
-        "text": "Cozinha / Serviço de nutrição",
-        "correct": true
-      },
-      {
-        "text": "Apoio administrativo",
-        "correct": false
-      },
-      {
-        "text": "Ambulatório",
-        "correct": false
-      },
-      {
-        "text": "Anfiteatro",
-        "correct": false
-      }
+      { "text": "O sistema endereçável permite identificar o ponto exato do foco de incêndio.", "correct": true },
+      { "text": "O sistema convencional utiliza sensores de chama em vez de detectores de fumaça.", "correct": false },
+      { "text": "O sistema endereçável não depende de cabos e é totalmente sem fio.", "correct": false },
+      { "text": "O sistema convencional é mais caro e indicado para grandes edificações.", "correct": false }
     ]
   },
   {
-    "question": "Qual ambiente do Quadro 8 apresenta sugestão de área máxima de 300 m² com TRRF 120 min.?",
+    "question": "Os detectores de temperatura fixa disparam o alarme quando:",
     "answers": [
-      {
-        "text": "Lavanderia",
-        "correct": true
-      },
-      {
-        "text": "Sala de caldeiras",
-        "correct": false
-      },
-      {
-        "text": "Laboratório",
-        "correct": false
-      },
-      {
-        "text": "Depósito de inflamáveis",
-        "correct": false
-      }
+      { "text": "A temperatura do ambiente atinge um valor pré-determinado.", "correct": true },
+      { "text": "Há variação brusca da temperatura ambiente.", "correct": false },
+      { "text": "A concentração de gases tóxicos aumenta acima do limite seguro.", "correct": false },
+      { "text": "O nível de fumaça ultrapassa 20% do limite visível.", "correct": false }
     ]
   },
   {
-    "question": "No Quadro 8, qual é a área máxima sugerida para Sala de caldeiras/oficinas mecânicas?",
+    "question": "A instalação dos detectores de fumaça deve observar:",
     "answers": [
-      {
-        "text": "150 m²",
-        "correct": true
-      },
-      {
-        "text": "250 m²",
-        "correct": false
-      },
-      {
-        "text": "300 m²",
-        "correct": false
-      },
-      {
-        "text": "100 m²",
-        "correct": false
-      }
+      { "text": "Distância mínima de 1 metro dos difusores de ar e 0,40 metro das luminárias.", "correct": true },
+      { "text": "Distância máxima de 50 centímetros das paredes e luminárias.", "correct": false },
+      { "text": "Apenas a estética do ambiente, sem interferir na ventilação.", "correct": false },
+      { "text": "Instalação preferencial em dutos de ar-condicionado e áreas abertas.", "correct": false }
     ]
   },
   {
-    "question": "Segundo o Quadro 8, depósitos de inflamáveis/combustíveis devem ser compartimentados até:",
+    "question": "A integração entre o sistema de detecção e o controle de acesso tem como principal função:",
     "answers": [
-      {
-        "text": "100 m² e TRRF 120 min.",
-        "correct": true
-      },
-      {
-        "text": "250 m² e TRRF 60 min.",
-        "correct": false
-      },
-      {
-        "text": "300 m² e TRRF 90 min.",
-        "correct": false
-      },
-      {
-        "text": "Sem limite e TRRF 30 min.",
-        "correct": false
-      }
+      { "text": "Liberar automaticamente as portas em caso de incêndio, facilitando a evacuação.", "correct": true },
+      { "text": "Desligar o sistema de alarme para evitar pânico entre os ocupantes.", "correct": false },
+      { "text": "Acionar o ar-condicionado para aumentar a ventilação do ambiente.", "correct": false },
+      { "text": "Restringir a entrada da brigada de incêndio no local afetado.", "correct": false }
     ]
   },
   {
-    "question": "Segundo o Quadro 8, laboratórios em EAS devem ser compartimentados até:",
+    "question": "Os testes de manutenção do sistema de detecção e alarme devem ser realizados:",
     "answers": [
-      {
-        "text": "250 m² e TRRF 120 min.",
-        "correct": true
-      },
-      {
-        "text": "500 m² e TRRF 60 min.",
-        "correct": false
-      },
-      {
-        "text": "100 m² e TRRF 30 min.",
-        "correct": false
-      },
-      {
-        "text": "Sem limite e TRRF 90 min.",
-        "correct": false
-      }
+      { "text": "Semestralmente, com registro e documentação dos resultados.", "correct": true },
+      { "text": "Anualmente, apenas em caso de falha no sistema.", "correct": false },
+      { "text": "Trimestralmente, sem necessidade de registro formal.", "correct": false },
+      { "text": "Diariamente, durante o expediente da edificação.", "correct": false }
     ]
   },
   {
-    "question": "Nos EAS, a priorização de áreas para compartimentação deve considerar:",
+    "question": "Durante a manutenção preventiva do sistema de detecção, deve-se verificar:",
     "answers": [
-      {
-        "text": "Probabilidade de origem do incêndio e consequências (vítimas/danos).",
-        "correct": true
-      },
-      {
-        "text": "Apenas o custo de materiais corta-fogo.",
-        "correct": false
-      },
-      {
-        "text": "Somente a estética arquitetônica.",
-        "correct": false
-      },
-      {
-        "text": "Exclusivamente a ventilação cruzada.",
-        "correct": false
-      }
+      { "text": "Detectores automáticos, acionadores manuais, avisadores e a Central de Alarme.", "correct": true },
+      { "text": "Apenas a limpeza das sirenes e sinalizações visuais.", "correct": false },
+      { "text": "Somente o estado físico dos cabos de alimentação.", "correct": false },
+      { "text": "Os hidrantes e o reservatório de combate a incêndio.", "correct": false }
     ]
   },
   {
-    "question": "Em centros cirúrgicos/obstétricos, recomenda-se que a compartimentação do pavimento técnico:",
+    "question": "O sistema de detecção e alarme de incêndio é considerado um sistema de proteção ativa porque:",
     "answers": [
-      {
-        "text": "Replique a compartimentação do pavimento assistencial correspondente.",
-        "correct": true
-      },
-      {
-        "text": "Seja dispensada devido ao baixo risco.",
-        "correct": false
-      },
-      {
-        "text": "Possua aberturas livres para alívio de fumaça.",
-        "correct": false
-      },
-      {
-        "text": "Seja substituída por detecção pontual.",
-        "correct": false
-      }
+      { "text": "Age automaticamente para alertar e integrar outras medidas de segurança.", "correct": true },
+      { "text": "Funciona apenas de forma manual, quando acionado por um operador.", "correct": false },
+      { "text": "Não depende de sensores nem de centrais de controle.", "correct": false },
+      { "text": "Trabalha apenas na contenção de fumaça, sem alarme sonoro.", "correct": false }
     ]
   },
   {
-    "question": "O sistema de detecção e alarme de incêndio integra dispositivos de iniciação e sinalização a:",
+    "question": "Qual é a principal função do sistema de hidrantes e mangotinhos?",
     "answers": [
-      {
-        "text": "Um Painel Central de Alarme de Incêndio (PCAI).",
-        "correct": true
-      },
-      {
-        "text": "A uma rede de sprinklers.",
-        "correct": false
-      },
-      {
-        "text": "Aos hidrantes de fachada.",
-        "correct": false
-      },
-      {
-        "text": "A um painel de nobreak.",
-        "correct": false
-      }
+      { "text": "Permitir o combate a incêndios por meio de pontos fixos pressurizados conectados à reserva de incêndio da edificação.", "correct": true },
+      { "text": "Ventilar as áreas de fuga e saídas de emergência durante o incêndio.", "correct": false },
+      { "text": "Detectar automaticamente o início do fogo e acionar alarmes sonoros.", "correct": false },
+      { "text": "Armazenar água apenas para uso sanitário em caso de incêndio.", "correct": false }
     ]
   },
   {
-    "question": "Detectores de fumaça devem manter afastamento mínimo, em relação a difusores de ar, de:",
+    "question": "Como deve permanecer a tubulação do sistema de hidrantes?",
     "answers": [
-      {
-        "text": "1,00 metro.",
-        "correct": true
-      },
-      {
-        "text": "0,30 metro.",
-        "correct": false
-      },
-      {
-        "text": "1,50 metro.",
-        "correct": false
-      },
-      {
-        "text": "2,00 metros.",
-        "correct": false
-      }
+      { "text": "Sempre cheia de água sob pressão, por gravidade ou bombas de pressurização.", "correct": true },
+      { "text": "Vazia, sendo preenchida somente quando houver acionamento manual.", "correct": false },
+      { "text": "Com ar comprimido para evitar corrosão.", "correct": false },
+      { "text": "Somente pressurizada durante o expediente da edificação.", "correct": false }
     ]
   },
   {
-    "question": "O SDAI pode ser integrado para realizar, automaticamente, qual das ações abaixo?",
+    "question": "Em edificações de múltiplos pavimentos, a tubulação do sistema é:",
     "answers": [
-      {
-        "text": "Desligar condicionadores de ar distribuídos quando do alarme.",
-        "correct": true
-      },
-      {
-        "text": "Liberar portas corta-fogo durante o expediente.",
-        "correct": false
-      },
-      {
-        "text": "Acionar sprinklers sem necessidade de calor local.",
-        "correct": false
-      },
-      {
-        "text": "Aumentar a velocidade dos elevadores de serviço.",
-        "correct": false
-      }
+      { "text": "Vertical, formando as prumadas.", "correct": true },
+      { "text": "Horizontal, com derivação no subsolo.", "correct": false },
+      { "text": "Instalada apenas no último andar.", "correct": false },
+      { "text": "Móvel e removível conforme o uso.", "correct": false }
     ]
   },
   {
-    "question": "Além de sinalizar, o SDAI pode ser utilizado para:",
+    "question": "Qual é a diferença entre mangueiras flexíveis e mangotinhos?",
     "answers": [
-      {
-        "text": "Acionar diretamente os membros da Brigada de Incêndio via telefonia digital.",
-        "correct": true
-      },
-      {
-        "text": "Desligar permanentemente o sistema elétrico do prédio.",
-        "correct": false
-      },
-      {
-        "text": "Substituir o plano de emergência.",
-        "correct": false
-      },
-      {
-        "text": "Dispensar treinamento da brigada.",
-        "correct": false
-      }
+      { "text": "Mangueiras flexíveis exigem engate manual, enquanto mangotinhos são semirrígidos e permanecem conectados.", "correct": true },
+      { "text": "Mangueiras flexíveis são usadas apenas por bombeiros e mangotinhos apenas por civis.", "correct": false },
+      { "text": "Mangotinhos suportam menor pressão que mangueiras flexíveis.", "correct": false },
+      { "text": "Não há diferença entre os dois tipos de mangueiras.", "correct": false }
     ]
   },
   {
-    "question": "No esquema básico de hidrantes/mangotinhos, qual item permite suprimento externo direto à rede?",
+    "question": "Conforme a ABNT NBR 13.434, os pontos de hidrante devem ser:",
     "answers": [
-      {
-        "text": "Registro de recalque.",
-        "correct": true
-      },
-      {
-        "text": "Válvula-gaveta.",
-        "correct": false
-      },
-      {
-        "text": "Válvula de retenção.",
-        "correct": false
-      },
-      {
-        "text": "Acionador manual.",
-        "correct": false
-      }
+      { "text": "Instalados em corredores centrais e locais de fácil acesso, devidamente sinalizados.", "correct": true },
+      { "text": "Instalados apenas nas saídas de emergência.", "correct": false },
+      { "text": "Colocados em locais escondidos para evitar vandalismo.", "correct": false },
+      { "text": "Distribuídos aleatoriamente conforme o layout do prédio.", "correct": false }
     ]
   },
   {
-    "question": "Quais componentes constam no esquema básico do sistema de hidrantes?",
+    "question": "Qual norma define os requisitos de fabricação das mangueiras de incêndio?",
     "answers": [
-      {
-        "text": "Bomba de pressurização, válvula-gaveta e válvula de retenção.",
-        "correct": true
-      },
-      {
-        "text": "Filtro ciclônico, damper de fumaça e fan-coil.",
-        "correct": false
-      },
-      {
-        "text": "Porta acústica, duto isolado e split hi-wall.",
-        "correct": false
-      },
-      {
-        "text": "Exaustor eólico, veneziana móvel e visor.",
-        "correct": false
-      }
+      { "text": "ABNT NBR 11.861.", "correct": true },
+      { "text": "ABNT NBR 13.714.", "correct": false },
+      { "text": "ABNT NBR 12.779.", "correct": false },
+      { "text": "ABNT NBR 9.071.", "correct": false }
     ]
   },
   {
-    "question": "Os alimentadores do sistema de hidrantes devem estar interligados a:",
+    "question": "De acordo com a ABNT NBR 12.779, a inspeção das mangueiras deve ocorrer a cada:",
     "answers": [
-      {
-        "text": "Um registro de recalque na fachada ou passeio público.",
-        "correct": true
-      },
-      {
-        "text": "Somente ao reservatório superior.",
-        "correct": false
-      },
-      {
-        "text": "A tomadas de jardim para abastecimento manual.",
-        "correct": false
-      },
-      {
-        "text": "A um sistema de sprinklers molhado.",
-        "correct": false
-      }
+      { "text": "6 meses, com manutenção anual.", "correct": true },
+      { "text": "3 meses, com manutenção semestral.", "correct": false },
+      { "text": "12 meses, com manutenção bienal.", "correct": false },
+      { "text": "Mensalmente, com manutenção trimestral.", "correct": false }
     ]
   },
   {
-    "question": "A 'reserva de incêndio' no contexto do sistema de hidrantes é:",
+    "question": "Quem deve realizar a manutenção e emitir a ART das mangueiras?",
     "answers": [
-      {
-        "text": "Volume de água dedicado exclusivamente ao combate a incêndio.",
-        "correct": true
-      },
-      {
-        "text": "Água destinada ao consumo humano em emergência.",
-        "correct": false
-      },
-      {
-        "text": "Volume para testes hidráulicos periódicos apenas.",
-        "correct": false
-      },
-      {
-        "text": "Água de reuso para irrigação.",
-        "correct": false
-      }
+      { "text": "Empresa registrada no CREA, com profissional responsável técnico.", "correct": true },
+      { "text": "Qualquer servidor interno da edificação.", "correct": false },
+      { "text": "A brigada de incêndio local.", "correct": false },
+      { "text": "O Corpo de Bombeiros Militar em vistoria anual.", "correct": false }
     ]
   },
   {
-    "question": "Segundo o documento, a taxa de fatalidade em incêndios sem supressão automática é:",
+    "question": "Qual tipo de jato é indicado para resfriar o ambiente durante o combate a incêndio?",
     "answers": [
-      {
-        "text": "Cerca de sete vezes maior do que em ocorrências com supressão automática.",
-        "correct": true
-      },
-      {
-        "text": "Praticamente igual.",
-        "correct": false
-      },
-      {
-        "text": "Apenas 5% maior.",
-        "correct": false
-      },
-      {
-        "text": "Menor, porque evita pânico.",
-        "correct": false
-      }
+      { "text": "Jato neblina.", "correct": true },
+      { "text": "Jato sólido.", "correct": false },
+      { "text": "Jato concentrado.", "correct": false },
+      { "text": "Jato pulsante.", "correct": false }
     ]
   },
   {
-    "question": "Os sprinklers atuam:",
+    "question": "A válvula de recalque deve estar localizada:",
     "answers": [
-      {
-        "text": "Localmente, apenas nos bicos expostos ao calor, realizando detecção, alarme e combate.",
-        "correct": true
-      },
-      {
-        "text": "Em todos os bicos simultaneamente ao menor sinal de fumaça.",
-        "correct": false
-      },
-      {
-        "text": "Somente após acionamento manual.",
-        "correct": false
-      },
-      {
-        "text": "Apenas como alarme visual.",
-        "correct": false
-      }
+      { "text": "Na fachada da edificação ou passeio público, identificada e acessível.", "correct": true },
+      { "text": "No interior da casa de bombas, de uso exclusivo da manutenção.", "correct": false },
+      { "text": "Em área subterrânea de acesso restrito.", "correct": false },
+      { "text": "Acima do reservatório superior, junto às prumadas.", "correct": false }
     ]
   },
   {
-    "question": "No sistema de controle de fumaça em EAS classificados como H-VI, o documento destaca que deve haver, no mínimo:",
+    "question": "Como deve ser o acionamento das bombas de pressurização?",
     "answers": [
-      {
-        "text": "2 pontos de exaustão por pavimento.",
-        "correct": true
-      },
-      {
-        "text": "1 ponto por pavimento.",
-        "correct": false
-      },
-      {
-        "text": "Exaustão apenas nos pavimentos de descarga.",
-        "correct": false
-      },
-      {
-        "text": "Exaustão apenas nas casas de máquinas.",
-        "correct": false
-      }
+      { "text": "Automático por chave de fluxo ou pressostato e manual em pontos estratégicos.", "correct": true },
+      { "text": "Apenas manual, para evitar desgaste mecânico.", "correct": false },
+      { "text": "Por temporizador ligado à iluminação de emergência.", "correct": false },
+      { "text": "Somente quando acionada pela brigada de incêndio.", "correct": false }
     ]
   },
   {
-    "question": "Quanto ao posicionamento no corredor da rota de fuga, deve existir ao menos um ponto de exaustão localizado:",
+    "question": "O painel central deve monitorar continuamente:",
     "answers": [
-      {
-        "text": "A no máximo 3,00 m de cada uma das extremidades.",
-        "correct": true
-      },
-      {
-        "text": "Exatamente no centro geométrico do corredor.",
-        "correct": false
-      },
-      {
-        "text": "A mais de 10 m das extremidades.",
-        "correct": false
-      },
-      {
-        "text": "Somente em escadas enclausuradas.",
-        "correct": false
-      }
+      { "text": "A energia elétrica, o nível da reserva de incêndio e o funcionamento da bomba.", "correct": true },
+      { "text": "A pressão do gás e a ventilação dos dutos.", "correct": false },
+      { "text": "A presença de fumaça nos corredores.", "correct": false },
+      { "text": "O número de ocupantes no edifício.", "correct": false }
     ]
   },
   {
-    "question": "Em cozinhas de EAS, um fator que eleva o risco de incêndio é:",
+    "question": "A casa de bombas deve possuir compartimentação com resistência ao fogo de:",
     "answers": [
-      {
-        "text": "Acúmulo de gorduras e condensados de óleos nos dutos de exaustão.",
-        "correct": true
-      },
-      {
-        "text": "Uso de exaustão com filtros adequados.",
-        "correct": false
-      },
-      {
-        "text": "Lavagem frequente dos dutos.",
-        "correct": false
-      },
-      {
-        "text": "Instalação de dampers corta-fogo adequados.",
-        "correct": false
-      }
+      { "text": "120 minutos (TRRF 120 min).", "correct": true },
+      { "text": "60 minutos (TRRF 60 min).", "correct": false },
+      { "text": "90 minutos (TRRF 90 min).", "correct": false },
+      { "text": "240 minutos (TRRF 240 min).", "correct": false }
     ]
   },
   {
-    "question": "Dutos de ar condicionado/insuflamento/exaustão devem receber atenção porque:",
+    "question": "O acesso à casa de bombas deve ser:",
     "answers": [
-      {
-        "text": "Podem conduzir fumaça, gases quentes e chamas entre áreas.",
-        "correct": true
-      },
-      {
-        "text": "Aumentam a umidade do ar e reduzem o risco.",
-        "correct": false
-      },
-      {
-        "text": "Impedem naturalmente a passagem de fumaça.",
-        "correct": false
-      },
-      {
-        "text": "Eliminam a necessidade de selagens.",
-        "correct": false
-      }
+      { "text": "Restrito a pessoal autorizado e devidamente sinalizado.", "correct": true },
+      { "text": "Livre para qualquer funcionário da edificação.", "correct": false },
+      { "text": "Permitido apenas para visitantes e brigadistas.", "correct": false },
+      { "text": "Bloqueado durante o expediente do prédio.", "correct": false }
     ]
   },
   {
-    "question": "Passagens de instalações através de barreiras corta-fogo:",
+    "question": "A eficiência do sistema de hidrantes e mangotinhos depende principalmente de:",
     "answers": [
-      {
-        "text": "Devem ser seladas com sistemas corta-fogo específicos.",
-        "correct": true
-      },
-      {
-        "text": "Podem permanecer abertas para inspeção visual.",
-        "correct": false
-      },
-      {
-        "text": "São irrelevantes para a compartimentação.",
-        "correct": false
-      },
-      {
-        "text": "Devem ser vedadas apenas com espuma acústica.",
-        "correct": false
-      }
+      { "text": "Instalação correta, manutenção, pressurização e treinamento das brigadas.", "correct": true },
+      { "text": "Utilização de reservatórios menores e pressão reduzida.", "correct": false },
+      { "text": "Inspeções ocasionais feitas por usuários civis.", "correct": false },
+      { "text": "Substituição periódica das válvulas de recalque.", "correct": false }
     ]
   },
   {
-    "question": "Um elemento corta-fogo inserido em uma barreira (porta/janela) pode ter TRRF:",
+    "question": "Qual é a função principal dos sistemas de chuveiros automáticos?",
     "answers": [
-      {
-        "text": "Até 30 minutos inferior ao da barreira, nunca abaixo de 30 minutos.",
-        "correct": true
-      },
-      {
-        "text": "Livre, sem relação com a barreira.",
-        "correct": false
-      },
-      {
-        "text": "Sempre idêntico ao da barreira.",
-        "correct": false
-      },
-      {
-        "text": "Inferior sem limite mínimo.",
-        "correct": false
-      }
+      { "text": "Detectar, alarmar e combater o fogo automaticamente e de forma simultânea.", "correct": true },
+      { "text": "Apenas detectar fumaça e acionar o alarme de incêndio.", "correct": false },
+      { "text": "Evacuar a fumaça do ambiente durante o incêndio.", "correct": false },
+      { "text": "Substituir o sistema de hidrantes e mangotinhos.", "correct": false }
     ]
   },
   {
-    "question": "Para setores com alta ocupação em EAS, recomenda-se que as saídas estejam:",
+    "question": "Qual o principal componente que mantém o sistema de sprinklers sob pressão?",
     "answers": [
-      {
-        "text": "Localizadas em lados opostos, preferencialmente com passagem para compartimento adjacente ou segunda escada.",
-        "correct": true
-      },
-      {
-        "text": "Concentradas no mesmo ponto para facilitar o controle.",
-        "correct": false
-      },
-      {
-        "text": "Voltadas para áreas técnicas internas.",
-        "correct": false
-      },
-      {
-        "text": "Fechadas em horários noturnos.",
-        "correct": false
-      }
+      { "text": "A coluna principal (riser).", "correct": true },
+      { "text": "O painel de alarme.", "correct": false },
+      { "text": "O pressostato auxiliar.", "correct": false },
+      { "text": "O defletor térmico.", "correct": false }
     ]
   },
   {
-    "question": "Uma boa prática de manutenção do SDAI é:",
+    "question": "O que ocorre quando o calor rompe a ampola de um bico de sprinkler?",
     "answers": [
-      {
-        "text": "Plano de manutenção preventiva e testes periódicos de acionamento real.",
-        "correct": true
-      },
-      {
-        "text": "Somente manutenção corretiva quando houver falha.",
-        "correct": false
-      },
-      {
-        "text": "Desligar o sistema em horários noturnos.",
-        "correct": false
-      },
-      {
-        "text": "Evitar testes para não causar pânico.",
-        "correct": false
-      }
+      { "text": "A água é liberada imediatamente e pulverizada sobre o foco do incêndio.", "correct": true },
+      { "text": "A central de alarme emite um sinal sonoro e a água é liberada manualmente.", "correct": false },
+      { "text": "A válvula principal é travada para evitar vazamentos.", "correct": false },
+      { "text": "A pressão da tubulação é reduzida para desligar o sistema.", "correct": false }
     ]
   },
   {
-    "question": "O Quadro 8 sugere TRRF 'I' (integridade) sem valor em minutos para quais ambientes, dentre os abaixo?",
+    "question": "Qual a função da chave de fluxo com retardo pneumático?",
     "answers": [
-      {
-        "text": "Ambulatório / Ações básicas de saúde",
-        "correct": true
-      },
-      {
-        "text": "Lavanderia",
-        "correct": false
-      },
-      {
-        "text": "Cozinha",
-        "correct": false
-      },
-      {
-        "text": "Depósito de inflamáveis",
-        "correct": false
-      }
+      { "text": "Evitar falsos alarmes causados por variações de pressão e golpes de ar.", "correct": true },
+      { "text": "Manter o fluxo constante de água na rede.", "correct": false },
+      { "text": "Aumentar a pressão do sistema durante o combate.", "correct": false },
+      { "text": "Desligar automaticamente a bomba de incêndio.", "correct": false }
     ]
   },
   {
-    "question": "Qual ambiente do Quadro 8 tem sugestão de área máxima de 250 m² e pode ser considerado de alto risco?",
+    "question": "Qual o tipo de sprinkler mais comum em áreas internas com forro falso?",
     "answers": [
-      {
-        "text": "Laboratórios",
-        "correct": true
-      },
-      {
-        "text": "Apoio administrativo",
-        "correct": false
-      },
-      {
-        "text": "Anfiteatro",
-        "correct": false
-      },
-      {
-        "text": "Áreas de refúgio",
-        "correct": false
-      }
+      { "text": "Pendente (Pendent).", "correct": true },
+      { "text": "Em pé (Upright).", "correct": false },
+      { "text": "Lateral (Sidewall).", "correct": false },
+      { "text": "Oculto selado (Sealing Concealed).", "correct": false }
     ]
   },
   {
-    "question": "CPD/Data center, segundo o Quadro 8, deve adotar TRRF de:",
+    "question": "Qual tipo de sprinkler é indicado para garagens e áreas industriais?",
     "answers": [
-      {
-        "text": "120 min.",
-        "correct": true
-      },
-      {
-        "text": "60 min.",
-        "correct": false
-      },
-      {
-        "text": "30 min.",
-        "correct": false
-      },
-      {
-        "text": "Não há exigência de TRRF.",
-        "correct": false
-      }
+      { "text": "Em pé (Upright).", "correct": true },
+      { "text": "Pendente (Pendent).", "correct": false },
+      { "text": "Lateral (Sidewall).", "correct": false },
+      { "text": "Oculto (Concealed).", "correct": false }
     ]
   },
   {
-    "question": "Centrais/depósitos de gases, conforme Quadro 8, apresentam TRRF mínimo de:",
+    "question": "Qual a cor e temperatura nominal de um sprinkler do tipo ordinário de 68°C?",
     "answers": [
-      {
-        "text": "120 min.",
-        "correct": true
-      },
-      {
-        "text": "60 min.",
-        "correct": false
-      },
-      {
-        "text": "90 min.",
-        "correct": false
-      },
-      {
-        "text": "30 min.",
-        "correct": false
-      }
+      { "text": "Vermelha – 68°C.", "correct": true },
+      { "text": "Laranja – 57°C.", "correct": false },
+      { "text": "Amarela – 79°C.", "correct": false },
+      { "text": "Verde – 93°C.", "correct": false }
     ]
   },
   {
-    "question": "A denominação 'H-V' corresponde a edifícios com altura:",
+    "question": "Qual a margem mínima de segurança entre a temperatura ambiente e a de acionamento do sprinkler?",
     "answers": [
-      {
-        "text": "30,00 m < H ≤ 45,00 m",
-        "correct": true
-      },
-      {
-        "text": "24,00 m < H ≤ 30,00 m",
-        "correct": false
-      },
-      {
-        "text": "12,00 m < H ≤ 24,00 m",
-        "correct": false
-      },
-      {
-        "text": "H > 45,00 m",
-        "correct": false
-      }
+      { "text": "20°C acima da temperatura ambiente máxima.", "correct": true },
+      { "text": "10°C acima da temperatura ambiente média.", "correct": false },
+      { "text": "15°C acima da temperatura mínima do local.", "correct": false },
+      { "text": "30°C acima da temperatura externa máxima.", "correct": false }
     ]
   },
   {
-    "question": "A denominação 'H-III' corresponde a edifícios com altura:",
+    "question": "Quais normas estabelecem os requisitos de fabricação e certificação dos sprinklers?",
     "answers": [
-      {
-        "text": "12,00 m < H ≤ 24,00 m",
-        "correct": true
-      },
-      {
-        "text": "3,00 m ≤ H ≤ 12,00 m",
-        "correct": false
-      },
-      {
-        "text": "24,00 m < H ≤ 30,00 m",
-        "correct": false
-      },
-      {
-        "text": "30,00 m < H ≤ 45,00 m",
-        "correct": false
-      }
+      { "text": "ABNT NBR 6125 e NBR 6135.", "correct": true },
+      { "text": "ABNT NBR 13714 e NBR 12779.", "correct": false },
+      { "text": "ABNT NBR 11861 e NBR 13434.", "correct": false },
+      { "text": "ABNT NBR 9077 e NBR 9078.", "correct": false }
     ]
   },
   {
-    "question": "A integração do SDAI com o sistema de ar-condicionado visa principalmente:",
+    "question": "O sistema de tubo molhado deve permanecer:",
     "answers": [
-      {
-        "text": "Reduzir a velocidade de propagação do sinistro ao desligar os condicionadores durante o alarme.",
-        "correct": true
-      },
-      {
-        "text": "Refrigerar a fumaça para melhorar o conforto.",
-        "correct": false
-      },
-      {
-        "text": "Aumentar a renovação de ar durante o incêndio.",
-        "correct": false
-      },
-      {
-        "text": "Manter os condicionadores ligados por conforto térmico.",
-        "correct": false
-      }
+      { "text": "Com a tubulação cheia de água sob pressão, pronta para descarga imediata.", "correct": true },
+      { "text": "Com ar comprimido para evitar corrosão.", "correct": false },
+      { "text": "Sem água, para enchimento manual no acionamento.", "correct": false },
+      { "text": "Com reservatório isolado para uso apenas da brigada.", "correct": false }
     ]
   },
   {
-    "question": "Segundo diretriz do documento, o TRRF de elementos inseridos em barreiras nunca deve ser:",
+    "question": "Por que o sistema de tubo molhado não deve ser usado em áreas frias?",
     "answers": [
-      {
-        "text": "Inferior a 30 minutos.",
-        "correct": true
-      },
-      {
-        "text": "Superior ao da barreira.",
-        "correct": false
-      },
-      {
-        "text": "Igual ao da barreira.",
-        "correct": false
-      },
-      {
-        "text": "Relevante para a segurança.",
-        "correct": false
-      }
+      { "text": "Porque a água pode congelar na tubulação, inutilizando o sistema.", "correct": true },
+      { "text": "Porque a pressão reduzida impede o disparo dos bicos.", "correct": false },
+      { "text": "Porque há risco de superaquecimento dos bicos.", "correct": false },
+      { "text": "Porque o sistema perde sensibilidade térmica.", "correct": false }
     ]
   },
   {
-    "question": "A função principal do controle de fumaça é:",
+    "question": "Como funciona o sistema de tubo seco?",
     "answers": [
-      {
-        "text": "Manter condições de fuga/combate, estabilizando a camada de fumaça acima da altura de circulação.",
-        "correct": true
-      },
-      {
-        "text": "Eliminar toda a fumaça do prédio em 60 segundos.",
-        "correct": false
-      },
-      {
-        "text": "Substituir a compartimentação.",
-        "correct": false
-      },
-      {
-        "text": "Permitir ocupação normal durante o incêndio.",
-        "correct": false
-      }
+      { "text": "Mantém ar comprimido na rede; ao romper o bico, a válvula libera a entrada de água.", "correct": true },
+      { "text": "Mantém a tubulação vazia e depende de acionamento manual.", "correct": false },
+      { "text": "Utiliza água morna para evitar congelamento.", "correct": false },
+      { "text": "É acionado apenas pelo painel central de detecção.", "correct": false }
     ]
   },
   {
-    "question": "Uma boa prática indicada no documento para os hidrantes é:",
+    "question": "Qual sistema combina detecção e liberação de água após confirmação térmica?",
     "answers": [
-      {
-        "text": "Uso de lacres e inspeções regulares para identificar violações/avarias.",
-        "correct": true
-      },
-      {
-        "text": "Manter os hidrantes lacrados sem inspeção para evitar uso indevido.",
-        "correct": false
-      },
-      {
-        "text": "Remover lacres para facilitar manuseio cotidiano.",
-        "correct": false
-      },
-      {
-        "text": "Substituir hidrantes por extintores portáteis.",
-        "correct": false
-      }
+      { "text": "Sistema de ação prévia (Pre-action).", "correct": true },
+      { "text": "Sistema de tubo seco.", "correct": false },
+      { "text": "Sistema de tubo molhado.", "correct": false },
+      { "text": "Sistema de dilúvio.", "correct": false }
     ]
   },
   {
-    "question": "Para áreas de cocção em EAS, o documento referencia atendimento à:",
+    "question": "Em quais locais se recomenda o sistema de ação prévia duplo ativado?",
     "answers": [
-      {
-        "text": "ABNT NBR 14.518 (sistemas de exaustão para cozinhas profissionais).",
-        "correct": true
-      },
-      {
-        "text": "ABNT NBR 5410 (instalações elétricas de baixa tensão).",
-        "correct": false
-      },
-      {
-        "text": "ABNT NBR 9077 (saídas de emergência).",
-        "correct": false
-      },
-      {
-        "text": "ABNT NBR 10152 (acústica).",
-        "correct": false
-      }
+      { "text": "UTIs, centros cirúrgicos e ambientes com equipamentos sensíveis.", "correct": true },
+      { "text": "Estacionamentos e garagens.", "correct": false },
+      { "text": "Depósitos de inflamáveis.", "correct": false },
+      { "text": "Áreas descobertas e subestações elétricas.", "correct": false }
     ]
   },
   {
-    "question": "Em áreas críticas, o documento menciona a possibilidade de:",
+    "question": "Qual a eficiência média dos sprinklers em incêndios segundo dados internacionais?",
     "answers": [
-      {
-        "text": "Dois sistemas de detecção em paralelo cobrindo a mesma área de risco.",
-        "correct": true
-      },
-      {
-        "text": "Dispensar detecção automática em favor de rondas visuais.",
-        "correct": false
-      },
-      {
-        "text": "Usar apenas acionadores manuais.",
-        "correct": false
-      },
-      {
-        "text": "Confiar apenas em sprinklers.",
-        "correct": false
-      }
+      { "text": "96% de eficiência, com controle em 88% dos casos por até dois bicos.", "correct": true },
+      { "text": "75% de eficiência, com controle em 50% dos casos.", "correct": false },
+      { "text": "50% de eficiência, com controle em 30% dos casos.", "correct": false },
+      { "text": "100% de eficiência em todos os casos relatados.", "correct": false }
     ]
   },
   {
-    "question": "O elemento corta-fogo, conforme ITCB 09/2011, deve impedir:",
+    "question": "Os bicos removidos de um sistema de sprinklers podem ser reutilizados?",
     "answers": [
-      {
-        "text": "Passagem de chamas, gases quentes/fumaça e calor (isolamento térmico).",
-        "correct": true
-      },
-      {
-        "text": "Apenas passagem de ruído.",
-        "correct": false
-      },
-      {
-        "text": "Apenas passagem de luz.",
-        "correct": false
-      },
-      {
-        "text": "Apenas passagem de ar frio.",
-        "correct": false
-      }
+      { "text": "Não. Devem ser substituídos, pois podem estar danificados.", "correct": true },
+      { "text": "Sim, desde que limpos e testados hidraulicamente.", "correct": false },
+      { "text": "Sim, após vistoria visual do responsável técnico.", "correct": false },
+      { "text": "Apenas se não tiverem sido expostos a calor.", "correct": false }
     ]
   },
   {
-    "question": "Áreas de refúgio, segundo o Quadro 8, têm TRRF:",
+    "question": "Qual o principal benefício operacional dos sprinklers automáticos?",
     "answers": [
-      {
-        "text": "Classificadas com 'I' (integridade), sem minuto fixo.",
-        "correct": true
-      },
-      {
-        "text": "30 min.",
-        "correct": false
-      },
-      {
-        "text": "60 min.",
-        "correct": false
-      },
-      {
-        "text": "120 min.",
-        "correct": false
-      }
+      { "text": "Controle rápido do fogo antes da chegada do Corpo de Bombeiros.", "correct": true },
+      { "text": "Redução da temperatura ambiente após o incêndio.", "correct": false },
+      { "text": "Reutilização da água da reserva técnica.", "correct": false },
+      { "text": "Isolamento automático da área de incêndio.", "correct": false }
     ]
   },
   {
-    "question": "Para 'Apoio administrativo', o Quadro 8 sugere TRRF de:",
+    "question": "Qual é a função principal de um sistema de controle de fumaça?",
     "answers": [
-      {
-        "text": "60 min.",
-        "correct": true
-      },
-      {
-        "text": "30 min.",
-        "correct": false
-      },
-      {
-        "text": "120 min.",
-        "correct": false
-      },
-      {
-        "text": "Não aplicável.",
-        "correct": false
-      }
+      { "text": "Controlar o movimento dos gases quentes e impedir a propagação da fumaça em um incêndio.", "correct": true },
+      { "text": "Detectar a presença de fumaça e acionar o alarme manualmente.", "correct": false },
+      { "text": "Substituir o sistema de sprinklers e de hidrantes.", "correct": false },
+      { "text": "Promover ventilação natural em ambientes confinados.", "correct": false }
     ]
   },
   {
-    "question": "A selagem corta-fogo em passagens de instalações visa manter:",
+    "question": "Qual a altura mínima recomendada para estabilização da camada de fumaça em um ambiente protegido?",
     "answers": [
-      {
-        "text": "A integridade e o isolamento térmico equivalentes à barreira.",
-        "correct": true
-      },
-      {
-        "text": "A estética do ambiente.",
-        "correct": false
-      },
-      {
-        "text": "A estanqueidade acústica apenas.",
-        "correct": false
-      },
-      {
-        "text": "A ventilação natural.",
-        "correct": false
-      }
+      { "text": "Acima de 2,20 metros.", "correct": true },
+      { "text": "Abaixo de 1,80 metro.", "correct": false },
+      { "text": "Exatamente 3 metros.", "correct": false },
+      { "text": "Entre 1,50 e 2,00 metros.", "correct": false }
     ]
   },
   {
-    "question": "Sobre rotas de fuga em EAS, o documento enfatiza:",
+    "question": "Durante a fase inicial do incêndio (latência), o sistema de controle de fumaça é essencial porque:",
     "answers": [
-      {
-        "text": "Proteção das rotas quanto à entrada de fumaça, inclusive via dutos.",
-        "correct": true
-      },
-      {
-        "text": "Uso de fornos para aquecimento de ar.",
-        "correct": false
-      },
-      {
-        "text": "Dispensa de controle de fumaça.",
-        "correct": false
-      },
-      {
-        "text": "Manutenção apenas corretiva.",
-        "correct": false
-      }
+      { "text": "A fumaça é o principal risco antes do acionamento dos sprinklers.", "correct": true },
+      { "text": "Aumenta a temperatura ambiente para disparar os sprinklers mais rapidamente.", "correct": false },
+      { "text": "Substitui o sistema de alarme manual.", "correct": false },
+      { "text": "Evita a formação de gases inflamáveis no foco do incêndio.", "correct": false }
     ]
   },
   {
-    "question": "No sistema de hidrantes, recomenda-se que:",
+    "question": "Em quais edificações o sistema de controle de fumaça é especialmente indicado?",
     "answers": [
-      {
-        "text": "As bombas de pressurização sejam identificadas e sinalizadas para fácil localização.",
-        "correct": true
-      },
-      {
-        "text": "O acionamento seja escondido para evitar uso.",
-        "correct": false
-      },
-      {
-        "text": "Não haja identificação de componentes.",
-        "correct": false
-      },
-      {
-        "text": "O recalque seja instalado em área interna apenas.",
-        "correct": false
-      }
+      { "text": "Em estabelecimentos assistenciais de saúde (EAS) do tipo H-VI.", "correct": true },
+      { "text": "Somente em indústrias de pequeno porte.", "correct": false },
+      { "text": "Apenas em edifícios residenciais.", "correct": false },
+      { "text": "Exclusivamente em áreas abertas.", "correct": false }
     ]
   },
   {
-    "question": "Quanto aos dutos, o documento ressalta que eles:",
+    "question": "Qual é o número mínimo de pontos de exaustão exigidos por pavimento em sistemas de controle de fumaça?",
     "answers": [
-      {
-        "text": "Têm potencial de fornecer oxigênio ao fogo e conduzir fumaça/chamas.",
-        "correct": true
-      },
-      {
-        "text": "Impedem naturalmente a entrada de fumaça.",
-        "correct": false
-      },
-      {
-        "text": "São neutros para risco de incêndio.",
-        "correct": false
-      },
-      {
-        "text": "Substituem a necessidade de compartimentação.",
-        "correct": false
-      }
+      { "text": "Dois pontos de exaustão por pavimento.", "correct": true },
+      { "text": "Um ponto por compartimento.", "correct": false },
+      { "text": "Três pontos a cada 50 metros.", "correct": false },
+      { "text": "Um único ponto central de exaustão.", "correct": false }
     ]
   },
   {
-    "question": "Em EAS H-VI, o controle de fumaça deve proteger:",
+    "question": "O que caracteriza o sistema de extração natural de fumaça?",
     "answers": [
-      {
-        "text": "Os acessos às rotas de fuga nos pavimentos.",
-        "correct": true
-      },
-      {
-        "text": "Apenas as áreas técnicas.",
-        "correct": false
-      },
-      {
-        "text": "Somente o pavimento térreo.",
-        "correct": false
-      },
-      {
-        "text": "Exclusivamente as escadas pressurizadas.",
-        "correct": false
-      }
+      { "text": "A extração é feita por aberturas superiores e inferiores, sem uso de ventiladores.", "correct": true },
+      { "text": "Depende de moto-ventiladores e dutos metálicos para funcionar.", "correct": false },
+      { "text": "Funciona apenas em áreas subterrâneas.", "correct": false },
+      { "text": "Utiliza pressurização positiva nas rotas de fuga.", "correct": false }
     ]
-  }
+  },
+  {
+    "question": "Em que tipo de edificação o sistema de extração natural é mais utilizado?",
+    "answers": [
+      { "text": "Em edificações térreas ou de pequeno porte.", "correct": true },
+      { "text": "Em prédios de grande altura.", "correct": false },
+      { "text": "Em túneis e subsolos.", "correct": false },
+      { "text": "Em hospitais com sistema HVAC integrado.", "correct": false }
+    ]
+  },
+  {
+    "question": "O sistema de extração mecânica é composto basicamente por:",
+    "answers": [
+      { "text": "Moto-ventiladores e dutos metálicos para exaustão ativa dos gases quentes.", "correct": true },
+      { "text": "Tubulações de água e válvulas de descarga.", "correct": false },
+      { "text": "Condutores elétricos e detectores fotoelétricos.", "correct": false },
+      { "text": "Sprinklers de alta sensibilidade térmica.", "correct": false }
+    ]
+  },
+  {
+    "question": "Os dutos e suportes de um sistema de controle de fumaça devem resistir a temperaturas superiores a:",
+    "answers": [
+      { "text": "400 °C.", "correct": true },
+      { "text": "200 °C.", "correct": false },
+      { "text": "250 °C.", "correct": false },
+      { "text": "150 °C.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quando o sistema de controle de fumaça é integrado ao ar condicionado, deve-se:",
+    "answers": [
+      { "text": "Garantir que opere em modo duplo: ventilação normal e extração em emergência.", "correct": true },
+      { "text": "Desligar automaticamente todo o sistema HVAC durante o incêndio.", "correct": false },
+      { "text": "Utilizar apenas ventilação natural.", "correct": false },
+      { "text": "Instalar filtros de ar de alta eficiência HEPA.", "correct": false }
+    ]
+  },
+  {
+    "question": "Como deve ser o acionamento dos sistemas de controle de fumaça?",
+    "answers": [
+      { "text": "Automático e supervisionado pelo sistema de detecção e alarme de incêndio.", "correct": true },
+      { "text": "Manual, apenas pela brigada de incêndio.", "correct": false },
+      { "text": "Acionado pelo controle de temperatura ambiente.", "correct": false },
+      { "text": "Ativado por sensores de presença e movimento.", "correct": false }
+    ]
+  },
+  {
+    "question": "Com que frequência mínima deve ser feita a manutenção do sistema de controle de fumaça?",
+    "answers": [
+      { "text": "A cada seis meses.", "correct": true },
+      { "text": "Anualmente.", "correct": false },
+      { "text": "A cada dois anos.", "correct": false },
+      { "text": "A cada três meses.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é a principal norma internacional que trata de sistemas de controle de fumaça?",
+    "answers": [
+      { "text": "NFPA 92 – Standard for Smoke Control Systems.", "correct": true },
+      { "text": "NFPA 25 – Water-Based Fire Protection Systems.", "correct": false },
+      { "text": "NFPA 72 – Fire Alarm Systems.", "correct": false },
+      { "text": "NFPA 101 – Life Safety Code.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual instrução técnica do Corpo de Bombeiros trata sobre controle de fumaça e calor?",
+    "answers": [
+      { "text": "IT 15/2011.", "correct": true },
+      { "text": "IT 17/2018.", "correct": false },
+      { "text": "IT 23/2019.", "correct": false },
+      { "text": "IT 12/2015.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é o principal benefício operacional do sistema de controle de fumaça durante um incêndio?",
+    "answers": [
+      { "text": "Permitir evacuação segura e atuação eficiente da brigada e dos bombeiros.", "correct": true },
+      { "text": "Aumentar o tempo de queima dos materiais combustíveis.", "correct": false },
+      { "text": "Facilitar o resfriamento dos sprinklers.", "correct": false },
+      { "text": "Reduzir o consumo de energia elétrica.", "correct": false }
+    ]
+  },
+  {
+    "question": "O que garante que um sistema de controle de fumaça seja eficiente?",
+    "answers": [
+      { "text": "Manter visibilidade, reduzir temperatura e remover gases tóxicos antes do acionamento dos sprinklers.", "correct": true },
+      { "text": "Aumentar a ventilação apenas após o fogo ser extinto.", "correct": false },
+      { "text": "Remover toda a fumaça em menos de 1 minuto.", "correct": false },
+      { "text": "Substituir o sistema de alarme de incêndio.", "correct": false }
+    ]
+  },
 ]
+
+
+
+
+
