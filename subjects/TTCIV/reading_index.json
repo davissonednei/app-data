@@ -1,32 +1,32 @@
 [
   {
     "id": "leitura_5_1",
-    "title": "5.1 - Compartimentação Horizontal e Vertical",
-    "description": "Conceito, tipos e importância da compartimentação horizontal e vertical em edificações. Inclui TRRF, selagens corta-fogo e áreas de refúgio.",
-    "url": "https://davissonednei.github.io/app-data/disciplinas/TTCIV/readings/leitura_5_1.md"
+    "title": "5.1 – Compartimentação Horizontal e Vertical",
+    "summary": "Conceito, tipos e importância da compartimentação horizontal e vertical em edificações. Inclui TRRF, selagens corta-fogo e áreas de refúgio.",
+    "file": "readings/leitura_5_1.md"
   },
   {
     "id": "sistema_de_deteccao_de_incendio",
     "title": "5.2 – Sistema de Detecção de Incêndio",
-    "file": "sistema_de_deteccao_de_incendio.md",
-    "description": "Funcionamento, tipos e manutenção dos sistemas de detecção e alarme de incêndio."
+    "description": "Funcionamento, tipos e manutenção dos sistemas de detecção e alarme de incêndio.",
+    "file": "readings/sistema_de_deteccao_de_incendio.md"
   },
   {
     "id": "sistema_de_hidrantes_e_mangotinhos",
     "title": "5.3 – Sistema de Hidrantes e Mangotinhos",
-    "file": "sistema_de_hidrantes_e_mangotinhos.md",
-    "description": "Estrutura, manutenção e operação do sistema de hidrantes e mangotinhos em edificações."
+    "description": "Estrutura, manutenção e operação do sistema de hidrantes e mangotinhos em edificações.",
+    "file": "readings/sistema_de_hidrantes_e_mangotinhos.md"
   },
   {
     "id": "sistema_de_chuveiros_automaticos",
     "title": "5.4 – Sistema de Chuveiros Automáticos (Sprinklers)",
-    "file": "sistema_de_chuveiros_automaticos.md",
-    "description": "Funcionamento, tipos e aplicações dos sistemas de sprinklers automáticos em edificações."
+    "description": "Funcionamento, tipos e aplicações dos sistemas de sprinklers automáticos em edificações.",
+    "file": "readings/sistema_de_chuveiros_automaticos.md"
   },
   {
     "id": "sistema_de_controle_de_fumaca",
     "title": "5.5 – Sistema de Controle de Fumaça",
-    "file": "sistema_de_controle_de_fumaca.md",
-    "description": "Descrição, tipos, funcionamento e manutenção dos sistemas de controle de fumaça em edificações e ambientes hospitalares."
+    "description": "Descrição, tipos, funcionamento e manutenção dos sistemas de controle de fumaça em edificações e ambientes hospitalares.",
+    "file": "readings/sistema_de_controle_de_fumaca.md"
   }
 ]
