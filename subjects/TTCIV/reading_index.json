@@ -1,6 +1,4 @@
-{
-  "version": 1,
-  "readings": [
+ [
     {
       "id": "leitura_5_1",
       "title": "Compartimentação Horizontal e Vertical",
@@ -31,6 +29,4 @@
       "file": "sistema_de_controle_de_fumaca.md",
       "description": "Descrição, tipos, funcionamento e manutenção dos sistemas de controle de fumaça em edificações e ambientes hospitalares."
   },
-    
   ]
-}
