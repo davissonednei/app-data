@@ -157,7 +157,7 @@
     "imageUrl": "https://davissonednei.github.io/app-data/images/TTCIV.png",
     "questions_url": "https://davissonednei.github.io/app-data/subjects/TTCIV/questions.json",
     "flashcards_url": "https://davissonednei.github.io/app-data/subjects/TTCIV/flashcards.json",
-    "readings_index_url": "https://davissonednei.github.io/app-data/subjects/TTCIV/reading_index.json",
+    "texts_url": "https://davissonednei.github.io/app-data/subjects/TTCIV/reading_index.json",
     "questionCount": 55,
     "flashcardCount": 56,
     "textCount" : 6
