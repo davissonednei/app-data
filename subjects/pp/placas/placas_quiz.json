@@ -3,7 +3,7 @@
     {
       "id": "explosive",
       "name": "Explosivo",
-      "image_url": "https://github.com/davissonednei/app-data/tree/main/images/hazmat/explosivo.png",
+      "image_url": "https://github.com/davissonednei/app-data/images/hazmat/explosivo.png",
       "description": "Substâncias e artigos explosivos. Risco de explosão em massa.",
       "class_name": "Classe 1",
       "risk_number": "1"
