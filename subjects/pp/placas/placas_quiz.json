@@ -115,7 +115,7 @@
     {
       "id": "miscellaneous",
       "name": "Diversos",
-      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/diversos.png",,
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/diversos.png",
       "description": "Substâncias e artigos perigosos diversos.",
       "class_name": "Classe 9",
       "risk_number": "9"
