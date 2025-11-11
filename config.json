@@ -172,6 +172,13 @@
     "questionCount": 0,
     "flashcardCount": 49,
     "textCount" : 0
-  }
+  },
+    {
+  "id": "produtos_perigosos",
+  "title": "Emergências com Produtos Perigosos",
+  "questions_url": "...",
+  "layout": "hazmat",
+  "content_url": "https://github.com/davissonednei/app-data/subjects/pp/placas_quiz.json"
+}
 ]
 }
