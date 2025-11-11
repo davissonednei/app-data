@@ -7,6 +7,118 @@
       "description": "Substâncias e artigos explosivos. Risco de explosão em massa.",
       "class_name": "Classe 1",
       "risk_number": "1"
+    },
+    {
+      "id": "flammable_gas",
+      "name": "Gás Inflamável",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/gas_inflamavel.png",
+      "description": "Gases inflamáveis. Risco de incêndio.",
+      "class_name": "Classe 2.1",
+      "risk_number": "2"
+    },
+    {
+      "id": "non_flammable_gas",
+      "name": "Gás Não-Inflamável",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/gas_nao_inflamavel.png",
+      "description": "Gases não-inflamáveis, não-tóxicos.",
+      "class_name": "Classe 2.2",
+      "risk_number": "2"
+    },
+    {
+      "id": "toxic_gas",
+      "name": "Gás Tóxico",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/gas_toxico.png",
+      "description": "Gases tóxicos. Risco de intoxicação grave.",
+      "class_name": "Classe 2.3",
+      "risk_number": "2"
+    },
+    {
+      "id": "flammable_liquid",
+      "name": "Líquido Inflamável",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/liquido_inflamavel.png",
+      "description": "Líquidos inflamáveis. Baixo ponto de fulgor.",
+      "class_name": "Classe 3",
+      "risk_number": "3"
+    },
+    {
+      "id": "flammable_solid",
+      "name": "Sólido Inflamável",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/solido_inflamavel.png",
+      "description": "Sólidos facilmente inflamáveis.",
+      "class_name": "Classe 4.1",
+      "risk_number": "4"
+    },
+    {
+      "id": "spontaneously_combustible",
+      "name": "Combustão Espontânea",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/combustao_espontanea.png",
+      "description": "Substâncias sujeitas a combustão espontânea.",
+      "class_name": "Classe 4.2",
+      "risk_number": "4"
+    },
+    {
+      "id": "dangerous_when_wet",
+      "name": "Perigoso em Contato com Água",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/perigoso_molhado.png",
+      "description": "Emite gases inflamáveis em contato com água.",
+      "class_name": "Classe 4.3",
+      "risk_number": "4"
+    },
+    {
+      "id": "oxidizer",
+      "name": "Oxidante",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/oxidante.png",
+      "description": "Substâncias oxidantes que favorecem combustão.",
+      "class_name": "Classe 5.1",
+      "risk_number": "5"
+    },
+    {
+      "id": "organic_peroxide",
+      "name": "Peróxido Orgânico",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/peroxido_organico.png",
+      "description": "Peróxidos orgânicos. Risco de explosão e fogo.",
+      "class_name": "Classe 5.2",
+      "risk_number": "5"
+    },
+    {
+      "id": "toxic",
+      "name": "Tóxico",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/toxico.png",
+      "description": "Substâncias tóxicas. Risco de envenenamento.",
+      "class_name": "Classe 6.1",
+      "risk_number": "6"
+    },
+    {
+      "id": "infectious",
+      "name": "Infectante",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/infectante.png",
+      "description": "Substâncias infectantes. Risco biológico.",
+      "class_name": "Classe 6.2",
+      "risk_number": "6"
+    },
+    {
+      "id": "radioactive",
+      "name": "Radioativo",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/radioativo.png",
+      "description": "Material radioativo. Risco de radiação.",
+      "class_name": "Classe 7",
+      "risk_number": "7"
+    },
+    {
+      "id": "corrosive",
+      "name": "Corrosivo",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/corrosivo.png",
+      "description": "Substâncias corrosivas. Risco de queimadura química.",
+      "class_name": "Classe 8",
+      "risk_number": "8"
+    },
+    {
+      "id": "miscellaneous",
+      "name": "Diversos",
+      "image_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/images/hazmat/diversos.png",,
+      "description": "Substâncias e artigos perigosos diversos.",
+      "class_name": "Classe 9",
+      "risk_number": "9"
     }
   ],
   "scenarios": []
