@@ -7,7 +7,7 @@
       "description": "Substâncias e artigos explosivos. Risco de explosão em massa.",
       "class_name": "Classe 1",
       "risk_number": "1"
-    },
-  ]
+    }
+  ],
   "scenarios": []
 }
