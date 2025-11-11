@@ -174,11 +174,20 @@
     "textCount" : 0
   },
     {
-  "id": "produtos_perigosos",
-  "title": "Emergências com Produtos Perigosos",
-  "questions_url": "...",
-  "layout": "hazmat",
-  "content_url": "https://github.com/davissonednei/app-data/subjects/pp/placas_quiz.json"
+  {
+      "id": "produtos_perigosos",
+      "title": "Emergências com Produtos Perigosos",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/hazmat.png",
+      "questions_url": "https://raw.githubusercontent.com/SEU_USER/SEU_REPO/main/questions_hazmat.json",
+      "flashcards_url": "",
+      "texts_url": "",
+      "layout": "hazmat",
+      "content_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/subjects/pp/placas/placas_quiz.json"",
+      "questionCount": 0,
+      "flashcardCount": 0,
+      "textCount": 0
+    }
+      
 }
 ]
 }
