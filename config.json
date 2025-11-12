@@ -181,6 +181,7 @@
       "texts_url": "",
       "layout": "hazmat",
       "content_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/subjects/pp/placas/placas_quiz.json",
+      "panels_url": "https://raw.githubusercontent.com/davissonednei/app-data/main/subjects/pp/paineis/paineis.json",
       "questionCount": 0,
       "flashcardCount": 0,
       "textCount": 0
