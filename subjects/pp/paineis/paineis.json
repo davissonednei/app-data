@@ -1,0 +1,205 @@
+{
+  "panels": [
+    {
+      "id": "gasoline",
+      "risk_number": "33",
+      "un_number": "1203",
+      "product_name": "Gasolina",
+      "risk_description": "Líquido muito inflamável",
+      "hazards": [
+        "Líquido altamente inflamável",
+        "Vapores mais pesados que o ar",
+        "Pode formar mistura explosiva",
+        "Risco de incêndio e explosão"
+      ],
+      "procedures": [
+        "Eliminar fontes de ignição",
+        "Usar espuma para combate",
+        "Evacuar área em caso de vazamento",
+        "Evitar contato com a pele"
+      ]
+    },
+    {
+      "id": "diesel",
+      "risk_number": "30",
+      "un_number": "1202",
+      "product_name": "Óleo Diesel",
+      "risk_description": "Líquido inflamável",
+      "hazards": [
+        "Líquido inflamável",
+        "Vapores irritantes",
+        "Pode causar poluição ambiental"
+      ],
+      "procedures": [
+        "Manter afastado de chamas",
+        "Usar espuma ou pó químico",
+        "Conter vazamento",
+        "Evitar contaminação de cursos d'água"
+      ]
+    },
+    {
+      "id": "ethanol",
+      "risk_number": "33",
+      "un_number": "1170",
+      "product_name": "Etanol (Álcool Etílico)",
+      "risk_description": "Líquido muito inflamável",
+      "hazards": [
+        "Altamente inflamável",
+        "Vapores irritantes",
+        "Solúvel em água",
+        "Risco de explosão"
+      ],
+      "procedures": [
+        "Usar espuma resistente ao álcool",
+        "Eliminar todas as fontes de ignição",
+        "Resfriar recipientes expostos",
+        "Evacuar área de risco"
+      ]
+    },
+    {
+      "id": "lpg",
+      "risk_number": "23",
+      "un_number": "1075",
+      "product_name": "GLP (Gás Liquefeito de Petróleo)",
+      "risk_description": "Gás inflamável",
+      "hazards": [
+        "Gás extremamente inflamável",
+        "Mais pesado que o ar",
+        "Risco de asfixia em ambientes fechados",
+        "Risco de explosão"
+      ],
+      "procedures": [
+        "Eliminar fontes de ignição",
+        "Ventilar área",
+        "Não usar água diretamente no gás",
+        "Resfriar recipientes com água"
+      ]
+    },
+    {
+      "id": "ammonia",
+      "risk_number": "268",
+      "un_number": "1005",
+      "product_name": "Amônia Anidra",
+      "risk_description": "Gás tóxico e corrosivo",
+      "hazards": [
+        "Gás tóxico por inalação",
+        "Corrosivo para pele e olhos",
+        "Pode causar queimaduras graves",
+        "Vapores irritantes"
+      ],
+      "procedures": [
+        "Usar EPI completo com proteção respiratória",
+        "Evacuar área",
+        "Aproximar-se pela direção do vento",
+        "Neutralizar com água em grande quantidade"
+      ]
+    },
+    {
+      "id": "chlorine",
+      "risk_number": "268",
+      "un_number": "1017",
+      "product_name": "Cloro",
+      "risk_description": "Gás tóxico e oxidante",
+      "hazards": [
+        "Gás extremamente tóxico",
+        "Corrosivo",
+        "Oxidante forte",
+        "Mais pesado que o ar"
+      ],
+      "procedures": [
+        "Usar proteção respiratória autônoma",
+        "Evacuar imediatamente",
+        "Não usar água diretamente",
+        "Aproximar-se pela direção do vento"
+      ]
+    },
+    {
+      "id": "oxygen",
+      "risk_number": "22",
+      "un_number": "1072",
+      "product_name": "Oxigênio Comprimido",
+      "risk_description": "Gás oxidante",
+      "hazards": [
+        "Comburente - favorece combustão",
+        "Aumenta intensidade do fogo",
+        "Pode causar explosão de materiais combustíveis",
+        "Cilindro sob pressão"
+      ],
+      "procedures": [
+        "Manter afastado de combustíveis",
+        "Resfriar cilindros expostos",
+        "Não permitir contato com óleos/graxas",
+        "Ventilar área"
+      ]
+    },
+    {
+      "id": "sulfuric_acid",
+      "risk_number": "80",
+      "un_number": "1830",
+      "product_name": "Ácido Sulfúrico",
+      "risk_description": "Líquido corrosivo",
+      "hazards": [
+        "Altamente corrosivo",
+        "Causa queimaduras graves",
+        "Reação violenta com água",
+        "Vapores tóxicos"
+      ],
+      "procedures": [
+        "Usar EPI completo",
+        "Neutralizar com cal ou soda",
+        "Nunca adicionar água diretamente",
+        "Conter vazamento"
+      ]
+    },
+    {
+      "id": "sodium_hydroxide",
+      "risk_number": "80",
+      "un_number": "1823",
+      "product_name": "Soda Cáustica (Hidróxido de Sódio)",
+      "risk_description": "Sólido/líquido corrosivo",
+      "hazards": [
+        "Altamente corrosivo",
+        "Causa queimaduras graves",
+        "Reage com metais liberando hidrogênio",
+        "Danifica tecidos"
+      ],
+      "procedures": [
+        "Usar proteção completa",
+        "Neutralizar com ácido fraco diluído",
+        "Lavar com muita água",
+        "Conter produto derramado"
+      ]
+    },
+    {
+      "id": "acetylene",
+      "risk_number": "239",
+      "un_number": "1001",
+      "product_name": "Acetileno",
+      "risk_description": "Gás inflamável e instável",
+      "hazards": [
+        "Extremamente inflamável",
+        "Instável - pode explodir",
+        "Forma misturas explosivas com ar",
+        "Decomposição explosiva sob pressão"
+      ],
+      "procedures": [
+        "Eliminar todas as fontes de ignição",
+        "Não usar água",
+        "Usar pó químico ou CO2",
+        "Manter cilindros na vertical"
+      ]
+    }
+  ],
+  "risk_digit_meanings": {
+    "0": "Ausência de risco subsidiário",
+    "2": "Emanação de gás devido à pressão ou reação química",
+    "3": "Inflamabilidade de líquidos e gases",
+    "4": "Inflamabilidade de sólidos",
+    "5": "Comburente (oxidante)",
+    "6": "Toxicidade ou risco de infecção",
+    "7": "Radioatividade",
+    "8": "Corrosividade",
+    "9": "Risco de reação violenta espontânea",
+    "X": "Reage perigosamente com água (prefixo)"
+  }
+}
