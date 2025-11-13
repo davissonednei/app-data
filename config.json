@@ -196,6 +196,16 @@
       "questionCount": 60,
       "flashcardCount": 60,
       "textCount": 0
-    }
+    },
+    {
+      "id": "processo_penal_militar",
+      "title": "Processo Penal Militar",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/processo_militar.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/processo_militar/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/processo_militar/flashcards.json",
+      "texts_url": "",
+      "questionCount": 38,
+      "flashcardCount": 38,
+      "textCount": 0
   ]
 }
