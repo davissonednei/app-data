@@ -1,0 +1,344 @@
+[
+  {
+    "question": "O que é a Justiça Militar no Brasil?",
+    "answers": [
+      { "text": "Ramo especializado do Judiciário responsável por processar e julgar crimes militares.", "correct": true },
+      { "text": "Órgão administrativo auxiliar das Forças Armadas.", "correct": false },
+      { "text": "Tribunal destinado apenas a julgar civis.", "correct": false },
+      { "text": "Instituição ligada ao Executivo para controle disciplinar.", "correct": false }
+    ]
+  },
+  {
+    "question": "A Justiça Militar da União julga:",
+    "answers": [
+      { "text": "Crimes militares do CPM envolvendo militares das Forças Armadas e, em alguns casos, civis.", "correct": true },
+      { "text": "Apenas crimes militares estaduais.", "correct": false },
+      { "text": "Somente crimes cometidos por PMs e BMs.", "correct": false },
+      { "text": "Infrações administrativas militares.", "correct": false }
+    ]
+  },
+  {
+    "question": "Órgão máximo da Justiça Militar da União:",
+    "answers": [
+      { "text": "STM – Superior Tribunal Militar, composto por 15 ministros.", "correct": true },
+      { "text": "Conselho Nacional Militar.", "correct": false },
+      { "text": "Tribunal Militar Federal.", "correct": false },
+      { "text": "Tribunal Superior das Forças Armadas.", "correct": false }
+    ]
+  },
+  {
+    "question": "A Justiça Militar Estadual julga:",
+    "answers": [
+      { "text": "Crimes militares cometidos por policiais e bombeiros militares.", "correct": true },
+      { "text": "Crimes cometidos por militares das Forças Armadas.", "correct": false },
+      { "text": "Crimes comuns cometidos por militares estaduais.", "correct": false },
+      { "text": "Infrações administrativas de civis.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quem julga crimes militares praticados por militar CONTRA civil segundo a CF?",
+    "answers": [
+      { "text": "Juiz de direito do juízo militar, atuando sozinho.", "correct": true },
+      { "text": "Conselho de Justiça.", "correct": false },
+      { "text": "Tribunal do Júri.", "correct": false },
+      { "text": "Tribunal de Justiça.", "correct": false }
+    ]
+  },
+  {
+    "question": "Órgão que compõe o 1º grau da Justiça Militar Estadual segundo a Constituição Estadual:",
+    "answers": [
+      { "text": "Conselho de Justiça Militar.", "correct": true },
+      { "text": "Tribunal Militar Estadual.", "correct": false },
+      { "text": "Juiz Auditor Federal.", "correct": false },
+      { "text": "Juizado Especial Militar.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quem exerce o comando supremo da PM e do CBM no âmbito estadual?",
+    "answers": [
+      { "text": "O Governador.", "correct": true },
+      { "text": "O Comandante-Geral.", "correct": false },
+      { "text": "O Secretário de Segurança.", "correct": false },
+      { "text": "O Tribunal de Justiça.", "correct": false }
+    ]
+  },
+  {
+    "question": "Função da Polícia Judiciária Militar:",
+    "answers": [
+      { "text": "Apurar autoria e materialidade de crimes militares.", "correct": true },
+      { "text": "Realizar polícia ostensiva.", "correct": false },
+      { "text": "Praticar atos disciplinares administrativos.", "correct": false },
+      { "text": "Fazer perícia.", "correct": false }
+    ]
+  },
+  {
+    "question": "Finalidade do IPM:",
+    "answers": [
+      { "text": "Apurar sumariamente fato que configure crime militar e sua autoria.", "correct": true },
+      { "text": "Julgar o investigado.", "correct": false },
+      { "text": "Punir disciplinarmente o militar.", "correct": false },
+      { "text": "Arquivar denúncias infundadas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quem preside o IPM?",
+    "answers": [
+      { "text": "Oficial da ativa superior ou mais antigo ao indiciado.", "correct": true },
+      { "text": "Praça mais antiga.", "correct": false },
+      { "text": "Juiz Auditor.", "correct": false },
+      { "text": "Promotor Militar.", "correct": false }
+    ]
+  },
+  {
+    "question": "Quando o IPM é obrigatório?",
+    "answers": [
+      { "text": "Quando há prisão em flagrante por crime militar.", "correct": true },
+      { "text": "Apenas quando o comandante deseja.", "correct": false },
+      { "text": "Somente em crimes dolosos contra a vida.", "correct": false },
+      { "text": "Nunca é obrigatório.", "correct": false }
+    ]
+  },
+  {
+    "question": "Prazo do IPM com indiciado preso:",
+    "answers": [
+      { "text": "20 dias, prorrogáveis mediante autorização.", "correct": true },
+      { "text": "10 dias sem prorrogação.", "correct": false },
+      { "text": "60 dias fixos.", "correct": false },
+      { "text": "5 dias prorrogáveis.", "correct": false }
+    ]
+  },
+  {
+    "question": "Prazo do IPM com indiciado solto:",
+    "answers": [
+      { "text": "40 dias, prorrogáveis por igual período.", "correct": true },
+      { "text": "20 dias sem prorrogação.", "correct": false },
+      { "text": "10 dias prorrogáveis.", "correct": false },
+      { "text": "5 dias fixos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Sindicância × IPM:",
+    "answers": [
+      { "text": "Sindicância apura infração disciplinar; IPM apura crime militar.", "correct": true },
+      { "text": "Sindicância sempre substitui IPM.", "correct": false },
+      { "text": "IPM é administrativo e sindicância é penal.", "correct": false },
+      { "text": "São procedimentos idênticos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Civil pode ser investigado no IPM?",
+    "answers": [
+      { "text": "Sim, quando se enquadra nas hipóteses legais de crime militar.", "correct": true },
+      { "text": "Nunca.", "correct": false },
+      { "text": "Apenas se trabalhar para o Estado.", "correct": false },
+      { "text": "Somente com autorização judicial.", "correct": false }
+    ]
+  },
+  {
+    "question": "Após concluir o IPM, deve ser enviado:",
+    "answers": [
+      { "text": "Ao Ministério Público Militar.", "correct": true },
+      { "text": "Diretamente ao juiz para julgamento.", "correct": false },
+      { "text": "Sempre ao comandante do batalhão.", "correct": false },
+      { "text": "Ao corregedor apenas para ciência.", "correct": false }
+    ]
+  },
+  {
+    "question": "Função do escrivão do IPM:",
+    "answers": [
+      { "text": "Lavrar termos, registrar atos e manter organização dos autos.", "correct": true },
+      { "text": "Decidir diligências.", "correct": false },
+      { "text": "Determinar perícia.", "correct": false },
+      { "text": "Aplicar medidas cautelares.", "correct": false }
+    ]
+  },
+  {
+    "question": "Direito do indiciado no IPM:",
+    "answers": [
+      { "text": "Direito ao silêncio e assistência do advogado.", "correct": true },
+      { "text": "Obrigação de responder tudo.", "correct": false },
+      { "text": "Impossibilidade de vista dos autos.", "correct": false },
+      { "text": "Depoimento apenas escrito.", "correct": false }
+    ]
+  },
+  {
+    "question": "Medida preliminar essencial (procedimentos iniciais):",
+    "answers": [
+      { "text": "Preservar o local do crime.", "correct": true },
+      { "text": "Aplicar punição disciplinar imediata.", "correct": false },
+      { "text": "Enviar relatório ao STM.", "correct": false },
+      { "text": "Interrogar sem advogado.", "correct": false }
+    ]
+  },
+  {
+    "question": "Outra medida preliminar obrigatória:",
+    "answers": [
+      { "text": "Apreender instrumentos relacionados ao fato.", "correct": true },
+      { "text": "Discutir motivação disciplinar.", "correct": false },
+      { "text": "Substituir perícia por declaração escrita.", "correct": false },
+      { "text": "Juntar documentos sem termo.", "correct": false }
+    ]
+  },
+  {
+    "question": "O encarregado deve ouvir:",
+    "answers": [
+      { "text": "O ofendido, se possível.", "correct": true },
+      { "text": "Somente testemunhas militares.", "correct": false },
+      { "text": "Apenas o indiciado.", "correct": false },
+      { "text": "Somente autoridades superiores.", "correct": false }
+    ]
+  },
+  {
+    "question": "Testemunhas no IPM:",
+    "answers": [
+      { "text": "São ouvidas sob compromisso.", "correct": true },
+      { "text": "Podem prestar depoimento escrito.", "correct": false },
+      { "text": "Não precisam se identificar.", "correct": false },
+      { "text": "Só podem ser militares.", "correct": false }
+    ]
+  },
+  {
+    "question": "Reconhecimento e acareação:",
+    "answers": [
+      { "text": "Podem ser determinados pelo encarregado do IPM.", "correct": true },
+      { "text": "São proibidos no IPM.", "correct": false },
+      { "text": "Dependem exclusivamente do juiz.", "correct": false },
+      { "text": "Só podem ser feitos após a denúncia.", "correct": false }
+    ]
+  },
+  {
+    "question": "Exame de corpo de delito:",
+    "answers": [
+      { "text": "Deve ser requisitado quando necessário para comprovar crime com vestígios.", "correct": true },
+      { "text": "É sempre dispensável.", "correct": false },
+      { "text": "Só ocorre após denúncia.", "correct": false },
+      { "text": "Substitui depoimentos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Busca e apreensão no IPM:",
+    "answers": [
+      { "text": "Segue regras formais e deve ser devidamente fundamentada.", "correct": true },
+      { "text": "É totalmente livre.", "correct": false },
+      { "text": "Não pode ocorrer antes da denúncia.", "correct": false },
+      { "text": "Exige sempre presença do juiz.", "correct": false }
+    ]
+  },
+  {
+    "question": "Proteção da testemunha:",
+    "answers": [
+      { "text": "É dever do encarregado quando houver risco ou coação.", "correct": true },
+      { "text": "É exclusiva do juiz.", "correct": false },
+      { "text": "Só pode ocorrer mediante pedido do MP.", "correct": false },
+      { "text": "Não se aplica no IPM.", "correct": false }
+    ]
+  },
+  {
+    "question": "Reprodução simulada é permitida quando:",
+    "answers": [
+      { "text": "Não ofende a moralidade, ordem pública ou disciplina.", "correct": true },
+      { "text": "Sempre é proibida.", "correct": false },
+      { "text": "Depende de sentença judicial.", "correct": false },
+      { "text": "Só pode ser feita após denúncia.", "correct": false }
+    ]
+  },
+  {
+    "question": "Finalidade da reprodução simulada:",
+    "answers": [
+      { "text": "Verificar se o fato poderia ter ocorrido conforme alegado.", "correct": true },
+      { "text": "Substituir completamente a perícia.", "correct": false },
+      { "text": "Juntar provas irrelevantes.", "correct": false },
+      { "text": "Punir o indiciado.", "correct": false }
+    ]
+  },
+  {
+    "question": "O IPM deve ser encerrado com:",
+    "answers": [
+      { "text": "Relatório minucioso do encarregado.", "correct": true },
+      { "text": "Termo de julgamento.", "correct": false },
+      { "text": "Despacho de arquivamento.", "correct": false },
+      { "text": "Apreciação do defensor.", "correct": false }
+    ]
+  },
+  {
+    "question": "A autoridade delegante pode:",
+    "answers": [
+      { "text": "Avocar o IPM e dar solução diferente da indicada pelo encarregado.", "correct": true },
+      { "text": "Arquivar o IPM.", "correct": false },
+      { "text": "Julgar o militar.", "correct": false },
+      { "text": "Impor pena criminal.", "correct": false }
+    ]
+  },
+  {
+    "question": "O auto de flagrante pode:",
+    "answers": [
+      { "text": "Substituir o IPM quando já esclarecer fato e autoria.", "correct": true },
+      { "text": "Nunca ser usado.", "correct": false },
+      { "text": "Exigir abertura obrigatória de IPM separado.", "correct": false },
+      { "text": "Ser ignorado pelo MPM.", "correct": false }
+    ]
+  },
+  {
+    "question": "O IPM pode ser dispensado quando:",
+    "answers": [
+      { "text": "Fato e autoria estiverem comprovados por documentos idôneos.", "correct": true },
+      { "text": "O indiciado for oficial.", "correct": false },
+      { "text": "Houver pedido da defesa.", "correct": false },
+      { "text": "A autoridade desejar simplificar.", "correct": false }
+    ]
+  },
+  {
+    "question": "Detenção do indiciado durante o IPM:",
+    "answers": [
+      { "text": "Pode chegar a 30 dias, prorrogáveis por mais 20.", "correct": true },
+      { "text": "É sempre de 10 dias.", "correct": false },
+      { "text": "Nunca há prorrogação.", "correct": false },
+      { "text": "É ilimitada.", "correct": false }
+    ]
+  },
+  {
+    "question": "A prorrogação dessa detenção depende:",
+    "answers": [
+      { "text": "Do comandante de região/área competente, com fundamentação.", "correct": true },
+      { "text": "Do juiz.", "correct": false },
+      { "text": "Do promotor.", "correct": false },
+      { "text": "Do encarregado do IPM.", "correct": false }
+    ]
+  },
+  {
+    "question": "Prisão preventiva pode ser decretada por:",
+    "answers": [
+      { "text": "Auditor ou Conselho de Justiça.", "correct": true },
+      { "text": "Comandante do batalhão.", "correct": false },
+      { "text": "Escrivão.", "correct": false },
+      { "text": "Encarregado.", "correct": false }
+    ]
+  },
+  {
+    "question": "Comunicação de prisão deve ser feita:",
+    "answers": [
+      { "text": "Imediatamente ao juiz militar.", "correct": true },
+      { "text": "Somente ao comandante.", "correct": false },
+      { "text": "Apenas ao MP.", "correct": false },
+      { "text": "Em até 72 horas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Prisão de militar deve ser feita por:",
+    "answers": [
+      { "text": "Outro militar superior, ou se igual, mais antigo.", "correct": true },
+      { "text": "Qualquer pessoa.", "correct": false },
+      { "text": "Policial civil obrigatoriamente.", "correct": false },
+      { "text": "Apenas oficiais.", "correct": false }
+    ]
+  },
+  {
+    "question": "Uso de algemas em militares:",
+    "answers": [
+      { "text": "Deve ser evitado e não pode ser aplicado em autoridades de alta patente.", "correct": true },
+      { "text": "É obrigatório.", "correct": false },
+      { "text": "É proibido sempre.", "correct": false },
+      { "text": "Não exige justificativa.", "correct": false }
+    ]
+  }
+]
