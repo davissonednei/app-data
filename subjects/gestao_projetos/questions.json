@@ -1,0 +1,498 @@
+[
+  {
+    "question": "O que é um projeto, segundo as definições apresentadas?",
+    "answers": [
+      { "text": "Uma ideia, desejo ou intenção de realizar algo no futuro; um plano detalhado de um empreendimento.", "correct": true },
+      { "text": "Uma tarefa rotineira executada continuamente dentro da organização.", "correct": false },
+      { "text": "Qualquer atividade sem planejamento.", "correct": false },
+      { "text": "Processos permanentes operacionais.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual característica essencial de um projeto?",
+    "answers": [
+      { "text": "É temporário, com início e fim definidos.", "correct": true },
+      { "text": "É contínuo e repetitivo.", "correct": false },
+      { "text": "Não exige planejamento.", "correct": false },
+      { "text": "Repete-se indefinidamente.", "correct": false }
+    ]
+  },
+  {
+    "question": "Um projeto termina quando:",
+    "answers": [
+      { "text": "O objetivo é atingido ou torna-se inviável.", "correct": true },
+      { "text": "A equipe decide parar.", "correct": false },
+      { "text": "O orçamento acaba.", "correct": false },
+      { "text": "O patrocinador muda de função.", "correct": false }
+    ]
+  },
+  {
+    "question": "A declaração do escopo é desenvolvida a partir de:",
+    "answers": [
+      { "text": "Entregas, TAP, requisitos, premissas e restrições.", "correct": true },
+      { "text": "Cronograma e orçamento apenas.", "correct": false },
+      { "text": "Riscos e recursos.", "correct": false },
+      { "text": "Metas institucionais.", "correct": false }
+    ]
+  },
+  {
+    "question": "Função da EAP:",
+    "answers": [
+      { "text": "Decompor o projeto em pacotes de trabalho.", "correct": true },
+      { "text": "Definir salários.", "correct": false },
+      { "text": "Gerar cronograma automaticamente.", "correct": false },
+      { "text": "Elaborar riscos.", "correct": false }
+    ]
+  },
+  {
+    "question": "O que são pacotes de trabalho?",
+    "answers": [
+      { "text": "Atividades agrupadas com início, meio e fim.", "correct": true },
+      { "text": "Processos administrativos.", "correct": false },
+      { "text": "Relatórios financeiros.", "correct": false },
+      { "text": "Metas estratégicas.", "correct": false }
+    ]
+  },
+  {
+    "question": "EAP orientada a entregas vs. processos:",
+    "answers": [
+      { "text": "Entregas = resultados; processos = etapas.", "correct": true },
+      { "text": "Processos = obras públicas.", "correct": false },
+      { "text": "Entrega não serve em projetos grandes.", "correct": false },
+      { "text": "São idênticas.", "correct": false }
+    ]
+  },
+  {
+    "question": "MDP é usado para:",
+    "answers": [
+      { "text": "Definir dependências entre atividades.", "correct": true },
+      { "text": "Gerar orçamento.", "correct": false },
+      { "text": "Distribuir recursos.", "correct": false },
+      { "text": "Criar lições aprendidas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Etapa que NÃO pertence à gestão de riscos:",
+    "answers": [
+      { "text": "Finalização financeira.", "correct": true },
+      { "text": "Identificação.", "correct": false },
+      { "text": "Desenvolvimento de respostas.", "correct": false },
+      { "text": "Monitoramento.", "correct": false }
+    ]
+  },
+  {
+    "question": "Encerramento do projeto envolve:",
+    "answers": [
+      { "text": "Documentar, aceitar e avaliar resultados.", "correct": true },
+      { "text": "Reiniciar o projeto.", "correct": false },
+      { "text": "Descartar documentação.", "correct": false },
+      { "text": "Analisar apenas erros.", "correct": false }
+    ]
+  },
+  {
+    "question": "Segundo o PMBOK, um projeto é:",
+    "answers": [
+      { "text": "Esforço temporário para criar algo único.", "correct": true },
+      { "text": "Rotina contínua.", "correct": false },
+      { "text": "Atividade repetitiva.", "correct": false },
+      { "text": "Processo sem fim.", "correct": false }
+    ]
+  },
+  {
+    "question": "Projetos e processos têm em comum:",
+    "answers": [
+      { "text": "São realizados por pessoas e demandam recursos.", "correct": true },
+      { "text": "São sempre temporários.", "correct": false },
+      { "text": "Têm repetitividade igual.", "correct": false },
+      { "text": "Sempre têm os mesmos objetivos.", "correct": false }
+    ]
+  },
+  {
+    "question": "O TAP NÃO contém:",
+    "answers": [
+      { "text": "EAP completa.", "correct": true },
+      { "text": "Justificativa.", "correct": false },
+      { "text": "Premissas.", "correct": false },
+      { "text": "Riscos iniciais.", "correct": false }
+    ]
+  },
+  {
+    "question": "Etapa de qualificação/quantificação de riscos serve para:",
+    "answers": [
+      { "text": "Avaliar probabilidade e impacto.", "correct": true },
+      { "text": "Arquivar projeto.", "correct": false },
+      { "text": "Encerrar projeto.", "correct": false },
+      { "text": "Substituir planejamento.", "correct": false }
+    ]
+  },
+  {
+    "question": "Deming — etapa AGIR significa:",
+    "answers": [
+      { "text": "Ajustar e corrigir falhas.", "correct": true },
+      { "text": "Planejar missão.", "correct": false },
+      { "text": "Aplicar materiais.", "correct": false },
+      { "text": "Monitorar execução.", "correct": false }
+    ]
+  },
+  {
+    "question": "Finalidade do planejamento:",
+    "answers": [
+      { "text": "Definir o que, como e a ordem.", "correct": true },
+      { "text": "Substituir escopo.", "correct": false },
+      { "text": "Acelerar o projeto.", "correct": false },
+      { "text": "Eliminar controle.", "correct": false }
+    ]
+  },
+  {
+    "question": "Estado atual/desejado envolve:",
+    "answers": [
+      { "text": "Forças, fraquezas, oportunidades e ameaças.", "correct": true },
+      { "text": "Somente externo.", "correct": false },
+      { "text": "Somente forças.", "correct": false },
+      { "text": "Somente restrições.", "correct": false }
+    ]
+  },
+  {
+    "question": "Áreas de conhecimento (PMBOK):",
+    "answers": [
+      { "text": "Integração, escopo, tempo, custos, qualidade, RH, comunicação, riscos, aquisições.", "correct": true },
+      { "text": "Processos, Lean, Kanban.", "correct": false },
+      { "text": "Segurança e auditoria.", "correct": false },
+      { "text": "Fiscalização e contabilidade.", "correct": false }
+    ]
+  },
+  {
+    "question": "Escopo do produto:",
+    "answers": [
+      { "text": "Características e funções.", "correct": true },
+      { "text": "Orçamento.", "correct": false },
+      { "text": "Sequência de atividades.", "correct": false },
+      { "text": "Responsabilidades.", "correct": false }
+    ]
+  },
+  {
+    "question": "Escopo do projeto:",
+    "answers": [
+      { "text": "Trabalho necessário para entregar o produto.", "correct": true },
+      { "text": "Análise de riscos.", "correct": false },
+      { "text": "Atividades críticas apenas.", "correct": false },
+      { "text": "Orçamento.", "correct": false }
+    ]
+  },
+  {
+    "question": "Qualidade — regra chave:",
+    "answers": [
+      { "text": "Prevenir é mais barato que corrigir.", "correct": true },
+      { "text": "Não depende de requisitos.", "correct": false },
+      { "text": "É definida só pelo gerente.", "correct": false },
+      { "text": "Não tem relação com custo.", "correct": false }
+    ]
+  },
+  {
+    "question": "Crosby define qualidade como:",
+    "answers": [
+      { "text": "Conformidade às especificações.", "correct": true },
+      { "text": "Surpreender o cliente.", "correct": false },
+      { "text": "Menor custo.", "correct": false },
+      { "text": "Estética.", "correct": false }
+    ]
+  },
+  {
+    "question": "Deming define qualidade como:",
+    "answers": [
+      { "text": "Satisfazer desejos.", "correct": true },
+      { "text": "Obediência ao cronograma.", "correct": false },
+      { "text": "Controle estatístico puro.", "correct": false },
+      { "text": "Redução total de custos.", "correct": false }
+    ]
+  },
+  {
+    "question": "RH foca em:",
+    "answers": [
+      { "text": "Motivação, conflitos e comunicação.", "correct": true },
+      { "text": "Contratos externos.", "correct": false },
+      { "text": "Especificações técnicas.", "correct": false },
+      { "text": "Riscos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Comunicação define:",
+    "answers": [
+      { "text": "O que, quem, quando e como comunicar.", "correct": true },
+      { "text": "Somente relatórios.", "correct": false },
+      { "text": "Somente documentos formais.", "correct": false },
+      { "text": "Somente reuniões.", "correct": false }
+    ]
+  },
+  {
+    "question": "Riscos podem ser:",
+    "answers": [
+      { "text": "Positivos ou negativos.", "correct": true },
+      { "text": "Apenas negativos.", "correct": false },
+      { "text": "Apenas financeiros.", "correct": false },
+      { "text": "Sempre imprevisíveis.", "correct": false }
+    ]
+  },
+  {
+    "question": "Integração trata de:",
+    "answers": [
+      { "text": "Coerência entre fases e recursos.", "correct": true },
+      { "text": "Conflitos internos.", "correct": false },
+      { "text": "Fiscalização.", "correct": false },
+      { "text": "Cronograma isolado.", "correct": false }
+    ]
+  },
+  {
+    "question": "Stakeholders são:",
+    "answers": [
+      { "text": "Atores afetados positiva ou negativamente.", "correct": true },
+      { "text": "Somente usuários finais.", "correct": false },
+      { "text": "Somente executores.", "correct": false },
+      { "text": "Somente patrocinadores.", "correct": false }
+    ]
+  },
+  {
+    "question": "Stakeholders positivos são:",
+    "answers": [
+      { "text": "Os que se beneficiam do sucesso.", "correct": true },
+      { "text": "Quem tenta travar o projeto.", "correct": false },
+      { "text": "Só alta gerência.", "correct": false },
+      { "text": "Sem relação direta.", "correct": false }
+    ]
+  },
+  {
+    "question": "Patrocinador é:",
+    "answers": [
+      { "text": "Quem banca e dá suporte institucional.", "correct": true },
+      { "text": "Executor técnico.", "correct": false },
+      { "text": "Auditor.", "correct": false },
+      { "text": "Consultor externo.", "correct": false }
+    ]
+  },
+  {
+    "question": "Portfólio é:",
+    "answers": [
+      { "text": "Conjunto de projetos/programas alinhados à estratégia.", "correct": true },
+      { "text": "Lista de tarefas.", "correct": false },
+      { "text": "Documentos administrativos.", "correct": false },
+      { "text": "Projetos já concluídos.", "correct": false }
+    ]
+  },
+  {
+    "question": "EGP serve para:",
+    "answers": [
+      { "text": "Centralizar e coordenar projetos.", "correct": true },
+      { "text": "Substituir o gerente.", "correct": false },
+      { "text": "Executar tarefas técnicas.", "correct": false },
+      { "text": "Aprovar políticas internas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Ciclo de vida do projeto:",
+    "answers": [
+      { "text": "Sequência de fases.", "correct": true },
+      { "text": "Somente execução.", "correct": false },
+      { "text": "Horas totais.", "correct": false },
+      { "text": "Reuniões.", "correct": false }
+    ]
+  },
+  {
+    "question": "CPM identifica:",
+    "answers": [
+      { "text": "Caminho sem folga — atraso nele atrasa tudo.", "correct": true },
+      { "text": "Satisfação do cliente.", "correct": false },
+      { "text": "Custos diretos.", "correct": false },
+      { "text": "Qualidade das entregas.", "correct": false }
+    ]
+  },
+  {
+    "question": "PERT usa:",
+    "answers": [
+      { "text": "Otimista, provável, pessimista.", "correct": true },
+      { "text": "Somente provável.", "correct": false },
+      { "text": "Estimativa determinística.", "correct": false },
+      { "text": "Custo apenas.", "correct": false }
+    ]
+  },
+  {
+    "question": "Fórmula PERT:",
+    "answers": [
+      { "text": "(O + 4MP + P) / 6", "correct": true },
+      { "text": "(O + MP + P) / 3", "correct": false },
+      { "text": "(4O + MP + P) / 6", "correct": false },
+      { "text": "(O + 2MP + P) / 4", "correct": false }
+    ]
+  },
+  {
+    "question": "Critérios de aceitação servem para:",
+    "answers": [
+      { "text": "Aceitar formalmente o produto.", "correct": true },
+      { "text": "Definir riscos.", "correct": false },
+      { "text": "Registrar custos.", "correct": false },
+      { "text": "Descrever pacotes.", "correct": false }
+    ]
+  },
+  {
+    "question": "Limites do escopo servem para:",
+    "answers": [
+      { "text": "Definir o que NÃO será feito.", "correct": true },
+      { "text": "Ampliar orçamento.", "correct": false },
+      { "text": "Criar extras opcionais.", "correct": false },
+      { "text": "Definir papel do patrocinador.", "correct": false }
+    ]
+  },
+  {
+    "question": "Premissas são:",
+    "answers": [
+      { "text": "Fatores assumidos como verdadeiros.", "correct": true },
+      { "text": "Restrições financeiras.", "correct": false },
+      { "text": "Itens opcionais.", "correct": false },
+      { "text": "Riscos positivos.", "correct": false }
+    ]
+  },
+  {
+    "question": "Dependência fim-início significa:",
+    "answers": [
+      { "text": "Predecessora termina → sucessora inicia.", "correct": true },
+      { "text": "Começam juntas.", "correct": false },
+      { "text": "Sucessora termina ao iniciar.", "correct": false },
+      { "text": "Sem dependência.", "correct": false }
+    ]
+  },
+  {
+    "question": "Dependência início-início:",
+    "answers": [
+      { "text": "As duas devem iniciar.", "correct": true },
+      { "text": "As duas devem terminar juntas.", "correct": false },
+      { "text": "Sucessora espera fim da predecessora.", "correct": false },
+      { "text": "Não há relação.", "correct": false }
+    ]
+  },
+  {
+    "question": "Lead significa:",
+    "answers": [
+      { "text": "Antecipação (tempo negativo).", "correct": true },
+      { "text": "Atraso.", "correct": false },
+      { "text": "Folga total.", "correct": false },
+      { "text": "Parada técnica.", "correct": false }
+    ]
+  },
+  {
+    "question": "Lag significa:",
+    "answers": [
+      { "text": "Atraso (tempo positivo).", "correct": true },
+      { "text": "Tempo negativo.", "correct": false },
+      { "text": "Redução de esforço.", "correct": false },
+      { "text": "Restrição legal.", "correct": false }
+    ]
+  },
+  {
+    "question": "Duração é:",
+    "answers": [
+      { "text": "Tempo total com recursos disponíveis.", "correct": true },
+      { "text": "Horas de esforço.", "correct": false },
+      { "text": "Intervalo entre atividades.", "correct": false },
+      { "text": "Descanso.", "correct": false }
+    ]
+  },
+  {
+    "question": "Esforço é:",
+    "answers": [
+      { "text": "Horas de trabalho necessárias.", "correct": true },
+      { "text": "Mesmo que duração.", "correct": false },
+      { "text": "Folga.", "correct": false },
+      { "text": "Tempo de espera.", "correct": false }
+    ]
+  },
+  {
+    "question": "Custos diretos incluem:",
+    "answers": [
+      { "text": "Pessoal e aquisições.", "correct": true },
+      { "text": "Administração.", "correct": false },
+      { "text": "Transporte.", "correct": false },
+      { "text": "Encargos sociais.", "correct": false }
+    ]
+  },
+  {
+    "question": "Custos indiretos incluem:",
+    "answers": [
+      { "text": "Administração, encargos, alimentação, transporte.", "correct": true },
+      { "text": "Pessoal.", "correct": false },
+      { "text": "Materiais.", "correct": false },
+      { "text": "Fases do produto.", "correct": false }
+    ]
+  },
+  {
+    "question": "Custo da conformidade inclui:",
+    "answers": [
+      { "text": "Treinamento e manutenção.", "correct": true },
+      { "text": "Retrabalho.", "correct": false },
+      { "text": "Garantias.", "correct": false },
+      { "text": "Desperdício.", "correct": false }
+    ]
+  },
+  {
+    "question": "Custo da não conformidade inclui:",
+    "answers": [
+      { "text": "Retrabalho e reparos.", "correct": true },
+      { "text": "Treinamento.", "correct": false },
+      { "text": "Planejamento.", "correct": false },
+      { "text": "Prevenção.", "correct": false }
+    ]
+  },
+  {
+    "question": "TQM se baseia em:",
+    "answers": [
+      { "text": "Cliente + melhoria contínua + engajamento.", "correct": true },
+      { "text": "Custo apenas.", "correct": false },
+      { "text": "Intuição.", "correct": false },
+      { "text": "Alta gestão isolada.", "correct": false }
+    ]
+  },
+  {
+    "question": "QFD serve para:",
+    "answers": [
+      { "text": "Traduzir necessidades do cliente em especificações.", "correct": true },
+      { "text": "Criar cronograma.", "correct": false },
+      { "text": "Calcular caminho crítico.", "correct": false },
+      { "text": "Definir orçamentos.", "correct": false }
+    ]
+  },
+  {
+    "question": "DMAIC pertence a:",
+    "answers": [
+      { "text": "Six Sigma.", "correct": true },
+      { "text": "JIT.", "correct": false },
+      { "text": "Kaizen.", "correct": false },
+      { "text": "TQM.", "correct": false }
+    ]
+  },
+  {
+    "question": "JIT busca:",
+    "answers": [
+      { "text": "Produzir só o necessário, evitando desperdício.", "correct": true },
+      { "text": "Criar estoques enormes.", "correct": false },
+      { "text": "Aumentar burocracia.", "correct": false },
+      { "text": "Reduzir foco no cliente.", "correct": false }
+    ]
+  },
+  {
+    "question": "Plano de Gerenciamento de Mudanças define:",
+    "answers": [
+      { "text": "Quem solicita, revisa e aprova mudanças.", "correct": true },
+      { "text": "Cronograma base.", "correct": false },
+      { "text": "Riscos estratégicos.", "correct": false },
+      { "text": "Apenas orçamento.", "correct": false }
+    ]
+  },
+  {
+    "question": "Autoridade final sobre mudanças grandes:",
+    "answers": [
+      { "text": "Patrocinador.", "correct": true },
+      { "text": "Qualquer membro da equipe.", "correct": false },
+      { "text": "Executor técnico.", "correct": false },
+      { "text": "Fiscal do contrato.", "correct": false }
+    ]
+  }
+]
+
