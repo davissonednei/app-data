@@ -185,6 +185,17 @@
       "questionCount": 0,
       "flashcardCount": 0,
       "textCount": 0
-    }
+    },
+    {
+      "id": "gestao_de_projetos",
+      "title": "Gestão de Projetos",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/gestao_projetos.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/gestao_projetos/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/gestao_projetos/flashcards.json",
+      "texts_url": "",
+      "questionCount": 60,
+      "flashcardCount": 60,
+      "textCount": 0
+    },
   ]
 }
