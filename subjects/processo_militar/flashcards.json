@@ -1,40 +1,77 @@
 [
-  { "front": "O que é Justiça Militar?", "back": "Ramo do Judiciário que julga crimes militares." },
-  { "front": "Competência da JMU", "back": "Crimes de militares das Forças Armadas e civis em casos legais." },
-  { "front": "Órgão máximo da JMU", "back": "Superior Tribunal Militar (STM)." },
-  { "front": "Competência da JME", "back": "Julgar PMs e BMs por crimes militares." },
-  { "front": "Militar contra civil", "back": "Julga o juiz de direito do juízo militar." },
-  { "front": "1º grau da JME", "back": "Conselho de Justiça Militar." },
-  { "front": "Comando PM/CBM", "back": "Governador do Estado." },
-  { "front": "Função da PJD Militar", "back": "Apurar fato e autoria do crime militar." },
-  { "front": "Finalidade do IPM", "back": "Apuração sumária de crime militar." },
-  { "front": "Preside o IPM", "back": "Oficial superior ou mais antigo." },
-  { "front": "IPM obrigatório", "back": "Quando há flagrante de crime militar." },
-  { "front": "Prazo IPM preso", "back": "20 dias + prorrogação." },
-  { "front": "Prazo IPM solto", "back": "40 + 40 dias." },
-  { "front": "Sindicância × IPM", "back": "Sindicância = disciplina; IPM = crime militar." },
-  { "front": "Civil no IPM", "back": "Pode ser investigado em casos legais." },
-  { "front": "Encaminhamento final", "back": "IPM → MPM." },
-  { "front": "Função do escrivão", "back": "Registrar e organizar autos." },
-  { "front": "Direito do indiciado", "back": "Silêncio + advogado." },
-  { "front": "Medida preliminar", "back": "Preservar local do fato." },
-  { "front": "Outra medida preliminar", "back": "Apreensão de instrumentos." },
-  { "front": "Ouvir no IPM", "back": "Ofendido, se possível." },
-  { "front": "Testemunhas", "back": "Sob compromisso." },
-  { "front": "Reconhecimento/acareação", "back": "Permitidos pelo encarregado." },
-  { "front": "Corpo de delito", "back": "Obrigatório quando há vestígios." },
-  { "front": "Busca e apreensão", "back": "Formal e motivada." },
-  { "front": "Proteção da testemunha", "back": "Dever do encarregado." },
-  { "front": "Reprodução simulada", "back": "Permitida sem ofensa à disciplina." },
-  { "front": "Finalidade da reprodução", "back": "Testar plausibilidade dos fatos." },
-  { "front": "Encerramento do IPM", "back": "Relatório minucioso." },
-  { "front": "Avocação", "back": "Delegante pode mudar solução." },
-  { "front": "Flagrante pode substituir IPM?", "back": "Sim, se esclarecer fato e autoria." },
-  { "front": "Dispensa do IPM", "back": "Documentos esclarecem fato/autoria." },
-  { "front": "Detenção no IPM", "back": "30 + 20 dias." },
-  { "front": "Prorrogação detenção", "back": "Comandante regional/área." },
-  { "front": "Quem decreta preventiva?", "back": "Auditor ou Conselho de Justiça." },
-  { "front": "Comunicar prisão", "back": "Imediatamente ao juiz militar." },
-  { "front": "Quem prende militar?", "back": "Militar superior ou mais antigo." },
-  { "front": "Algemas no militar", "back": "Evitar; proibido em autoridades superiores." }
+  { "front": "O que é Justiça Militar?", "back": "É o ramo do Judiciário que processa e julga crimes militares, com estrutura própria e competências definidas." },
+
+  { "front": "Competência da JMU", "back": "Julga crimes militares das Forças Armadas e, em certas hipóteses, civis envolvidos nesses crimes." },
+
+  { "front": "Órgão máximo da JMU", "back": "Superior Tribunal Militar (STM), com 15 ministros e jurisdição nacional." },
+
+  { "front": "Competência da JME", "back": "Julga crimes militares de policiais e bombeiros militares estaduais." },
+
+  { "front": "Militar contra civil", "back": "Nesses casos, quem julga é o juiz de direito do juízo militar, atuando sozinho." },
+
+  { "front": "1º grau da JME", "back": "Conselhos de Justiça, que julgam decisões na Justiça Militar Estadual." },
+
+  { "front": "Comando PM/CBM", "back": "Constituição Estadual: o Governador é o comandante supremo das corporações." },
+
+  { "front": "Função da PJD Militar", "back": "É a polícia judiciária especializada que apura autoria e materialidade de crimes militares." },
+
+  { "front": "Finalidade do IPM", "back": "Investigar rapidamente se houve crime militar e apontar autoria, servindo de base para o MPM." },
+
+  { "front": "Preside o IPM", "back": "Oficial da ativa superior ou mais antigo que o indiciado para garantir imparcialidade." },
+
+  { "front": "IPM obrigatório", "back": "É exigido quando há flagrante de crime militar, para formalizar a investigação." },
+
+  { "front": "Prazo IPM preso", "back": "20 dias, prorrogáveis com autorização, pois há urgência quando o investigado está detido." },
+
+  { "front": "Prazo IPM solto", "back": "40 dias + 40, devido à menor urgência quando o investigado está em liberdade." },
+
+  { "front": "Sindicância × IPM", "back": "Sindicância é disciplinar; IPM é penal e apura crime militar conforme o CPPM." },
+
+  { "front": "Civil no IPM", "back": "Civis podem ser investigados se praticarem crime militar conforme as hipóteses legais." },
+
+  { "front": "Encaminhamento final do IPM", "back": "Após concluído, o IPM é enviado ao Ministério Público Militar, nunca arquivado pela autoridade." },
+
+  { "front": "Função do escrivão", "back": "Organiza os autos, lavra termos e registra todos os atos formais do IPM." },
+
+  { "front": "Direito do indiciado", "back": "Pode permanecer em silêncio e deve estar acompanhado por advogado ou defensor." },
+
+  { "front": "Medida preliminar: local", "back": "Preservação do local do fato para evitar contaminação e perda de vestígios." },
+
+  { "front": "Medida preliminar: apreensão", "back": "Apreender instrumentos ligados ao crime para garantir a cadeia de custódia." },
+
+  { "front": "Ouvir no IPM", "back": "O ofendido deve ser ouvido sempre que possível para esclarecer dinâmica do fato." },
+
+  { "front": "Testemunhas no IPM", "back": "São ouvidas sob compromisso e prestam depoimento oral, não escrito." },
+
+  { "front": "Reconhecimento/acareação", "back": "Permitidos pelo encarregado para confrontar versões ou confirmar identidades." },
+
+  { "front": "Corpo de delito", "back": "Obrigatório quando há vestígios, sendo a prova mais importante em crimes materiais." },
+
+  { "front": "Busca e apreensão no IPM", "back": "Deve ser fundamentada e seguir formalidades, garantindo legalidade da prova." },
+
+  { "front": "Proteção da testemunha", "back": "O encarregado deve agir quando houver ameaça ou risco à integridade da testemunha." },
+
+  { "front": "Reprodução simulada", "back": "Pode ser usada para verificar se o fato poderia ocorrer da forma narrada, sem ferir disciplina." },
+
+  { "front": "Finalidade da reprodução", "back": "Avaliar a plausibilidade da versão apresentada pelos envolvidos." },
+
+  { "front": "Encerramento do IPM", "back": "É feito com relatório detalhado, indicando diligências, provas e conclusão." },
+
+  { "front": "Avocação", "back": "A autoridade delegante pode assumir o IPM e dar solução diversa, garantindo controle hierárquico." },
+
+  { "front": "Flagrante substitui IPM?", "back": "Sim, quando o APF já esclarece corretamente fato e autoria." },
+
+  { "front": "Dispensa do IPM", "back": "Admite-se quando documentos já comprovam fato e autoria de forma suficiente." },
+
+  { "front": "Detenção no IPM", "back": "Pode durar até 30 dias, ampliável por mais 20, enquanto se apura o fato." },
+
+  { "front": "Prorrogação da detenção", "back": "Depende de autoridade superior, por necessidade real e devidamente justificada." },
+
+  { "front": "Quem decreta preventiva?", "back": "O auditor ou o Conselho de Justiça, nunca o encarregado ou comandante." },
+
+  { "front": "Comunicação da prisão", "back": "O juiz militar deve ser comunicado imediatamente para controle da legalidade." },
+
+  { "front": "Quem prende militar?", "back": "Outro militar superior — ou, sendo igual posto, o mais antigo." },
+
+  { "front": "Algemas no militar", "back": "Devem ser evitadas e são proibidas para autoridades superiores, salvo risco real." }
 ]
