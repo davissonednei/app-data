@@ -1,0 +1,15 @@
+{
+  "subjects": [
+    {
+      "id": "hazmat-placas",
+      "title": "Produtos Perigosos",
+      "layout": "hazmat",
+      "imageUrl": "https://...",
+      "contentUrl": "https://davissonednei.github.io/app-data/hazmat_content.json",
+      "panelsUrl": "https://davissonednei.github.io/app-data/safety_panels.json",
+      "flashcardCount": 0,
+      "questionCount": 0,
+      "textCount": 0
+    }
+  ]
+}
