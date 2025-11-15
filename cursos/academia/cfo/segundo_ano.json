@@ -75,6 +75,15 @@
       "flashcards_url": "https://davissonednei.github.io/app-data/subjects/tic/flashcards.json",
       "questionCount": 35,
       "flashcardCount": 35
+    },
+    {
+      "id": "logistica",
+      "title": "Logística",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/logistica.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/logistica/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/logistica/flashcards.json",
+      "questionCount": 0,
+      "flashcardCount": 44
     }
     ]
 }
