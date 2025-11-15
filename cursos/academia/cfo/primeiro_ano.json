@@ -20,18 +20,6 @@
       "flashcards_url": "https://davissonednei.github.io/app-data/subjects/emphii/flashcards.json",
       "questionCount": 0,
       "flashcardCount": 26
-    },
-    {
-      "id": "taticas_incendio_2",
-      "title": "Técnicas e Táticas de Combate a Incêndio II",
-      "imageUrl": "https://davissonednei.github.io/app-data/images/TTCIII.jpg",
-      "questions_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/questions.json",
-      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/flashcards.json",
-      "texts_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/texts.json",
-      "questionCount": 0,
-      "flashcardCount": 106,
-      "textCount": 15
     }
-    
   ]
 }
