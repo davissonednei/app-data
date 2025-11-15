@@ -11,6 +11,15 @@
       "questionCount": 0,
       "flashcardCount": 106,
       "textCount": 15
-    }
+    },
+    {
+      "id": "emergencias_pre_hospitalares",
+      "title": "Emergências Médicas Pré Hospitalares II",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/emphii.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/emphii/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/emphii/flashcards.json",
+      "questionCount": 0,
+      "flashcardCount": 26
+    },
   ]
 }
