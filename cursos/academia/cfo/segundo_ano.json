@@ -1,1 +1,80 @@
-
+{
+  "version": 1,
+  "subjects": [
+    {
+      "id": "protecao_defesa_civil",
+      "title": "Proteção e Defesa Civil",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/DECI.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/dec1/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/dec1/flashcards.json",
+      "questionCount": 0,
+      "flashcardCount": 51
+    },
+    {
+      "id": "direito_penal_1",
+      "title": "Direito Penal I",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/penalI.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/penalI/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/penalI/flashcards.json",
+      "texts_url": "",
+      "lessons_url": "https://davissonednei.github.io/app-data/subjects/penalI/audio_lessons.json",
+      "questionCount": 0,
+      "flashcardCount": 52,
+      "lessonCount": 1
+    },
+    {
+      "id": "incendio_florestal",
+      "title": "Proteção contra Incêndio Florestal I e II",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/pcif.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/pcif/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/pcif/flashcards.json",
+      "questionCount": 35,
+      "flashcardCount": 50
+    },
+    {
+      "id": "operacao_viaturas",
+      "title": "Operação de Viaturas",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/viaturas.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/viaturas/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/viaturas/flashcards.json",
+      "questionCount": 0,
+      "flashcardCount": 28
+    },
+    {
+      "id": "direito_penal_2",
+      "title": "Direito Penal II",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/penalII.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/penalII/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/penalII/flashcards.json",
+      "questionCount": 0,
+      "flashcardCount": 52
+    },
+    {
+      "id": "direito_penal_militar_1",
+      "title": "Direito Penal Militar I",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/dpm1.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/dpm1/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/dpm1/flashcards.json",
+      "questionCount": 60,
+      "flashcardCount": 60
+    },
+    {
+      "id": "incendio_florestal",
+      "title": "Proteção contra Incêndio Florestal I e II",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/pcif.jpg",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/pcif/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/pcif/flashcards.json",
+      "questionCount": 35,
+      "flashcardCount": 50
+    },
+    {
+      "id": "tecnologia_informacao",
+      "title": "Tecnologia da Informação",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/tic.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/tic/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/tic/flashcards.json",
+      "questionCount": 35,
+      "flashcardCount": 35
+    },
+    ]
+}
