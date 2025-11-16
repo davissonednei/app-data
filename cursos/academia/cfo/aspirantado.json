@@ -1,1 +1,13 @@
-
+{
+  "version": 1,
+  "subjects": [
+{
+  "id": "sei",
+  "title": "SEI - Sistema Eletrônico de Informações",
+  "subtitle": "Aprenda a usar o SEI",
+  "layoutKey": "sei",
+  "questionsUrl": "",
+  "icon": "description"
+}
+  ]
+}
