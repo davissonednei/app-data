@@ -80,6 +80,7 @@
   "id": "logistica",
   "title": "Logística",
   "iconName": "local_shipping",
+  "colorScheme": "brown",
   "questions_url": "https://davissonednei.github.io/app-data/subjects/logistica/questions.json",
   "flashcards_url": "https://davissonednei.github.io/app-data/subjects/logistica/flashcards.json",
   "questionCount": 0,
