@@ -1,25 +1,25 @@
 {
   "version": 1,
   "subjects": [
-    {
-      "id": "taticas_incendio_2",
-      "title": "Técnicas e Táticas de Combate a Incêndio II",
-      "imageUrl": "https://davissonednei.github.io/app-data/images/TTCIII.jpg",
-      "questions_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/questions.json",
-      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/flashcards.json",
-      "texts_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/texts.json",
-      "questionCount": 0,
-      "flashcardCount": 106,
-      "textCount": 15
-    },
-    {
-      "id": "emergencias_pre_hospitalares",
-      "title": "Emergências Médicas Pré Hospitalares II",
-      "imageUrl": "https://davissonednei.github.io/app-data/images/emphii.jpg",
-      "questions_url": "https://davissonednei.github.io/app-data/subjects/emphii/questions.json",
-      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/emphii/flashcards.json",
-      "questionCount": 0,
-      "flashcardCount": 26
-    }
+   {
+  "id": "taticas_incendio_2",
+  "title": "Técnicas e Táticas de Combate a Incêndio II",
+  "iconName": "local_fire_department",
+  "questions_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/questions.json",
+  "flashcards_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/flashcards.json",
+  "texts_url": "https://davissonednei.github.io/app-data/subjects/TTCIII/texts.json",
+  "questionCount": 0,
+  "flashcardCount": 106,
+  "textCount": 15
+},
+{
+  "id": "emergencias_pre_hospitalares",
+  "title": "Emergências Médicas Pré Hospitalares II",
+  "iconName": "medical_services",
+  "questions_url": "https://davissonednei.github.io/app-data/subjects/emphii/questions.json",
+  "flashcards_url": "https://davissonednei.github.io/app-data/subjects/emphii/flashcards.json",
+  "questionCount": 0,
+  "flashcardCount": 26
+}
   ]
 }
