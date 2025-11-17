@@ -2,13 +2,17 @@
   "version": 1,
   "subjects": [
     {
-      "id": "sei",
-      "title": "SEI - Sistema Eletrônico de Informações",
-      "subtitle": "Aprenda a usar o SEI",
-      "description": "Sistema Eletrônico de Informações completo",
-      "layout": "sei",
-      "questions_url": "",
-      "iconName": "description"
-    }
+  "id": "sei",
+  "title": "SEI - Sistema Eletrônico de Informações",
+  "description": "Aprenda a usar o SEI",
+  "iconName": "description",
+  "questions_url": "",
+  "flashcards_url": "",
+  "texts_url": "",
+  "layout": "sei",
+  "questionCount": 0,
+  "flashcardCount": 0,
+  "textCount": 0
+}
   ]
 }
