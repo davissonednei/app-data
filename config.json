@@ -207,6 +207,17 @@
       "questionCount": 38,
       "flashcardCount": 38,
       "textCount": 0
+    },
+    {
+      "id": "mergulho_de_resgate",
+      "title": "Mergulho de Resgate",
+      "imageUrl": "https://davissonednei.github.io/app-data/images/mergulho.png",
+      "questions_url": "https://davissonednei.github.io/app-data/subjects/mergulho/questions.json",
+      "flashcards_url": "https://davissonednei.github.io/app-data/subjects/mergulho/flashcards.json",
+      "texts_url": "",
+      "questionCount": 65,
+      "flashcardCount": 65,
+      "textCount": 0
     }
   ]
 }
