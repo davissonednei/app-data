@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "question": "Quais eram algumas das finalidades dos primeiros mergulhos registrados na Antiguidade?",
       "answers": [
@@ -423,5 +422,5 @@
         { "text": "Sangramento nasal.", "correct": false }
       ]
     }
-  ]
-}
+]
+
