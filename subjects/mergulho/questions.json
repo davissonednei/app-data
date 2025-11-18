@@ -93,32 +93,32 @@
     {
       "question": "Qual definição de pressão absoluta (ATA) está correta?",
       "answers": [
-        { "text": "É a soma da pressão atmosférica com a pressão relativa (hidrostática ou manométrica).", "correct": true },
+        { "text": "É a soma da pressão atmosférica com a pressão relativa.", "correct": true },
         { "text": "É apenas a pressão hidrostática exercida pela coluna de água.", "correct": false },
-        { "text": "É somente a pressão lida no manômetro do cilindro, desconsiderando a atmosférica.", "correct": false },
-        { "text": "É a diferença entre a pressão interna do cilindro e a pressão da água.", "correct": false }
+        { "text": "É a pressão lida no manômetro, desconsiderando a atmosférica.", "correct": false },
+        { "text": "É a diferença entre pressão interna e externa do cilindro.", "correct": false }
       ]
     },
     {
-      "question": "A quantos ATA, aproximadamente, o mergulhador está submetido a 20 metros de profundidade em água doce, considerando a aproximação didática usada na aula?",
+      "question": "A quantos ATA, aproximadamente, o mergulhador está submetido a 20 metros?",
       "answers": [
-        { "text": "Cerca de 3 ATA (1 atm atmosférica + 2 atm de coluna d’água).", "correct": true },
-        { "text": "Cerca de 1 ATA, pois a pressão não varia com a profundidade.", "correct": false },
-        { "text": "Cerca de 2 ATA (somente a pressão hidrostática).", "correct": false },
-        { "text": "Cerca de 4 ATA, pois cada 5 m equivalem a 1 atm.", "correct": false }
+        { "text": "Cerca de 3 ATA.", "correct": true },
+        { "text": "Cerca de 1 ATA.", "correct": false },
+        { "text": "Cerca de 2 ATA.", "correct": false },
+        { "text": "Cerca de 4 ATA.", "correct": false }
       ]
     },
     {
-      "question": "Segundo a Lei de Boyle-Mariotte, em um sistema fechado com temperatura constante:",
+      "question": "Segundo a Lei de Boyle-Mariotte, em temperatura constante:",
       "answers": [
-        { "text": "O volume de um gás é inversamente proporcional à pressão absoluta a que está submetido.", "correct": true },
-        { "text": "O volume de um gás é diretamente proporcional à pressão absoluta.", "correct": false },
-        { "text": "A pressão não interfere no volume quando a temperatura é constante.", "correct": false },
-        { "text": "Pressão e volume variam de forma independente da profundidade.", "correct": false }
+        { "text": "O volume é inversamente proporcional à pressão.", "correct": true },
+        { "text": "O volume aumenta conforme aumenta a pressão.", "correct": false },
+        { "text": "A pressão não interfere no volume.", "correct": false },
+        { "text": "Volume e pressão variam independentemente.", "correct": false }
       ]
     },
     {
-      "question": "Um balão possui 6 litros de ar na superfície (1 ATA). De acordo com o exemplo da aula, qual será aproximadamente o volume desse balão a 20 metros de profundidade (3 ATA)?",
+      "question": "Um balão possui 6 L na superfície (1 ATA). Qual será seu volume a 20 m (3 ATA)?",
       "answers": [
         { "text": "Cerca de 2 litros.", "correct": true },
         { "text": "Cerca de 3 litros.", "correct": false },
@@ -129,28 +129,299 @@
     {
       "question": "Sobre a Lei de Dalton aplicada ao mergulho, qual alternativa está correta?",
       "answers": [
-        { "text": "A pressão total é a soma das pressões parciais, e a pressão parcial de um gás é dada por Pabs × porcentagem do gás.", "correct": true },
-        { "text": "A pressão parcial independe da pressão absoluta do ambiente.", "correct": false },
-        { "text": "Somente o oxigênio possui pressão parcial relevante no mergulho.", "correct": false },
-        { "text": "Pressão parcial é apenas a diferença entre pressão atmosférica e pressão hidrostática.", "correct": false }
+        { "text": "Pressão total = soma das pressões parciais.", "correct": true },
+        { "text": "Pressão parcial independe da pressão absoluta.", "correct": false },
+        { "text": "Somente o O2 tem pressão parcial relevante.", "correct": false },
+        { "text": "Pressão parcial = diferença entre Patm e Phidro.", "correct": false }
       ]
     },
     {
-      "question": "De acordo com a aula, qual é o limite de segurança aproximado da pressão parcial de oxigênio (PPO2) para evitar intoxicação neurológica em mergulho?",
+      "question": "Qual é o limite seguro aproximado da PPO2?",
       "answers": [
-        { "text": "Cerca de 1,4 ATA.", "correct": true },
-        { "text": "Cerca de 0,2 ATA.", "correct": false },
-        { "text": "Cerca de 4 ATA.", "correct": false },
-        { "text": "Cerca de 0,79 ATA.", "correct": false }
+        { "text": "1,4 ATA.", "correct": true },
+        { "text": "0,2 ATA.", "correct": false },
+        { "text": "4 ATA.", "correct": false },
+        { "text": "0,79 ATA.", "correct": false }
       ]
     },
     {
-      "question": "Qual enunciado traduz corretamente a Lei de Henry aplicada ao mergulho?",
+      "question": "A Lei de Henry afirma que:",
       "answers": [
-        { "text": "A quantidade de gás que se dissolve em um líquido é proporcional à pressão parcial desse gás, a uma dada temperatura.", "correct": true },
-        { "text": "A quantidade de gás dissolvida em um líquido é independente da pressão parcial.", "correct": false },
-        { "text": "Somente o oxigênio segue a Lei de Henry no organismo do mergulhador.", "correct": false },
-        { "text": "A Lei de Henry trata apenas da relação entre volume e temperatura do gás.", "correct": false }
+        { "text": "A dissolução de gás no sangue é proporcional à pressão parcial do gás.", "correct": true },
+        { "text": "A dissolução independe da pressão parcial.", "correct": false },
+        { "text": "Só o oxigênio segue essa lei.", "correct": false },
+        { "text": "Relaciona apenas temperatura e volume.", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual item NÃO faz parte do planejamento do mergulho?",
+      "answers": [
+        { "text": "Tipo de máscara utilizada.", "correct": true },
+        { "text": "Local do mergulho.", "correct": false },
+        { "text": "Consumo do mergulhador.", "correct": false },
+        { "text": "Autonomia do cilindro.", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual é a fórmula da capacidade do cilindro?",
+      "answers": [
+        { "text": "C = Vi × Pman", "correct": true },
+        { "text": "C = Vi ÷ Pman", "correct": false },
+        { "text": "C = Vi + Pman", "correct": false },
+        { "text": "C = Vi – Pman", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual a capacidade de um S80 (11,2 L × 200 bar)?",
+      "answers": [
+        { "text": "2240 L.", "correct": true },
+        { "text": "1120 L.", "correct": false },
+        { "text": "860 L.", "correct": false },
+        { "text": "3200 L.", "correct": false }
+      ]
+    },
+    {
+      "question": "Sobre consumo de ar, qual é correto?",
+      "answers": [
+        { "text": "Pessoas maiores tendem a consumir mais ar.", "correct": true },
+        { "text": "Temperatura não influencia o consumo.", "correct": false },
+        { "text": "Correnteza reduz esforço físico.", "correct": false },
+        { "text": "Profundidade não altera consumo.", "correct": false }
+      ]
+    },
+    {
+      "question": "A TCS é calculada usando:",
+      "answers": [
+        { "text": "Pressão absoluta (Pabs).", "correct": true },
+        { "text": "Temperatura da água.", "correct": false },
+        { "text": "Peso corporal.", "correct": false },
+        { "text": "Tipo de regulador.", "correct": false }
+      ]
+    },
+    {
+      "question": "Se o mergulhador consome 80 bar em 20 min a 10 m (cilindro 11,2 L), qual TCS?",
+      "answers": [
+        { "text": "22,4 L/min.", "correct": true },
+        { "text": "11,2 L/min.", "correct": false },
+        { "text": "40 L/min.", "correct": false },
+        { "text": "80 L/min.", "correct": false }
+      ]
+    },
+    {
+      "question": "A TCP é dada por:",
+      "answers": [
+        { "text": "TCP = TCS × Pabs.", "correct": true },
+        { "text": "TCP = TCS ÷ Pabs.", "correct": false },
+        { "text": "TCP = TCS + Pabs.", "correct": false },
+        { "text": "TCP = TCS – Pabs.", "correct": false }
+      ]
+    },
+    {
+      "question": "O que ocorre com a TCP em maiores profundidades?",
+      "answers": [
+        { "text": "Aumenta proporcionalmente à Pabs.", "correct": true },
+        { "text": "Diminui com a profundidade.", "correct": false },
+        { "text": "Permanece igual.", "correct": false },
+        { "text": "Só muda com correnteza.", "correct": false }
+      ]
+    },
+    {
+      "question": "A fórmula da autonomia é:",
+      "answers": [
+        { "text": "T = C ÷ TCP.", "correct": true },
+        { "text": "T = C × TCP.", "correct": false },
+        { "text": "T = C + TCP.", "correct": false },
+        { "text": "T = TCP – C.", "correct": false }
+      ]
+    },
+    {
+      "question": "O TFT é definido por:",
+      "answers": [
+        { "text": "TFT = TFR + TNR.", "correct": true },
+        { "text": "TFT = TFR × TNR.", "correct": false },
+        { "text": "TFT = TFR – TNR.", "correct": false },
+        { "text": "TFT = TNR ÷ TFR.", "correct": false }
+      ]
+    },
+    {
+      "question": "O que é homeostase no mergulho?",
+      "answers": [
+        { "text": "Equilíbrio interno do corpo.", "correct": true },
+        { "text": "Aumento da capacidade respiratória.", "correct": false },
+        { "text": "Reflexo de mergulho.", "correct": false },
+        { "text": "Tolerância ao nitrogênio.", "correct": false }
+      ]
+    },
+    {
+      "question": "Na imersão, ocorre:",
+      "answers": [
+        { "text": "Deslocamento de 700 ml de sangue ao tórax.", "correct": true },
+        { "text": "Queda do retorno venoso.", "correct": false },
+        { "text": "Taquicardia.", "correct": false },
+        { "text": "Redução da pressão arterial.", "correct": false }
+      ]
+    },
+    {
+      "question": "Parte do reflexo de mergulho:",
+      "answers": [
+        { "text": "Bradicardia.", "correct": true },
+        { "text": "Taquicardia.", "correct": false },
+        { "text": "Hiperventilação.", "correct": false },
+        { "text": "Vasodilatação periférica.", "correct": false }
+      ]
+    },
+    {
+      "question": "O que aumenta a resistência respiratória?",
+      "answers": [
+        { "text": "Maior densidade do ar sob pressão.", "correct": true },
+        { "text": "Menor CO2.", "correct": false },
+        { "text": "Expansão facilitada dos pulmões.", "correct": false },
+        { "text": "Menor espaço morto.", "correct": false }
+      ]
+    },
+    {
+      "question": "Efeito direto da pressão:",
+      "answers": [
+        { "text": "Barotrauma.", "correct": true },
+        { "text": "Narcose.", "correct": false },
+        { "text": "DD.", "correct": false },
+        { "text": "Intoxicação por CO2.", "correct": false }
+      ]
+    },
+    {
+      "question": "Barotrauma de ouvido médio ocorre:",
+      "answers": [
+        { "text": "Na descida.", "correct": true },
+        { "text": "Na subida.", "correct": false },
+        { "text": "Na superfície.", "correct": false },
+        { "text": "Com tampão auditivo.", "correct": false }
+      ]
+    },
+    {
+      "question": "Barotrauma facial ocorre por:",
+      "answers": [
+        { "text": "Máscara não equalizada.", "correct": true },
+        { "text": "Apneia na subida.", "correct": false },
+        { "text": "Galhos submersos.", "correct": false },
+        { "text": "Pressão arterial alta.", "correct": false }
+      ]
+    },
+    {
+      "question": "SHP ocorre quando:",
+      "answers": [
+        { "text": "Sobe sem exalar.", "correct": true },
+        { "text": "Desce rápido.", "correct": false },
+        { "text": "Há excesso de CO2.", "correct": false },
+        { "text": "Máscara não equalizada.", "correct": false }
+      ]
+    },
+    {
+      "question": "A EAG causa:",
+      "answers": [
+        { "text": "Perda súbita de consciência.", "correct": true },
+        { "text": "Dor leve.", "correct": false },
+        { "text": "Apenas dano pulmonar.", "correct": false },
+        { "text": "Edema mediastinal.", "correct": false }
+      ]
+    },
+    {
+      "question": "Sinal de enfisema subcutâneo:",
+      "answers": [
+        { "text": "Crepitação sob a pele.", "correct": true },
+        { "text": "Gozo nasal.", "correct": false },
+        { "text": "Dor intensa.", "correct": false },
+        { "text": "Edema de pernas.", "correct": false }
+      ]
+    },
+    {
+      "question": "DD tipo 1 caracteriza-se por:",
+      "answers": [
+        { "text": "Dor articular.", "correct": true },
+        { "text": "Alteração neurológica grave.", "correct": false },
+        { "text": "Paralisia muscular.", "correct": false },
+        { "text": "Parestesia severa.", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual NÃO é predisponente para DD?",
+      "answers": [
+        { "text": "Alta PPO2.", "correct": true },
+        { "text": "Desidratação.", "correct": false },
+        { "text": "Álcool.", "correct": false },
+        { "text": "Água fria.", "correct": false }
+      ]
+    },
+    {
+      "question": "Sintoma típico de narcose:",
+      "answers": [
+        { "text": "Euforia e lentidão de reação.", "correct": true },
+        { "text": "Sangramento nasal.", "correct": false },
+        { "text": "Apagão imediato.", "correct": false },
+        { "text": "Hiperventilação.", "correct": false }
+      ]
+    },
+    {
+      "question": "Sintoma de intoxicação por O2 (SNC):",
+      "answers": [
+        { "text": "Tremores musculares.", "correct": true },
+        { "text": "Dor articular.", "correct": false },
+        { "text": "Cianose.", "correct": false },
+        { "text": "Edema subcutâneo.", "correct": false }
+      ]
+    },
+    {
+      "question": "Sintoma de intoxicação por CO2:",
+      "answers": [
+        { "text": "Dor de cabeça e sensação de calor.", "correct": true },
+        { "text": "Perda de visão.", "correct": false },
+        { "text": "Epistaxe.", "correct": false },
+        { "text": "Bradicardia.", "correct": false }
+      ]
+    },
+    {
+      "question": "Alteração que NÃO ocorre na imersão:",
+      "answers": [
+        { "text": "Aumento da FC.", "correct": true },
+        { "text": "Aumento do retorno venoso.", "correct": false },
+        { "text": "Aumento do débito cardíaco.", "correct": false },
+        { "text": "Aumento da PA.", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual estrutura NÃO sofre barotrauma?",
+      "answers": [
+        { "text": "Coração.", "correct": true },
+        { "text": "Ouvido médio.", "correct": false },
+        { "text": "Máscara.", "correct": false },
+        { "text": "Pulmões.", "correct": false }
+      ]
+    },
+    {
+      "question": "Aumento do espaço morto ocorre por:",
+      "answers": [
+        { "text": "Alvéolos ventilados mas pouco perfundidos.", "correct": true },
+        { "text": "Hiperventilação profunda.", "correct": false },
+        { "text": "Aumento da capacidade pulmonar.", "correct": false },
+        { "text": "Menor pressão barométrica.", "correct": false }
+      ]
+    },
+    {
+      "question": "Situação que aumenta risco de SHP:",
+      "answers": [
+        { "text": "Subida sem exalar.", "correct": true },
+        { "text": "Descida lenta.", "correct": false },
+        { "text": "Respiração contínua.", "correct": false },
+        { "text": "Máscara inadequada.", "correct": false }
+      ]
+    },
+    {
+      "question": "O que caracteriza o barotrauma total?",
+      "answers": [
+        { "text": "Compressão do corpo por equipamentos com ar.", "correct": true },
+        { "text": "Água no ouvido interno.", "correct": false },
+        { "text": "Choque térmico.", "correct": false },
+        { "text": "Sangramento nasal.", "correct": false }
       ]
     }
-  ],
+  ]
+}
