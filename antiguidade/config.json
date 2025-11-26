@@ -106,7 +106,7 @@
     { "id": "mergulho", "title": "Mergulho", "weight": 3 },
     { "id": "pericia_incendio", "title": "Perícia de Incêndio", "weight": 2 },
     { "id": "ou_vi", "title": "Ordem Unida VI", "weight": 2 },
-    { "id": "tcc", "title": "TCC", "weight": 3 }
+    { "id": "tcc", "title": "TCC", "weight": 4 }
   ]
 }
   ]
