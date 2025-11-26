@@ -80,24 +80,34 @@
       ]
     },
     {
-      "id": "ano3",
-      "title": "3º CFO",
-      "subjects": [
-  { "id": "aquatico_iv", "title": "Aquático IV", "weight": 2 },
-  { "id": "defesa_civil_ii", "title": "Defesa Civil II", "weight": 2 },
-  { "id": "gestao_orcamentaria", "title": "Gestão Orçamentária", "weight": 3 },
-  { "id": "inteligencia_bm", "title": "Inteligência BM", "weight": 3 },
-  { "id": "licitacoes_e_contratos", "title": "Licitações e Contratos", "weight": 2 },
-  { "id": "metodologia_ii", "title": "Metodologia II", "weight": 3 },
-  { "id": "pcif_ii", "title": "PCIF II", "weight": 2 },
-  { "id": "penal_militar_ii", "title": "Penal Militar II", "weight": 2 },
-  { "id": "planop", "title": "PLANOP", "weight": 3 },
-  { "id": "didática_oratoria", "title": "Didática e Oratória", "weight": 2 },
-  { "id": "scii", "title": "Segurança Conta Incêndio", "weight": 3 },  
-  { "id": "ouV", "title": "Ordem Unida V", "weight": 2 },  
-  { "id": "terrestre_iv", "title": "Salvamento Terrestre IV", "weight": 3 }   
-        
-        ]
-    }
+  "id": "ano3",
+  "title": "3º CFO",
+  "subjects": [
+    { "id": "aquatico_iv", "title": "Aquático IV", "weight": 2 },
+    { "id": "defesa_civil_ii", "title": "Defesa Civil II", "weight": 2 },
+    { "id": "gestao_orcamentaria", "title": "Gestão Orçamentária", "weight": 3 },
+    { "id": "inteligencia_bm", "title": "Inteligência BM", "weight": 3 },
+    { "id": "licitacoes_contratos", "title": "Licitações e Contratos", "weight": 2 },
+    { "id": "metodologia_ii", "title": "Metodologia II", "weight": 3 },
+    { "id": "pcif_ii", "title": "PCIF II", "weight": 2 },
+    { "id": "penal_militar_ii", "title": "Penal Militar II", "weight": 2 },
+    { "id": "planop", "title": "Planop", "weight": 3 },
+    { "id": "gestao_projetos", "title": "Gestão de Projetos", "weight": 2 },
+    { "id": "didatica_oratoria", "title": "Didática e Oratória", "weight": 2 },
+    { "id": "feitos_investigatorios", "title": "Feitos Investigatórios", "weight": 2 },
+    { "id": "direitos_humanos", "title": "Direitos Humanos", "weight": 2 },
+    { "id": "dppm", "title": "Direito Processual Penal Militar", "weight": 2 },
+    { "id": "produtos_perigosos", "title": "Produtos Perigosos", "weight": 3 },
+    { "id": "ou_v", "title": "Ordem Unida V", "weight": 2 },
+    { "id": "tfm_v", "title": "TFM V", "weight": 4 },
+    { "id": "ttci_v", "title": "TTCI V", "weight": 2 },
+    { "id": "terrestre_iv", "title": "Terrestre IV", "weight": 2 },
+    { "id": "sci", "title": "Segurança Contra Incêndio", "weight": 3 },
+    { "id": "mergulho", "title": "Mergulho", "weight": 3 },
+    { "id": "pericia_incendio", "title": "Perícia de Incêndio", "weight": 2 },
+    { "id": "ou_vi", "title": "Ordem Unida VI", "weight": 2 },
+    { "id": "tcc", "title": "TCC", "weight": 3 }
+  ]
+}
   ]
 }
