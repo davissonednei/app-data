@@ -2,20 +2,20 @@
   "topics": [
     {
       "id": "origem_001",
-      "title": "Documentos Sanitários de Origem",
-      "subtitle": "Atestado de Origem e Inquérito Sanitário de Origem (ISO)",
+      "title": "Atestado de Origem e ISO",
+      "subtitle": "Documentos sanitários de origem",
       "order": 1,
       "category": "Saúde do Militar",
       "tags": ["atestado de origem", "iso", "saúde", "ato de serviço", "acidente"],
       "contents": [
         {
           "type": "text",
-          "text": "Os Documentos Sanitários de Origem são regulamentados pelo Decreto nº 11.710/1940 e têm a finalidade de comprovar se uma incapacidade física temporária ou definitiva resulta de acidente ou doença relacionada ao serviço militar.",
+          "text": "Os documentos sanitários de origem servem para esclarecer se uma incapacidade física do militar decorre de acidente ou doença relacionada ao serviço. Os principais são o Atestado de Origem e o Inquérito Sanitário de Origem (ISO).",
           "order": 1
         },
         {
           "type": "info",
-          "text": "Eles são compostos por dois documentos principais: Atestado de Origem e Inquérito Sanitário de Origem (ISO).",
+          "text": "O Atestado de Origem está ligado a acidentes em ato de serviço. O ISO é usado para investigar doenças ou situações mais complexas.",
           "order": 2
         },
         {
@@ -23,11 +23,9 @@
           "order": 3
         },
 
-        /* --------------------------- ATESTADO DE ORIGEM --------------------------- */
-
         {
-          "type": "title",
-          "text": "ATESTADO DE ORIGEM",
+          "type": "text",
+          "text": "Atestado de Origem",
           "order": 4
         },
         {
@@ -36,195 +34,198 @@
           "order": 5
         },
         {
-          "type": "info",
-          "text": "Baseado nas instruções regulamentadas pelo Decreto nº 11.710/1940 e no modelo institucional do CBMBA. :contentReference[oaicite:0]{index=0}",
-          "order": 6
-        },
-
-        {
           "type": "text",
-          "text": "O documento é dividido em três partes obrigatórias:",
-          "order": 7
+          "text": "Ele é dividido em três partes principais:",
+          "order": 6
         },
         {
           "type": "numbered_list",
           "items": [
-            "Prova Testemunhal — três testemunhas relatam detalhadamente o acidente;",
-            "Prova Técnica — médico que prestou atendimento descreve clinicamente as lesões;",
-            "Prova de Autenticidade — Subcomandante certifica circunstâncias e confirma assinaturas."
+            "Prova Testemunhal – relatos de testemunhas sobre o acidente;",
+            "Prova Técnica – descrição médica das lesões e do estado clínico;",
+            "Prova de Autenticidade – confirmação das circunstâncias e assinaturas pelo Subcomandante."
           ],
+          "order": 7
+        },
+        {
+          "type": "warning",
+          "text": "O Atestado de Origem deve ser lavrado em prazo curto após o acidente. Atrasos ou omissões podem prejudicar o militar.",
           "order": 8
         },
 
         {
-          "type": "subtitle",
-          "text": "O que é considerado 'Ato de Serviço'?",
+          "type": "divider",
           "order": 9
+        },
+        {
+          "type": "text",
+          "text": "O que é considerado ato de serviço?",
+          "order": 10
         },
         {
           "type": "list",
           "items": [
-            "Atividades executadas em decorrência de obrigações militares, policiais ou técnicas;",
-            "Acidentes sem culpa do militar (sem imprudência, imperícia ou negligência);",
-            "Agressões não provocadas durante o exercício da função;",
-            "Acidente in itinere (trajeto casa–quartel–casa);",
-            "Acidentes internos por força maior (incêndios, explosões, desabamentos etc.)."
+            "Atividades executadas em decorrência de obrigações militares ou operacionais;",
+            "Acidentes ocorridos sem culpa do militar (sem imprudência, imperícia ou negligência);",
+            "Agressões não provocadas, ligadas ao exercício da função;",
+            "Acidente in itinere (trajeto entre casa e quartel, e vice-versa), quando reconhecido pela corporação;",
+            "Acidentes internos decorrentes de força maior (incêndios, explosões, desabamentos e similares)."
           ],
-          "order": 10
-        },
-
-        {
-          "type": "warning",
-          "text": "O Atestado de Origem deve ser lavrado em até 8 dias. Caso não seja lavrado, o fato deve ser publicado no Boletim Interno.",
           "order": 11
         },
 
-        /* --------------------------- PROVA TESTEMUNHAL --------------------------- */
-
         {
-          "type": "title",
-          "text": "Prova Testemunhal",
+          "type": "divider",
           "order": 12
         },
         {
           "type": "text",
-          "text": "As três testemunhas devem relatar com precisão:",
+          "text": "Prova Testemunhal",
           "order": 13
         },
         {
-          "type": "list",
-          "items": [
-            "Dia, mês, ano e hora do acidente;",
-            "Local exato;",
-            "Circunstâncias e descrição objetiva do ocorrido;",
-            "Natureza do serviço que a vítima executava no momento;",
-            "Sem mencionar lesões (isso cabe ao médico)."
-          ],
+          "type": "text",
+          "text": "Na Prova Testemunhal, normalmente três testemunhas descrevem com precisão o acidente, sem entrar em detalhes médicos.",
           "order": 14
         },
-
-        /* --------------------------- PROVA TÉCNICA --------------------------- */
-
         {
-          "type": "title",
-          "text": "Prova Técnica",
+          "type": "list",
+          "items": [
+            "Data e hora do acidente;",
+            "Local exato do fato;",
+            "Descrição objetiva do que aconteceu;",
+            "Natureza do serviço que a vítima executava no momento."
+          ],
           "order": 15
         },
+
         {
-          "type": "text",
-          "text": "O médico que prestou o atendimento descreve o estado clínico do acidentado, como em um auto de corpo de delito:",
+          "type": "divider",
           "order": 16
         },
         {
-          "type": "numbered_list",
-          "items": [
-            "Lesões encontradas (com exatidão);",
-            "Perturbações mórbidas identificadas;",
-            "Diagnóstico inicial;",
-            "Data, hora e local do atendimento;",
-            "Função exercida pelo médico."
-          ],
+          "type": "text",
+          "text": "Prova Técnica",
           "order": 17
         },
-
-        /* --------------------------- PROVA DE AUTENTICIDADE --------------------------- */
-
         {
-          "type": "title",
-          "text": "Prova de Autenticidade",
+          "type": "text",
+          "text": "Na Prova Técnica, o médico que atendeu o militar descreve o quadro clínico de forma semelhante a um laudo pericial.",
           "order": 18
         },
         {
-          "type": "text",
-          "text": "Assinada pelo Subcomandante, confirma:",
-          "order": 19
-        },
-        {
-          "type": "list",
-          "items": [
-            "A natureza do serviço que a vítima executava no momento;",
-            "A veracidade das assinaturas das testemunhas e do médico;",
-            "A correção do preenchimento do documento."
-          ],
-          "order": 20
-        },
-
-        {
-          "type": "quote",
-          "text": "Todo Atestado de Origem deve ser encaminhado à Junta Médica com o acidentado. :contentReference[oaicite:1]{index=1}",
-          "order": 21
-        },
-
-        /* --------------------------- CASOS SEM LAVRATURA --------------------------- */
-
-        {
-          "type": "warning",
-          "text": "Acidentes com lesões mínimas (que não justificam o Atestado de Origem) devem ser registrados apenas no Livro de Acidentes em Serviço e publicados no Boletim Interno.",
-          "order": 22
-        },
-
-        /* --------------------------- INQUÉRITO SANITÁRIO DE ORIGEM (ISO) --------------------------- */
-
-        {
-          "type": "title",
-          "text": "Inquérito Sanitário de Origem (ISO)",
-          "order": 23
-        },
-        {
-          "type": "info",
-          "text": "O ISO é uma perícia complexa destinada a apurar se uma doença incapacitante tem relação direta com o ato de serviço.",
-          "order": 24
-        },
-        {
-          "type": "text",
-          "text": "Ele só é aberto:",
-          "order": 25
-        },
-        {
-          "type": "list",
-          "items": [
-            "Mediante requerimento do militar;",
-            "Quando houver dúvida razoável sobre a origem da incapacidade;",
-            "Quando não há acidente, mas sim suspeita de doença desenvolvida no serviço."
-          ],
-          "order": 26
-        },
-
-        {
-          "type": "text",
-          "text": "O ISO inclui:",
-          "order": 27
-        },
-        {
           "type": "numbered_list",
           "items": [
-            "Oitiva do interessado;",
-            "Oitiva de testemunhas;",
-            "Análise de documentos e relatórios médicos;",
-            "Exame clínico minucioso;",
-            "Diagnóstico e prognóstico especializado;",
-            "Investigação de ambiente, rotina e riscos inerentes ao serviço.",
-            "Verificação de doenças preexistentes, latentes ou agravadas por serviço militar."
+            "Lesões encontradas e sua localização;",
+            "Perturbações funcionais ou sintomas observados;",
+            "Diagnóstico médico inicial;",
+            "Data, hora e local do atendimento;",
+            "Nome, posto/graduação e função do médico."
           ],
-          "order": 28
+          "order": 19
         },
 
         {
-          "type": "warning",
-          "text": "Apenas casos excepcionais podem justificar 'agravação de males preexistentes'. Isso exige ISO e avaliação por Junta Superior.",
-          "order": 29
+          "type": "divider",
+          "order": 20
+        },
+        {
+          "type": "text",
+          "text": "Prova de Autenticidade",
+          "order": 21
+        },
+        {
+          "type": "text",
+          "text": "A Prova de Autenticidade é feita pelo Subcomandante da unidade, que certifica as circunstâncias do fato e a autenticidade das assinaturas.",
+          "order": 22
+        },
+        {
+          "type": "list",
+          "items": [
+            "Confirma a natureza do serviço executado no momento do acidente;",
+            "Atesta que as testemunhas pertencem ou não à unidade e se presenciaram o fato;",
+            "Confere se o documento foi corretamente preenchido antes de ser encaminhado."
+          ],
+          "order": 23
         },
 
         {
           "type": "tip",
-          "text": "O ISO termina sempre com a conclusão: 'Existe' ou 'Não existe' relação de causa e efeito com ato de serviço.",
-          "order": 30
+          "text": "Depois de concluído, o Atestado de Origem costuma acompanhar o militar em avaliação por Junta Médica ou outro órgão competente.",
+          "order": 24
         },
 
         {
-          "type": "quote",
-          "text": "O ISO concluído é enviado à Corregedoria Geral para publicação em Boletim Geral Ostensivo. :contentReference[oaicite:2]{index=2}",
+          "type": "divider",
+          "order": 25
+        },
+        {
+          "type": "warning",
+          "text": "Quando o acidente gera apenas lesões mínimas, que não justificam Atestado de Origem, o fato pode ser registrado em livro específico e publicado em Boletim Interno, sem abertura de documento sanitário.",
+          "order": 26
+        },
+
+        {
+          "type": "divider",
+          "order": 27
+        },
+        {
+          "type": "text",
+          "text": "Inquérito Sanitário de Origem (ISO)",
+          "order": 28
+        },
+        {
+          "type": "info",
+          "text": "O ISO é um procedimento mais amplo, usado quando há dúvida se a doença ou incapacidade do militar tem relação com o serviço.",
+          "order": 29
+        },
+        {
+          "type": "text",
+          "text": "Em geral, o ISO é instaurado quando:",
+          "order": 30
+        },
+        {
+          "type": "list",
+          "items": [
+            "A incapacidade decorre de doença, e não de um acidente pontual;",
+            "Existem dúvidas se o quadro foi causado ou agravado pelo serviço;",
+            "O militar requer avaliação mais detalhada sobre a origem da enfermidade."
+          ],
           "order": 31
+        },
+
+        {
+          "type": "text",
+          "text": "Um ISO normalmente inclui:",
+          "order": 32
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Oitiva do militar interessado;",
+            "Oitiva de testemunhas relacionadas ao serviço e à rotina de trabalho;",
+            "Análise de prontuários, laudos e exames médicos;",
+            "Exame clínico detalhado por junta médica;",
+            "Avaliação de condições de trabalho, ambiente e riscos envolvidos;",
+            "Conclusão sobre existência ou não de nexo entre serviço e incapacidade."
+          ],
+          "order": 33
+        },
+
+        {
+          "type": "warning",
+          "text": "Casos de possível agravamento de doença preexistente exigem análise cuidadosa em ISO, pois o reconhecimento do nexo com o serviço tem impacto direto em direitos do militar.",
+          "order": 34
+        },
+        {
+          "type": "tip",
+          "text": "Ao final, o ISO deve responder de forma clara se há ou não relação entre o serviço e a incapacidade apresentada.",
+          "order": 35
+        },
+        {
+          "type": "quote",
+          "text": "Na prática, o Atestado de Origem lida com acidentes em ato de serviço; o ISO, com a investigação de doenças e situações mais complexas.",
+          "order": 36
         }
       ]
     }
