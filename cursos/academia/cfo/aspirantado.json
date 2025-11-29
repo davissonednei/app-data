@@ -2,18 +2,37 @@
   "version": 1,
   "subjects": [
     {
-  "id": "sei",
-  "title": "SEI - Sistema Eletrônico de Informações",
-  "description": "Aprenda a usar o SEI",
-  "iconName": "description",
-  "colorScheme": "blue",
-  "questions_url": "",
-  "flashcards_url": "",
-  "texts_url": "",
-  "layout": "sei",
-  "questionCount": 0,
-  "flashcardCount": 0,
-  "textCount": 0
-}
+  {
+      "id": "sei",
+      "title": "SEI - Sistema Eletrônico de Informações",
+      "description": "Aprenda a usar o SEI",
+      "iconName": "description",
+      "colorScheme": "blue",
+      "questions_url": "",
+      "flashcards_url": "",
+      "texts_url": "",
+      "layout": "sei_course",
+      "content_url": "https://davissonednei.github.io/app-data/subjects/aspirantado/sei_topics.json",
+      "questionCount": 0,
+      "flashcardCount": 0,
+      "textCount": 0
+},
+    {
+      "id": "peculio",
+      "title": "Ficha de Pecúlio",
+      "description": "Campos obrigatórios e como preencher sem erro",
+      "iconName": "assignment_ind",
+      "colorScheme": "purple",
+      "questions_url": "",
+      "flashcards_url": "",
+      "texts_url": "",
+      "layout": "topics",
+      "content_url": "https://davissonednei.github.io/app-data/subjects/aspirantado/peculio.json",
+      "questionCount": 0,
+      "flashcardCount": 0,
+      "textCount": 0
+    }
+    
+    
   ]
 }
