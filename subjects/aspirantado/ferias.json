@@ -1,0 +1,197 @@
+{
+  "topics": [
+    {
+      "id": "ferias_001",
+      "title": "O que é o Plano de Férias?",
+      "subtitle": "Entenda a finalidade e a base normativa",
+      "order": 1,
+      "category": "Férias",
+      "tags": ["ferias", "controle", "planejamento"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "O Plano de Férias é o documento utilizado para organizar, padronizar e registrar a fruição de férias do efetivo. Ele assegura que as escalas respeitem a legislação, o efetivo mínimo e a continuidade do serviço.",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "A elaboração do plano garante que haja distribuição equilibrada do pessoal ao longo do ano, evitando excesso de ausências em meses críticos e prevenindo acúmulo de períodos aquisitivos.",
+          "order": 2
+        },
+        {
+          "type": "text",
+          "text": "O Plano de Férias deve seguir o que estabelece a legislação estadual, bem como as portarias internas do CBMBA que determinam regras, limites e prazos para concessão de férias.",
+          "order": 3
+        },
+        {
+          "type": "tip",
+          "text": "Sempre confira se prazos da Portaria vigente mudaram. A cada ano podem ocorrer atualizações nos períodos preferenciais de fruição.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "ferias_002",
+      "title": "Como entender a planilha",
+      "subtitle": "Significado de cada coluna",
+      "order": 2,
+      "category": "Férias",
+      "tags": ["ferias", "planilha", "campos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A planilha do Plano de Férias contém informações essenciais para organizar a escala anual. Cada coluna possui uma finalidade específica:",
+          "order": 1
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "ORD – ordem de listagem.",
+            "Nº – número de controle interno da turma.",
+            "GRAD. – graduação ou posto.",
+            "NOME – identificação completa do militar.",
+            "MATRÍCULA – número funcional.",
+            "DATA DE ADMISSÃO – data de ingresso.",
+            "PERÍODO AQUISITIVO – intervalo que gera direito às férias.",
+            "FRUIÇÃO A PARTIR DE – data inicial permitida para tirar férias.",
+            "FÉRIAS EXERCÍCIO – ano ao qual o período pertence.",
+            "OPÇÃO 1 – primeiro mês desejado para férias.",
+            "OPÇÃO 2 – segunda alternativa.",
+            "OPÇÃO 3 – terceira alternativa."
+          ],
+          "order": 2
+        },
+        {
+          "type": "info",
+          "text": "Essas opções ajudam o gestor a distribuir as férias respeitando limites de efetivo, meses críticos e necessidades administrativas.",
+          "order": 3
+        },
+        {
+          "type": "warning",
+          "text": "Planejamento incorreto pode causar impacto direto na escala operacional e atrasos na concessão.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "ferias_003",
+      "title": "Exemplo de Planilha",
+      "subtitle": "Modelo genérico com nomes fictícios",
+      "order": 3,
+      "category": "Férias",
+      "tags": ["ferias", "exemplo", "tabela"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A seguir, um exemplo genérico de como um Plano de Férias pode ser estruturado. Os dados são fictícios e servem apenas como referência:",
+          "order": 1
+        },
+        {
+          "type": "text",
+          "text": "Exemplo de tabela:",
+          "order": 2
+        },
+        {
+          "type": "text",
+          "text": "ORD | Nº | GRAD | NOME | MATRÍCULA | ADMISSÃO | PERÍODO AQUISITIVO | FRUIÇÃO | EXERCÍCIO | OPÇÃO 1 | OPÇÃO 2 | OPÇÃO 3",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "1 | 12 | AL OF BM | João Ferreira dos Santos | 99900001 | 03/07/2023 | 03/07/2023 a 02/07/2024 | 03/07/2024 | 2024 | Julho/2024 | Agosto/2024 | Setembro/2024",
+          "order": 4
+        },
+        {
+          "type": "text",
+          "text": "2 | 13 | AL OF BM | Bruno Alves Martins | 99900002 | 03/07/2023 | 03/07/2023 a 02/07/2024 | 03/07/2024 | 2024 | Dezembro/2024 | Julho/2024 | Junho/2024",
+          "order": 5
+        },
+        {
+          "type": "text",
+          "text": "3 | 14 | AL OF BM | Lucas Andrade Ribeiro | 99900003 | 03/07/2023 | 03/07/2023 a 02/07/2024 | 03/07/2024 | 2024 | Setembro/2024 | Outubro/2024 | Novembro/2024",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "A tabela pode ser expandida com mais linhas, cores e validações no Excel para facilitar a visualização.",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "ferias_004",
+      "title": "Como escolher corretamente as opções",
+      "subtitle": "Critérios de escolha",
+      "order": 4,
+      "category": "Férias",
+      "tags": ["ferias", "opcoes", "gestao"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "As três opções de meses existem para facilitar o balanceamento do efetivo ao longo do ano. O gestor responsável geralmente observa:",
+          "order": 1
+        },
+        {
+          "type": "list",
+          "items": [
+            "Meses críticos para a atividade operacional.",
+            "Eventos oficiais, cursos e instruções.",
+            "Necessidade de manter efetivo mínimo.",
+            "Preferência do militar.",
+            "Distribuição equilibrada entre as equipes.",
+            "Situações específicas (gestantes, saúde, impossibilidades legais)."
+          ],
+          "order": 2
+        },
+        {
+          "type": "info",
+          "text": "As opções não garantem que o militar tirará férias no mês desejado. Elas servem para orientar a organização interna.",
+          "order": 3
+        },
+        {
+          "type": "warning",
+          "text": "Períodos com alta demanda operacional costumam ter restrições. Sempre consulte previamente seu comandante imediato.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "ferias_005",
+      "title": "Como montar sua planilha no Excel",
+      "subtitle": "Regras e boas práticas",
+      "order": 5,
+      "category": "Férias",
+      "tags": ["ferias", "excel", "montagem"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Embora não exista uma portaria definindo um formato obrigatório de planilha, o uso de Excel é amplamente adotado pela facilidade de edição, ordenação, filtro e visualização.",
+          "order": 1
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Crie uma aba com o nome da equipe ou turma.",
+            "Insira os cabeçalhos exatamente como no exemplo.",
+            "Utilize a função Congelar Painéis para fixar o cabeçalho.",
+            "Aplique filtros para facilitar a organização.",
+            "Use cores para marcar prioridades e aprovações.",
+            "Proteja células que não devem ser alteradas.",
+            "Evite abreviações — mantenha tudo claro e padronizado."
+          ],
+          "order": 2
+        },
+        {
+          "type": "tip",
+          "text": "Enviar a planilha em PDF junto com a versão Excel normalmente facilita a conferência pelo setor responsável.",
+          "order": 3
+        },
+        {
+          "type": "quote",
+          "text": "Uma planilha bem organizada evita retrabalho e acelera o processamento das férias.",
+          "order": 4
+        }
+      ]
+    }
+  ]
+}
