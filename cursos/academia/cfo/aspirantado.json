@@ -30,6 +30,21 @@
       "questionCount": 0,
       "flashcardCount": 0,
       "textCount": 0
+    },
+    {
+      "id": "ferias",
+      "title": "Fruição de Férias",
+      "description": "Entenda todo o processo para a fruição de férias dos membros de sua unidade",
+      "iconName": "assignment_ind",
+      "colorScheme": "yellow",
+      "questions_url": "",
+      "flashcards_url": "",
+      "texts_url": "",
+      "layout": "topics",
+      "content_url": "https://davissonednei.github.io/app-data/subjects/aspirantado/ferias.json",
+      "questionCount": 0,
+      "flashcardCount": 0,
+      "textCount": 0
     }
   ]
 }
