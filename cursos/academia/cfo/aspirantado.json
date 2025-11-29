@@ -45,6 +45,36 @@
       "questionCount": 0,
       "flashcardCount": 0,
       "textCount": 0
+    },
+    {
+      "id": "bio",
+      "title": "Boletim Interno Ostensivo",
+      "description": "Aprenda toda a estrutura do boletim interno ostensivo",
+      "iconName": "assignment_ind",
+      "colorScheme": "red",
+      "questions_url": "",
+      "flashcards_url": "",
+      "texts_url": "",
+      "layout": "topics",
+      "content_url": "https://davissonednei.github.io/app-data/subjects/aspirantado/bio.json",
+      "questionCount": 0,
+      "flashcardCount": 0,
+      "textCount": 0
+    },
+    {
+      "id": "atestado_origem",
+      "title": "Atestado de Origem",
+      "description": "Saiba tudo sobre atestado de origem para a melhor orientação da sua tropa",
+      "iconName": "assignment_ind",
+      "colorScheme": "green",
+      "questions_url": "",
+      "flashcards_url": "",
+      "texts_url": "",
+      "layout": "topics",
+      "content_url": "https://davissonednei.github.io/app-data/subjects/aspirantado/atestado_origem.json",
+      "questionCount": 0,
+      "flashcardCount": 0,
+      "textCount": 0
     }
   ]
 }
