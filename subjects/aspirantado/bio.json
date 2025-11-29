@@ -2,40 +2,40 @@
   "topics": [
     {
       "id": "bi_001",
-      "title": "O que é o Boletim Interno (BI)?",
+      "title": "O que é o Boletim Interno (BI/BIO)?",
       "subtitle": "Finalidade e importância",
       "order": 1,
       "category": "Serviços Gerais",
-      "tags": ["bi", "boletim interno", "risg"],
+      "tags": ["bi", "bio", "boletim interno", "risg"],
       "contents": [
         {
           "type": "text",
-          "text": "O Boletim Interno (BI) é o documento oficial pelo qual o Comandante da Unidade publica todas as suas ordens, as ordens das autoridades superiores e os fatos que devem ser do conhecimento de toda a organização militar.",
+          "text": "O Boletim Interno (BI), atualmente denominado Boletim Interno Ostensivo (BIO) no âmbito do CBMBA, é o documento oficial em que o Comandante da Unidade publica todas as suas ordens, as ordens das autoridades superiores e os fatos que devem ser do conhecimento de todo o efetivo.",
           "order": 1
         },
         {
           "type": "info",
-          "text": "O BI funciona como o 'diário oficial interno' da unidade. Tudo que precisa ter validade, registro ou publicidade interna passa por ele.",
+          "text": "O BIO funciona como o 'diário oficial interno' da unidade. Tudo que precisa ter validade, registro ou publicidade interna passa por ele.",
           "order": 2
         },
         {
           "type": "tip",
-          "text": "Tudo que está no BI tem força de ordem. O desconhecimento do BI não justifica descumprimento.",
+          "text": "O desconhecimento do BIO não justifica o descumprimento de ordens. O efetivo deve estar sempre atualizado.",
           "order": 3
         }
       ]
     },
     {
       "id": "bi_002",
-      "title": "Estrutura do BI",
+      "title": "Estrutura do BIO",
       "subtitle": "As quatro partes e formas de publicação",
       "order": 2,
       "category": "Serviços Gerais",
-      "tags": ["bi", "estrutura", "partes"],
+      "tags": ["bio", "estrutura", "partes"],
       "contents": [
         {
           "type": "text",
-          "text": "O BI é dividido em quatro partes conforme o Regulamento Interno e dos Serviços Gerais (RISG):",
+          "text": "Segundo o Regulamento Interno e dos Serviços Gerais (RISG), o BIO é dividido em quatro partes:",
           "order": 1
         },
         {
@@ -50,27 +50,27 @@
         },
         {
           "type": "text",
-          "text": "Ele pode ser publicado diariamente ou conforme a necessidade. Em finais de semana e feriados, a publicação também pode ocorrer, desde que haja expediente.",
+          "text": "O BIO pode ser publicado diariamente ou conforme a necessidade da unidade. Também pode ser publicado aos sábados, domingos e feriados, desde que haja expediente.",
           "order": 3
         },
         {
           "type": "info",
-          "text": "Assuntos classificados como reservados são publicados em BI Reservado, organizado pela 2ª Seção (S2).",
+          "text": "Assuntos classificados como reservados devem ser publicados em Boletim Reservado, organizado pelo S2.",
           "order": 4
         }
       ]
     },
     {
       "id": "bi_003",
-      "title": "Conteúdo obrigatório do BI",
+      "title": "Conteúdo obrigatório do BIO",
       "subtitle": "O que deve e o que não deve ser publicado",
       "order": 3,
       "category": "Serviços Gerais",
-      "tags": ["bi", "conteudo", "obrigacoes"],
+      "tags": ["bio", "conteudo", "obrigacoes"],
       "contents": [
         {
           "type": "text",
-          "text": "O BI deve conter informações essenciais para o funcionamento da unidade, incluindo:",
+          "text": "O BIO deve conter informações essenciais ao funcionamento e ao controle da unidade, incluindo:",
           "order": 1
         },
         {
@@ -80,77 +80,124 @@
             "Ordens e decisões do Comandante da Unidade;",
             "Determinações de autoridade superior com referência ao documento de origem;",
             "Alterações de pessoal e material;",
-            "Ordens gerais e instruções publicadas em órgão oficial;",
-            "Referências a militares falecidos que mereçam destaque;",
-            "Apreciação da instrução e documentos correlatos;",
+            "Ordens gerais e referências a manuais e publicações oficiais;",
+            "Referências a militares falecidos que sirvam de exemplo;",
+            "Apreciação da instrução da unidade;",
             "Fatos extraordinários relevantes;",
-            "Assuntos que regulamentos exigem publicação."
+            "Assuntos exigidos por regulamentos."
           ],
           "order": 2
         },
         {
           "type": "warning",
-          "text": "Não podem ser publicados: assuntos sigilosos ou referências a eles; e assuntos não relacionados ao serviço, salvo quando ligados a ordem ou comemoração cívica.",
+          "text": "Não podem ser publicados no BIO: assuntos sigilosos ou referências a eles; e assuntos não relacionados ao serviço, exceto quando associados a ordens ou comemorações cívicas.",
           "order": 3
         }
       ]
     },
     {
       "id": "bi_004",
-      "title": "Distribuição e leitura do BI",
+      "title": "Distribuição e leitura do BIO",
       "subtitle": "Regras para conhecimento da tropa",
       "order": 4,
       "category": "Serviços Gerais",
-      "tags": ["bi", "distribuicao", "leitura"],
+      "tags": ["bio", "distribuicao", "leitura"],
       "contents": [
         {
           "type": "text",
-          "text": "O BI deve ser distribuído às Subunidades, dependências internas e à autoridade imediatamente superior, com cópias autenticadas pelo Subcomandante.",
+          "text": "O BIO deve ser distribuído às Subunidades (SU), às dependências internas e à autoridade superior, com cópias autenticadas pelo Subcomandante.",
           "order": 1
         },
         {
           "type": "numbered_list",
           "items": [
-            "Comandantes de SU podem anexar aditamento com orientações complementares;",
-            "O BI e seus aditamentos são lidos em formatura no toque correspondente;",
-            "Em casos excepcionais, o Comandante poderá reunir os oficiais para leitura;",
-            "O BI deve ser conhecido por todo o pessoal no dia da publicação;",
-            "Praças ausentes devem se inteirar na primeira oportunidade;",
-            "Ordens urgentes devem chegar imediatamente aos militares em serviço externo;",
-            "Desconhecer o BI não isenta de responsabilidade;",
-            "Os originais devem ser arquivados, colecionados e encadernados periodicamente."
+            "Comandantes de SU podem emitir aditamento com informações complementares;",
+            "O BIO e seus aditamentos são lidos em formatura ao toque correspondente;",
+            "Em casos excepcionais, o Comandante pode reunir oficiais para leitura do BIO;",
+            "Todo o efetivo deve conhecer o conteúdo do BIO no mesmo dia da publicação;",
+            "Praças ausentes devem se inteirar do conteúdo na primeira oportunidade;",
+            "Ordens urgentes devem ser repassadas imediatamente a quem estiver em serviço externo;",
+            "O desconhecimento do BIO não isenta o militar de responsabilidade;",
+            "Os originais devem ser arquivados, encadernados e catalogados."
           ],
           "order": 2
         },
         {
           "type": "info",
-          "text": "Mesmo informatizado, o BI segue o mesmo rigor procedimental, com autenticação eletrônica do Subcomandante.",
+          "text": "Os procedimentos são preservados mesmo quando o BIO é informatizado.",
           "order": 3
         }
       ]
     },
     {
       "id": "bi_005",
-      "title": "BI informatizado e prazos de publicação",
+      "title": "BIO informatizado e prazos",
       "subtitle": "Assinatura digital e rotina diária",
       "order": 5,
       "category": "Serviços Gerais",
-      "tags": ["bi", "digital", "prazos"],
+      "tags": ["bio", "digital", "prazos"],
       "contents": [
         {
           "type": "text",
-          "text": "Quando publicado em rede ou por meios informatizados, o BI é autenticado eletronicamente pelo Subcomandante e dispensa cópias impressas.",
+          "text": "Quando publicado digitalmente, o BIO é autenticado eletronicamente pelo Subcomandante e não exige cópias impressas para as Subunidades.",
           "order": 1
         },
         {
           "type": "text",
-          "text": "A rotina prevista no RISG determina que o BI deve estar pronto meia hora antes do fim do último tempo de instrução. Se houver acúmulo de matérias, conteúdos menos urgentes podem ir para o BI seguinte.",
+          "text": "Segundo o RISG, o BIO deve estar pronto meia hora antes do fim do último tempo de instrução. Se houver acúmulo de matéria, conteúdos não urgentes podem ser transferidos para o BIO seguinte.",
           "order": 2
         },
         {
           "type": "tip",
-          "text": "Programe publicações antecipadas quando houver instruções extensas, eventos ou formações fora da rotina.",
+          "text": "Organize o envio de matérias com antecedência para evitar atrasos na publicação.",
           "order": 3
+        }
+      ]
+    },
+    {
+      "id": "bi_006",
+      "title": "Tramitação do BIO no SEI",
+      "subtitle": "Portaria nº 337 CG - CBMBA/2025",
+      "order": 6,
+      "category": "Serviços Gerais",
+      "tags": ["bio", "sei", "portaria 337", "processos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A Portaria nº 337 CG - CBMBA/2025 determinou que o Boletim Interno Ostensivo (BIO) deve tramitar exclusivamente através do processo finalístico correspondente no SEI Bahia.",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É proibido movimentar ou abrir BIO por qualquer outro sistema. A tramitação é 100% digital e centralizada no SEI.",
+          "order": 2
+        },
+        {
+          "type": "text",
+          "text": "Principais determinações da portaria:",
+          "order": 3
+        },
+        {
+          "type": "list",
+          "items": [
+            "Uso exclusivo do processo finalístico 'Boletim Interno Ostensivo (BIO)' no SEI;",
+            "Proibição de tramitação do BIO fora do SEI;",
+            "Grupo de Trabalho designado para elaborar normas complementares;",
+            "O Comando-Geral gerencia e fiscaliza o fluxo do BIO;",
+            "Unidades devem confeccionar, controlar e arquivar seus BIOs pelo SEI;",
+            "Todos os BIOs devem ser enviados ao DP somente via SEI."
+          ],
+          "order": 4
+        },
+        {
+          "type": "warning",
+          "text": "Procedimentos fora do SEI podem gerar falhas documentais e responsabilização administrativa.",
+          "order": 5
+        },
+        {
+          "type": "quote",
+          "text": "O BIO agora é totalmente digital: sua validade depende exclusivamente da tramitação correta no SEI.",
+          "order": 6
         }
       ]
     }
