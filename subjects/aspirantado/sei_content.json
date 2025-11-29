@@ -1,0 +1,2165 @@
+{
+  "topics": [
+    {
+      "id": "sei_001",
+      "title": "O que é o SEI?",
+      "subtitle": "Entenda o sistema de forma simples",
+      "order": 1,
+      "category": "Introdução",
+      "tags": ["sei", "introdução", "sistema", "gestão documental"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Imagine uma pasta física cheia de documentos. O SEI é essa pasta, mas totalmente digital! 📁",
+          "order": 1
+        },
+        {
+          "type": "divider",
+          "order": 2
+        },
+        {
+          "type": "info",
+          "text": "SEI significa Sistema Eletrônico de Informações. É um sistema gratuito desenvolvido pelo governo federal para melhorar a gestão de documentos públicos.",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Com o SEI você pode:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Criar documentos oficiais (ofícios, memorandos, etc.)",
+            "Enviar processos entre setores sem sair do lugar",
+            "Assinar documentos eletronicamente",
+            "Acompanhar onde está cada processo",
+            "Trabalhar de qualquer lugar com internet"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "A maior vantagem? Sem papel! Você economiza tempo, dinheiro e ajuda o meio ambiente. 🌿",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_002",
+      "title": "Como Acessar o SEI",
+      "subtitle": "Seu primeiro acesso ao sistema",
+      "order": 2,
+      "category": "Introdução",
+      "tags": ["acesso", "login", "senha", "autenticação"],
+      "contents": [
+        {
+          "type": "step",
+          "title": "Passo a passo para acessar",
+          "items": [
+            "Abra seu navegador de internet (Chrome, Firefox ou Edge)",
+            "Digite o endereço do SEI fornecido pela sua instituição",
+            "Digite seu login (geralmente seu CPF ou matrícula)",
+            "Digite sua senha",
+            "Clique em 'Acessar'"
+          ],
+          "order": 1
+        },
+        {
+          "type": "warning",
+          "text": "Nunca compartilhe sua senha com outras pessoas! Cada usuário é responsável pelos documentos que cria ou assina.",
+          "order": 2
+        },
+        {
+          "type": "tip",
+          "text": "Ainda não tem login? Procure o setor de TI ou recursos humanos da sua instituição para solicitar seu acesso.",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "id": "sei_003",
+      "title": "Conhecendo a Tela Inicial",
+      "subtitle": "Entendendo a interface do sistema",
+      "order": 3,
+      "category": "Interface",
+      "tags": ["tela inicial", "interface", "menu", "navegação"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Quando você entra no SEI, a tela está dividida em 3 partes principais:",
+          "order": 1
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/1.png",
+          "imageCaption": "Tela inicial do SEI dividida em 3 seções",
+          "order": 2
+        },
+        {
+          "type": "numbered_list",
+          "text": "Vamos entender cada parte:",
+          "items": [
+            "Barra de Ferramentas (topo) - Atalhos rápidos para funções mais usadas",
+            "Menu Principal (lateral esquerda) - Todas as funcionalidades do sistema",
+            "Área de Trabalho (centro) - Onde você vê seus processos e documentos"
+          ],
+          "order": 3
+        },
+        {
+          "type": "tip",
+          "text": "Não precisa decorar tudo agora! Com o tempo você vai se acostumar. Comece explorando o Menu Principal.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "sei_004",
+      "title": "Barra de Ferramentas",
+      "subtitle": "Atalhos e funções rápidas",
+      "order": 4,
+      "category": "Interface",
+      "tags": ["barra de ferramentas", "atalhos", "ícones"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A Barra de Ferramentas fica no topo da tela - é como uma caixa de ferramentas sempre à mão! 🔧",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Pense nela como os botões favoritos do seu celular. As funções que você mais usa ficam ali para acessar rapidamente.",
+          "order": 2
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/2.png",
+          "imageCaption": "Ícones da Barra de Ferramentas - seus atalhos rápidos",
+          "order": 3
+        },
+        {
+          "type": "tip",
+          "text": "No começo, pode parecer muita coisa. Mas logo você vai memorizar os 3 ou 4 botões que mais usa no seu dia a dia!",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "sei_005",
+      "title": "Menu Principal",
+      "subtitle": "Funcionalidades do sistema",
+      "order": 5,
+      "category": "Interface",
+      "tags": ["menu principal", "funcionalidades", "perfil"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "O Menu Principal fica na lateral esquerda - é o cardápio completo do SEI! 📋",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Diferente da Barra de Ferramentas (que tem só os atalhos), aqui você encontra TODAS as funções disponíveis.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Características do Menu Principal:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Organizado em ordem alfabética (fácil de encontrar!)",
+            "Cada função tem um ícone para facilitar",
+            "As opções mudam conforme seu perfil de usuário",
+            "Mostra apenas o que você tem permissão para usar"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Dica de ouro: Use Ctrl+F no teclado para buscar uma função específica no menu!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_006",
+      "title": "Acompanhamento Especial",
+      "subtitle": "Gerenciando processos importantes",
+      "order": 6,
+      "category": "Funcionalidades",
+      "tags": ["acompanhamento especial", "processos", "gestão"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Sabe quando você tem aqueles processos super importantes que precisa ficar de olho? É para isso que serve o Acompanhamento Especial! 👀",
+          "order": 1
+        },
+        {
+          "type": "divider",
+          "order": 2
+        },
+        {
+          "type": "info",
+          "text": "É como colocar uma 'estrela' ou 'favorito' no processo. Você pode acompanhar processos importantes mesmo que eles não estejam mais na sua unidade.",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "O que você pode ver no Acompanhamento Especial:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Todos os processos que você marcou como especiais",
+            "Quem é o responsável por cada um",
+            "Quando foi incluído no acompanhamento",
+            "Em que grupo ele está (se tiver)",
+            "Suas observações sobre o processo"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Use grupos para organizar! Exemplo: 'Urgente', 'Aguardando Resposta', 'Prioridade Alta'.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_007",
+      "title": "Base de Conhecimento",
+      "subtitle": "Documentando processos",
+      "order": 7,
+      "category": "Funcionalidades",
+      "tags": ["base de conhecimento", "documentação", "processos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A Base de Conhecimento é como um manual de instruções que você mesmo cria! 📚",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Serve para documentar como fazer determinado tipo de processo, passo a passo. Assim, qualquer pessoa da equipe pode consultar e fazer certo.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "O que você pode fazer na Base de Conhecimento:",
+          "order": 4
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Descrever cada etapa de um tipo de processo",
+            "Anexar documentos de referência (modelos, exemplos)",
+            "Vincular ao Tipo de Processo específico",
+            "Criar um guia para toda a equipe seguir"
+          ],
+          "order": 5
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: 'Como abrir um processo de férias' - com todos os passos, documentos necessários e modelos prontos.",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Invista tempo nisso! Uma boa base de conhecimento economiza horas de dúvidas da equipe.",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_008",
+      "title": "Blocos de Assinatura",
+      "subtitle": "Assinatura colaborativa",
+      "order": 8,
+      "category": "Funcionalidades",
+      "tags": ["blocos", "assinatura", "colaboração"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Imagine que você precisa de 5 assinaturas em um documento. Em vez de enviar para cada um, você cria um Bloco de Assinatura! ✍️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É como uma 'lista de assinaturas' onde você coloca todos os documentos que precisam ser assinados. As pessoas assinam tudo de uma vez!",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como funciona:",
+          "items": [
+            "Você cria um bloco e dá um nome (ex: 'Documentos Março 2025')",
+            "Adiciona os documentos que precisam de assinatura",
+            "Disponibiliza para as pessoas que devem assinar",
+            "Cada pessoa abre o bloco e assina tudo de uma vez",
+            "Você acompanha quem já assinou e quem falta"
+          ],
+          "order": 4
+        },
+        {
+          "type": "tip",
+          "text": "Muito útil para reuniões! Prepare o bloco antes e todos assinam juntos.",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sei_009",
+      "title": "Blocos de Reunião",
+      "subtitle": "Compartilhamento para discussão",
+      "order": 9,
+      "category": "Funcionalidades",
+      "tags": ["blocos", "reunião", "compartilhamento"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Blocos de Reunião são perfeitos para quando você quer mostrar processos para outras unidades, mas sem transferir oficialmente! 🤝",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É como compartilhar documentos 'só para leitura' antes de uma reunião ou decisão em grupo.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Quando usar Blocos de Reunião:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Preparar pauta de reuniões",
+            "Compartilhar processos para discussão em grupo",
+            "Decisões colegiadas (vários setores precisam opinar)",
+            "Quando outros precisam conhecer o processo sem atuar nele"
+          ],
+          "order": 5
+        },
+        {
+          "type": "warning",
+          "text": "Diferente dos outros blocos: aqui as pessoas podem ver documentos MESMO que ainda não estejam assinados!",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Monte o bloco com antecedência para todos lerem antes da reunião. Poupa tempo!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_010",
+      "title": "Blocos Internos",
+      "subtitle": "Organização interna de processos",
+      "order": 10,
+      "category": "Funcionalidades",
+      "tags": ["blocos internos", "organização", "processos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Blocos Internos são para organização da sua própria unidade - como gavetas de arquivo! 🗂️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Só a sua unidade vê essa organização. É para uso interno, para agrupar processos relacionados.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Diferenças importantes:",
+          "order": 4
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Acompanhamento Especial → Funciona com qualquer processo, esteja onde estiver",
+            "Blocos Internos → Só processos que estão ABERTOS na sua unidade"
+          ],
+          "order": 5
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: Criar um bloco 'Processos de Janeiro', outro 'Aguardando Documentação', outro 'Para Arquivar'.",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Use para organizar seu trabalho do jeito que fizer sentido para você e sua equipe!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_011",
+      "title": "Contatos",
+      "subtitle": "Cadastro de interessados",
+      "order": 11,
+      "category": "Funcionalidades",
+      "tags": ["contatos", "cadastro", "interessados"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A agenda de contatos do SEI funciona como a agenda do seu celular! 📱",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Aqui você cadastra pessoas e instituições que aparecem frequentemente nos seus processos: interessados, remetentes, destinatários.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Para que serve:",
+          "items": [
+            "Cadastrar dados completos de pessoas físicas",
+            "Cadastrar dados de empresas e órgãos",
+            "Selecionar rapidamente ao criar processos",
+            "Evitar digitar os mesmos dados repetidamente",
+            "Ter informações padronizadas (CPF, endereço, etc.)"
+          ],
+          "order": 4
+        },
+        {
+          "type": "tip",
+          "text": "Cadastre bem uma vez, use para sempre! Quando for criar um processo, é só buscar na lista de contatos.",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sei_012",
+      "title": "Controle de Prazos",
+      "subtitle": "Administração de prazos internos",
+      "order": 12,
+      "category": "Funcionalidades",
+      "tags": ["prazos", "controle", "administração"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "O Controle de Prazos é como um lembrete de compromissos - mas só para sua unidade! ⏰",
+          "order": 1
+        },
+        {
+          "type": "warning",
+          "text": "ATENÇÃO: Isso é só para organização interna! Outras unidades NÃO veem os prazos que você cadastra aqui.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "info",
+          "text": "Use para marcar prazos que são importantes para sua equipe, mas que não são prazos oficiais do processo.",
+          "order": 4
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: 'Revisar esse processo até sexta-feira' ou 'Responder até o dia 15'.",
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Combine com sua equipe para todos usarem. Assim ninguém perde prazos importantes!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_013",
+      "title": "Controle de Processos",
+      "subtitle": "Tela principal do sistema",
+      "order": 13,
+      "category": "Funcionalidades",
+      "tags": ["controle", "processos", "tela principal"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Essa é a tela mais importante do SEI - sua central de comando! 🎯",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Quando você faz login no SEI, essa é a primeira tela que aparece. Aqui você vê TODOS os processos da sua unidade.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "O que você encontra nessa tela:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Processos recebidos de outras unidades",
+            "Processos criados pela sua unidade",
+            "Processos em andamento",
+            "Ferramentas para trabalhar com os processos",
+            "Filtros para organizar a visualização"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Pense nela como sua mesa de trabalho digital. Tudo que você precisa fazer está aqui!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_014",
+      "title": "Estatísticas",
+      "subtitle": "Análise de desempenho",
+      "order": 14,
+      "category": "Funcionalidades",
+      "tags": ["estatísticas", "desempenho", "análise"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Quer saber como está o desempenho da sua unidade? As Estatísticas mostram isso! 📊",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É como um relatório automático que mostra números e gráficos sobre o trabalho da unidade.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Informações que você encontra:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Quantidade de processos criados",
+            "Quantidade de processos finalizados",
+            "Tempo médio de tramitação",
+            "Produtividade por período",
+            "Comparação entre meses/anos"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Ótimo para reuniões e relatórios gerenciais. Os dados ficam sempre atualizados!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_015",
+      "title": "Favoritos",
+      "subtitle": "Modelos salvos",
+      "order": 15,
+      "category": "Funcionalidades",
+      "tags": ["favoritos", "modelos", "documentos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Favoritos são seus modelos de documentos prontos para usar! ⭐",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Sabe aquele documento que você cria toda semana? Salve como favorito e nunca mais digite tudo de novo!",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como usar favoritos:",
+          "items": [
+            "Crie um documento bem feito (ofício, memorando, etc.)",
+            "Salve ele como 'Favorito' com um nome claro",
+            "Quando precisar criar documento similar, use o favorito",
+            "Mude só o que for diferente (data, nome, etc.)",
+            "Pronto! Economizou tempo!"
+          ],
+          "order": 4
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: 'Ofício de Resposta Padrão', 'Memorando de Solicitação', 'Despacho de Encaminhamento'.",
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Crie favoritos para cada tipo de documento que você usa frequentemente. Vai poupar MUITO tempo!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_016",
+      "title": "Grupos de Contato",
+      "subtitle": "Listas de contatos",
+      "order": 16,
+      "category": "Funcionalidades",
+      "tags": ["grupos", "contatos", "listas"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Grupos de Contato são como listas de transmissão do WhatsApp! 👥",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Em vez de selecionar 10 pessoas uma por uma, você cria um grupo e seleciona todos de uma vez.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como funciona:",
+          "items": [
+            "Crie um grupo e dê um nome (ex: 'Equipe Operacional')",
+            "Adicione os contatos cadastrados no sistema",
+            "Quando precisar incluir interessados em um processo, escolha o grupo",
+            "Todos do grupo são incluídos automaticamente"
+          ],
+          "order": 4
+        },
+        {
+          "type": "tip",
+          "text": "Útil para processos que sempre envolvem as mesmas pessoas (equipe de projeto, comissões, etc.).",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sei_017",
+      "title": "Grupos de E-mail",
+      "subtitle": "Envio de mensagens eletrônicas",
+      "order": 17,
+      "category": "Funcionalidades",
+      "tags": ["grupos", "e-mail", "mensagens"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Grupos de E-mail funcionam para mensagens DENTRO do SEI! 📧",
+          "order": 1
+        },
+        {
+          "type": "warning",
+          "text": "Atenção: Não confunda com e-mail normal (Gmail, Outlook). Esse é só para mensagens internas do sistema!",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "info",
+          "text": "Útil quando você precisa enviar avisos ou comunicados para várias pessoas que usam o SEI.",
+          "order": 4
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: Criar grupo 'Todos da Unidade' para avisos gerais, ou 'Equipe de Plantão' para comunicados urgentes.",
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "As pessoas recebem notificação dentro do SEI. É rápido e fica tudo registrado no sistema!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_018",
+      "title": "Grupos de Envio",
+      "subtitle": "Distribuição de processos",
+      "order": 18,
+      "category": "Funcionalidades",
+      "tags": ["grupos", "envio", "unidades"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Precisa enviar um processo para várias unidades ao mesmo tempo? Use Grupos de Envio! 📨",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É como criar uma lista de distribuição de processos. Seleciona o grupo e o processo vai para todas as unidades da lista.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Exemplo prático:",
+          "items": [
+            "Crie um grupo 'Todas as Companhias'",
+            "Adicione: 1ª Cia, 2ª Cia, 3ª Cia, etc.",
+            "Quando tiver uma circular ou ordem geral",
+            "Envie para o grupo - todos recebem ao mesmo tempo"
+          ],
+          "order": 4
+        },
+        {
+          "type": "tip",
+          "text": "Economiza MUITO tempo em comunicados que precisam chegar a várias unidades!",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sei_019",
+      "title": "Iniciar Processo",
+      "subtitle": "Criando novos processos",
+      "order": 19,
+      "category": "Funcionalidades",
+      "tags": ["iniciar", "novo processo", "criar"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Aqui começa tudo! É o botão para criar um processo novo do zero! 🆕",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Pense no processo como uma pasta. Quando você clica aqui, está abrindo uma nova pasta para colocar documentos dentro.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Passos básicos para iniciar processo:",
+          "items": [
+            "Clique em 'Iniciar Processo'",
+            "Escolha o Tipo de Processo (férias, licença, aquisição, etc.)",
+            "Preencha os dados obrigatórios",
+            "Adicione interessados (quem é o dono do processo)",
+            "Clique em 'Salvar' - pronto, processo criado!"
+          ],
+          "order": 4
+        },
+        {
+          "type": "warning",
+          "text": "Escolha bem o Tipo de Processo! Depois que cria, não dá para mudar o tipo.",
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Não tenha medo de errar! Nos primeiros processos, peça ajuda de alguém experiente.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_020",
+      "title": "Marcadores",
+      "subtitle": "Organização por etiquetas",
+      "order": 20,
+      "category": "Funcionalidades",
+      "tags": ["marcadores", "etiquetas", "organização"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Marcadores são como etiquetas coloridas que você cola nos processos! 🏷️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Serve para organizar e filtrar processos do jeito que fizer sentido para sua unidade.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Exemplos de marcadores úteis:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "🔴 URGENTE - para processos com prioridade máxima",
+            "⏰ AGUARDANDO - esperando resposta de alguém",
+            "✅ PARA REVISAR - precisa de segunda olhada",
+            "📋 EM ANDAMENTO - sendo trabalhado agora",
+            "⚠️ PROBLEMA - processos com alguma pendência"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Crie marcadores que façam sentido para SEU trabalho. Cada unidade pode ter os seus próprios!",
+          "order": 6
+        },
+        {
+          "type": "warning",
+          "text": "Marcadores são só para organização interna. Outras unidades não veem seus marcadores!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_021",
+      "title": "Painel de Controle",
+      "subtitle": "Visão resumida personalizada",
+      "order": 21,
+      "category": "Funcionalidades",
+      "tags": ["painel", "controle", "visão geral"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "O Painel de Controle é como o painel do seu carro - mostra tudo importante de uma vez! 📊",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É uma tela resumida e PERSONALIZADA que você configura para ver rapidamente o que mais importa para você.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "O que você pode visualizar no painel:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Processos atribuídos a você",
+            "Processos urgentes ou com prazo",
+            "Quantidade de processos por tipo",
+            "Processos com acompanhamento especial",
+            "Estatísticas rápidas da unidade"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Configure seu painel para mostrar as informações que você consulta todo dia. Economiza tempo!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_022",
+      "title": "Pesquisa",
+      "subtitle": "Busca avançada no sistema",
+      "order": 22,
+      "category": "Funcionalidades",
+      "tags": ["pesquisa", "busca", "avançada"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A Pesquisa é o Google do SEI! 🔍",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Perdeu um processo? Quer achar todos os documentos sobre um assunto? Use a pesquisa avançada!",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Você pode pesquisar por:",
+          "order": 4
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Número do processo",
+            "Nome do interessado",
+            "Assunto ou palavras-chave",
+            "Tipo de processo ou documento",
+            "Período (data de início ou fim)",
+            "Unidade que gerou ou está com o processo"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Quanto mais filtros você usar, mais precisa fica a busca. Mas não precisa preencher tudo!",
+          "order": 6
+        },
+        {
+          "type": "warning",
+          "text": "A pesquisa só mostra processos que você tem permissão para ver!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_023",
+      "title": "Pontos de Controle",
+      "subtitle": "Fases e categorias de processos",
+      "order": 23,
+      "category": "Funcionalidades",
+      "tags": ["pontos de controle", "fases", "categorias"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Pontos de Controle são como checkpoints em um jogo - mostram em que fase o processo está! 🎮",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Você pode marcar em que etapa cada processo se encontra: 'Em Análise', 'Aguardando Documento', 'Pronto para Despacho', etc.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como usar na prática:",
+          "items": [
+            "Crie pontos de controle para as fases do seu trabalho",
+            "Marque cada processo com a fase atual",
+            "Todo mundo da equipe sabe em que etapa está",
+            "Facilita acompanhamento e organização",
+            "Ótimo para relatórios e estatísticas"
+          ],
+          "order": 4
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: Processo de compra pode ter pontos 'Solicitação Recebida' → 'Cotações Realizadas' → 'Em Aprovação' → 'Concluído'.",
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Defina pontos de controle que façam sentido para o fluxo de trabalho da sua unidade!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_024",
+      "title": "Processos Sobrestados",
+      "subtitle": "Processos suspensos temporariamente",
+      "order": 24,
+      "category": "Funcionalidades",
+      "tags": ["sobrestados", "suspensos", "processos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Sobrestar é colocar um processo 'em pausa' temporária! ⏸️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Quando um processo precisa esperar algo antes de continuar, você o sobresta. Ele fica 'dormindo' até você reativá-lo.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Quando sobrestar um processo:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aguardando resposta de outra instituição",
+            "Esperando julgamento de recurso",
+            "Dependente de outro processo relacionado",
+            "Aguardando prazo legal",
+            "Suspenso por decisão judicial"
+          ],
+          "order": 5
+        },
+        {
+          "type": "warning",
+          "text": "IMPORTANTE: Não esqueça dos processos sobrestados! Verifique essa lista regularmente.",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Sempre anote o motivo do sobrestamento para lembrar depois por que pausou!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_025",
+      "title": "Retorno Programado",
+      "subtitle": "Prazos para resposta",
+      "order": 25,
+      "category": "Funcionalidades",
+      "tags": ["retorno", "prazo", "programado"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Retorno Programado é como um boomerang com data marcada para voltar! 🪃",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Quando você envia um processo e precisa que ele volte em uma data específica, programa o retorno.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como funciona:",
+          "items": [
+            "Você envia processo para outra unidade",
+            "Define uma data para ele retornar",
+            "O sistema lembra automaticamente",
+            "Na data marcada, você é avisado",
+            "Se não voltar, você pode cobrar"
+          ],
+          "order": 4
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: Envia processo para análise e programa retorno em 10 dias. No 10º dia, você recebe lembrete.",
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Use sempre que precisar de resposta em prazo específico. O sistema cobra por você!",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_026",
+      "title": "Textos Padrão",
+      "subtitle": "Modelos de texto recorrentes",
+      "order": 26,
+      "category": "Funcionalidades",
+      "tags": ["textos padrão", "modelos", "documentos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Textos Padrão são como frases prontas que você salva para usar repetidamente! 💬",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Diferente de Favoritos (documento inteiro), aqui você salva apenas trechos de texto.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Exemplos de textos padrão úteis:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Saudação inicial de ofícios",
+            "Parágrafo de encerramento",
+            "Justificativas comuns",
+            "Fundamentação legal padrão",
+            "Assinatura e dados de contato"
+          ],
+          "order": 5
+        },
+        {
+          "type": "step",
+          "title": "Como usar:",
+          "items": [
+            "Crie o texto padrão uma vez",
+            "Dê um nome fácil de lembrar",
+            "Ao escrever documento, insira o texto padrão",
+            "Adapte o que for necessário",
+            "Economize tempo digitando!"
+          ],
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Crie textos padrão para tudo que você escreve mais de 3 vezes. Vale muito a pena!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_027",
+      "title": "Tela de Controle de Processos",
+      "subtitle": "Gerenciando processos da unidade",
+      "order": 27,
+      "category": "Interface",
+      "tags": ["controle de processos", "gerenciamento", "barra de ícones"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Essa é a tela onde você passa a maior parte do tempo no SEI! 🖥️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É a primeira tela após o login. Mostra todos os processos da unidade e tem ferramentas para trabalhar com eles.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "A tela é dividida em 3 partes principais:",
+          "order": 4
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Barra de Ferramentas (topo) - atalhos rápidos",
+            "Menu Principal (lateral esquerda) - todas as funções",
+            "Barra de Ícones (acima da lista) - ações com processos"
+          ],
+          "order": 5
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/3.png",
+          "imageCaption": "Tela de Controle com Barra de Ícones e lista de processos",
+          "order": 6
+        },
+        {
+          "type": "warning",
+          "text": "SUPER DICA: Você pode fazer operações em LOTE! Marque vários processos e aplique a ação em todos de uma vez!",
+          "order": 7
+        },
+        {
+          "type": "step",
+          "title": "Como fazer operação em lote:",
+          "items": [
+            "Marque a caixa ao lado de cada processo desejado",
+            "Vários processos ficam selecionados",
+            "Clique no ícone da ação (enviar, arquivar, etc.)",
+            "A ação é aplicada em todos os marcados",
+            "Economiza MUITO tempo!"
+          ],
+          "order": 8
+        }
+      ]
+    },
+    {
+      "id": "sei_028",
+      "title": "Filtros da Tela de Controle",
+      "subtitle": "Visualizações personalizadas",
+      "order": 28,
+      "category": "Interface",
+      "tags": ["filtros", "visualização", "controle"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Os filtros são como lentes diferentes para ver seus processos! 👓",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Logo abaixo da Barra de Ícones ficam os filtros. Use para organizar e encontrar processos rapidamente.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Principais filtros disponíveis:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Visualização Detalhada - mostra mais informações",
+            "Atribuídos a Mim - só processos sob sua responsabilidade",
+            "Ver por Marcadores - agrupa por etiquetas",
+            "Ver por Tipo - agrupa por categoria de processo",
+            "Gerados na Unidade - criados aqui",
+            "Recebidos - que vieram de outras unidades"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Combine filtros! Exemplo: 'Atribuídos a Mim' + 'Marcador Urgente' = seus processos urgentes.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_029",
+      "title": "Visualização Detalhada",
+      "subtitle": "Configurando o nível de detalhe",
+      "order": 29,
+      "category": "Interface",
+      "tags": ["visualização", "detalhada", "configuração"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A Visualização Detalhada mostra mais informações sobre cada processo na lista! 🔎",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Por padrão, a lista é simples. Mas você pode ativar mais detalhes para ver tudo sem precisar abrir o processo.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como ativar:",
+          "items": [
+            "Clique no link 'Visualização detalhada'",
+            "Aparece o link 'Configurar nível de detalhe'",
+            "Escolha quais informações quer ver",
+            "Marque as opções desejadas",
+            "Clique em 'Salvar'"
+          ],
+          "order": 4
+        },
+        {
+          "type": "text",
+          "text": "Informações que você pode adicionar:",
+          "order": 5
+        },
+        {
+          "type": "list",
+          "items": [
+            "Atribuição - quem é o responsável",
+            "Anotação - observações do processo",
+            "Tipo de processo",
+            "Interessados - pessoas envolvidas",
+            "Controle de Prazo",
+            "Última movimentação",
+            "Marcadores aplicados"
+          ],
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Ative só o que você realmente usa. Muita informação pode deixar a tela confusa!",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_030",
+      "title": "Ver Processos Atribuídos a Mim",
+      "subtitle": "Filtro por responsável",
+      "order": 30,
+      "category": "Interface",
+      "tags": ["atribuição", "filtro", "responsável"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Esse filtro mostra apenas os processos que são SUA responsabilidade! 👤",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É como ver sua lista de tarefas pessoal dentro dos processos da unidade.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Por que usar esse filtro:",
+          "order": 4
+        },
+        {
+          "type": "list",
+          "items": [
+            "Foco no que é SEU trabalho",
+            "Não se perde entre centenas de processos",
+            "Prioriza suas tarefas",
+            "Facilita organização pessoal",
+            "Ideal para começar o dia de trabalho"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Ative esse filtro assim que abrir o SEI. Trabalhe primeiro no que está atribuído a você!",
+          "order": 6
+        },
+        {
+          "type": "quote",
+          "text": "Dica profissional: Combine com marcadores para organizar ainda mais sua rotina.",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "sei_031",
+      "title": "Ver por Marcadores",
+      "subtitle": "Organização por etiquetas",
+      "order": 31,
+      "category": "Interface",
+      "tags": ["marcadores", "filtro", "visualização"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Esse filtro agrupa os processos pelas etiquetas (marcadores) que você criou! 🏷️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Em vez de ver uma lista enorme, você vê grupos organizados: 'Urgente (5)', 'Aguardando (12)', 'Em Análise (8)'.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como usar:",
+          "items": [
+            "Clique em 'Ver por Marcadores'",
+            "Aparece lista com cada marcador e quantidade",
+            "Clique no número para ver os processos daquele marcador",
+            "Trabalhe por grupo - ex: termine todos os 'Urgentes' primeiro"
+          ],
+          "order": 4
+        },
+        {
+          "type": "tip",
+          "text": "Método Kanban no SEI! Organize marcadores como colunas: 'A Fazer', 'Fazendo', 'Feito'.",
+          "order": 5
+        },
+        {
+          "type": "quote",
+          "text": "Dica: Use cores visuais nos nomes - 🔴 URGENTE, 🟡 MÉDIO, 🟢 BAIXA PRIORIDADE.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "id": "sei_032",
+      "title": "Ver por Tipo de Processo",
+      "subtitle": "Filtro por categoria",
+      "order": 32,
+      "category": "Interface",
+      "tags": ["tipo de processo", "filtro", "categoria"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Esse filtro agrupa os processos por categoria/tipo! 📑",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Útil quando você quer trabalhar só com um tipo de processo por vez. Exemplo: resolver todas as férias, depois todas as licenças.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como usar:",
+          "items": [
+            "Clique em 'Ver por Tipo de Processo'",
+            "Aparece lista: 'Férias (10)', 'Licença (5)', 'Aquisição (8)'...",
+            "Clique no número do tipo que quer trabalhar",
+            "Todos os processos daquele tipo aparecem",
+            "Trabalhe focado em um tipo por vez"
+          ],
+          "order": 4
+        },
+        {
+          "type": "text",
+          "text": "Vantagens desse filtro:",
+          "order": 5
+        },
+        {
+          "type": "list",
+          "items": [
+            "Trabalho por lote - mais eficiente",
+            "Você entra no 'modo' daquele tipo de processo",
+            "Menos troca de contexto",
+            "Ideal para especialização",
+            "Facilita treinamento de novos membros"
+          ],
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Combine com 'Atribuídos a Mim' para ver só os tipos sob sua responsabilidade!",
+          "order": 7
+        },
+        {
+          "type": "quote",
+          "text": "Estratégia: Reserve dias da semana para tipos específicos - Segunda = Férias, Terça = Aquisições, etc.",
+          "order": 8
+        }
+      ]
+    },
+    {
+      "id": "sei_033",
+      "title": "Iniciar um Processo",
+      "subtitle": "Criando um novo processo no SEI",
+      "order": 33,
+      "module": "Módulo 2: Operações com Processos",
+      "category": "Operações Básicas",
+      "tags": ["iniciar processo", "criar processo", "novo processo"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Iniciar um processo é como abrir uma nova pasta de documentos no SEI! 📂",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Aqui você registra e oficializa uma demanda que precisa tramitar pelo sistema. Pode ser um pedido de férias, uma solicitação de compra, um requerimento - qualquer coisa que precise virar um processo oficial.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Passo a passo para iniciar um processo:",
+          "items": [
+            "Clique no botão 'Iniciar Processo' no Menu Principal (lateral esquerda)",
+            "Escolha o 'Tipo de Processo' na lista (ex: Férias, Licença, Aquisição...)",
+            "Preencha a 'Especificação' se necessário (descrição curta do processo)",
+            "Escolha o 'Nível de Acesso' (Público, Restrito ou Sigiloso)",
+            "Adicione os 'Interessados' (pessoas ou órgãos envolvidos no processo)",
+            "Clique em 'Salvar' - pronto, processo criado!"
+          ],
+          "order": 4
+        },
+        {
+          "type": "divider",
+          "order": 5
+        },
+        {
+          "type": "text",
+          "text": "Entendendo os Níveis de Acesso: 🔐",
+          "order": 6
+        },
+        {
+          "type": "numbered_list",
+          "title": "Você SEMPRE precisa escolher um dos três níveis:",
+          "items": [
+            "PÚBLICO - Todos os usuários do órgão podem ver (processos normais do dia a dia)",
+            "RESTRITO - Só quem trabalha no processo pode ver. Precisa informar a hipótese legal da restrição",
+            "SIGILOSO - Apenas usuários com permissão especial. Requer credenciamento prévio"
+          ],
+          "order": 7
+        },
+        {
+          "type": "warning",
+          "text": "IMPORTANTE: Documentos CLASSIFICADOS (Reservado, Secreto ou Ultrassecreto) NÃO podem tramitar no SEI! Isso é determinação do Gabinete de Segurança Institucional. Use outros meios para esses casos.",
+          "order": 8
+        },
+        {
+          "type": "tip",
+          "text": "Não encontrou o tipo de processo que precisa? Solicite à unidade de gestão documental do seu órgão para incluir no sistema!",
+          "order": 9
+        },
+        {
+          "type": "quote",
+          "text": "Dica prática: Na dúvida entre Público e Restrito, pergunte ao seu chefe. A maioria dos processos administrativos comuns são Públicos.",
+          "order": 10
+        }
+      ]
+    },
+    {
+      "id": "sei_034",
+      "title": "Receber Processo na Unidade",
+      "subtitle": "Confirmando o recebimento de processos",
+      "order": 34,
+      "module": "Módulo 2: Operações com Processos",
+      "category": "Operações Básicas",
+      "tags": ["receber processo", "controle de processos", "recebimento"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Quando um processo chega na sua unidade, ele fica 'aguardando' até você confirmar o recebimento! 📬",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É como assinar um protocolo de recebimento. O sistema registra quem recebeu, quando e em qual unidade. Isso gera rastreabilidade!",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Na tela Controle de Processos (a primeira que você vê ao entrar), os processos são organizados em duas colunas:",
+          "order": 4
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "COLUNA ESQUERDA - Processos RECEBIDOS de outras unidades",
+            "COLUNA DIREITA - Processos GERADOS pela sua própria unidade"
+          ],
+          "order": 5
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/4.png",
+          "imageCaption": "Tela de Controle dividida em processos recebidos (esquerda) e gerados (direita)",
+          "order": 6
+        },
+        {
+          "type": "divider",
+          "order": 7
+        },
+        {
+          "type": "step",
+          "title": "Como confirmar o recebimento:",
+          "items": [
+            "Localize o processo na coluna ESQUERDA (Recebidos)",
+            "O número do processo aparece em VERMELHO (significa que está aguardando)",
+            "Clique no número vermelho do processo",
+            "PRONTO! O sistema registra automaticamente o recebimento"
+          ],
+          "order": 8
+        },
+        {
+          "type": "tip",
+          "text": "Depois que você recebe, o número deixa de ficar vermelho. É sinal de que o recebimento foi confirmado!",
+          "order": 9
+        },
+        {
+          "type": "divider",
+          "order": 10
+        },
+        {
+          "type": "text",
+          "text": "Símbolos ao lado dos processos: 🔍",
+          "order": 11
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/5.png",
+          "imageCaption": "Ícones que aparecem ao lado dos processos indicando sua situação",
+          "order": 12
+        },
+        {
+          "type": "info",
+          "text": "Cada processo pode ter símbolos ao lado do número. Eles indicam a situação: se tem anotação, se está com prazo, se precisa de atenção, etc. Com o tempo você memoriza o significado de cada um!",
+          "order": 13
+        },
+        {
+          "type": "quote",
+          "text": "Pense no recebimento como 'dar o ciente' que o processo chegou na sua unidade. É importante fazer isso logo para não atrasar o andamento!",
+          "order": 14
+        }
+      ]
+    },
+    {
+      "id": "sei_035",
+      "title": "Atribuir Processos a um Usuário",
+      "subtitle": "Distribuindo processos entre a equipe",
+      "order": 35,
+      "module": "Módulo 2: Operações com Processos",
+      "category": "Operações Básicas",
+      "tags": ["atribuir processo", "distribuição", "responsável"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Atribuir um processo é como 'passar a bola' para alguém específico da equipe! ⚽",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Esse recurso divide o trabalho entre os usuários da unidade. Cada processo pode ter um responsável, facilitando a organização.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Como atribuir um processo:",
+          "items": [
+            "Na tela Controle de Processos, marque a caixinha ao lado do número do processo",
+            "Você pode marcar vários processos de uma vez se quiser",
+            "Clique no ícone 'Atribuição de Processos' (na barra de ícones)",
+            "Selecione o nome do usuário na caixa 'Atribuir para'",
+            "Clique em 'Salvar' - pronto!"
+          ],
+          "order": 4
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/6.png",
+          "imageCaption": "Selecionando processos e clicando no ícone de Atribuição",
+          "order": 5
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/7.png",
+          "imageCaption": "Escolhendo o usuário responsável na caixa 'Atribuir para'",
+          "order": 6
+        },
+        {
+          "type": "divider",
+          "order": 7
+        },
+        {
+          "type": "text",
+          "text": "Depois de atribuir, o nome do responsável aparece em destaque ao lado do número do processo! 👤",
+          "order": 8
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/8.png",
+          "imageCaption": "Processo atribuído mostrando o nome do usuário responsável",
+          "order": 9
+        },
+        {
+          "type": "divider",
+          "order": 10
+        },
+        {
+          "type": "warning",
+          "text": "IMPORTANTE: Atribuir um processo NÃO bloqueia outros usuários! Se alguém da equipe precisar trabalhar naquele processo, pode trabalhar normalmente. É só uma forma de organização.",
+          "order": 11
+        },
+        {
+          "type": "tip",
+          "title": "Como REMOVER a atribuição:",
+          "text": "Siga os mesmos passos, mas na hora de escolher o usuário, deixe a caixa 'Atribuir para' EM BRANCO e clique em Salvar. A atribuição será removida!",
+          "order": 12
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo prático: O chefe recebe 20 processos e distribui: 10 para João, 10 para Maria. Cada um usa o filtro 'Atribuídos a Mim' para ver só os seus!",
+          "order": 13
+        }
+      ]
+    },
+    {
+      "id": "sei_036",
+      "title": "Enviar Processos para outra Unidade",
+      "subtitle": "Tramitando processos entre setores",
+      "order": 36,
+      "module": "Módulo 2: Operações com Processos",
+      "category": "Operações Básicas",
+      "tags": ["enviar processo", "tramitar", "transferir", "unidade"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Enviar um processo é como passar um documento físico para outra sala - mas sem sair da cadeira! 🚀",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "É assim que os processos circulam entre os setores do órgão. Você envia, a outra unidade recebe e trabalha. Tudo rastreado pelo sistema!",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "step",
+          "title": "Passo a passo para enviar um processo:",
+          "items": [
+            "Na tela Controle de Processos, marque a caixinha ao lado do processo",
+            "Pode marcar vários processos se for enviar todos para o mesmo lugar",
+            "Clique no ícone 'Enviar Processo' (envelope/seta) na barra de ícones",
+            "Selecione a unidade de destino na caixa de busca",
+            "Se quiser, adicione uma observação (opcional)",
+            "Marque se quer 'Manter processo aberto na unidade atual' (se precisar continuar trabalhando)",
+            "Clique em 'Enviar' - pronto, processo enviado!"
+          ],
+          "order": 4
+        },
+        {
+          "type": "divider",
+          "order": 5
+        },
+        {
+          "type": "text",
+          "text": "Entendendo as opções de envio: 📨",
+          "order": 6
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "ENVIO NORMAL - O processo sai da sua unidade e vai para a outra (você não vê mais ele aqui)",
+            "MANTER ABERTO - O processo é enviado MAS continua aberto na sua unidade também (você ainda trabalha nele)",
+            "REMESSA EXTERNA - Quando envia para fora do órgão (correio, e-mail, etc.)"
+          ],
+          "order": 7
+        },
+        {
+          "type": "tip",
+          "text": "Use 'Manter Aberto' quando precisa acompanhar o processo ou se várias unidades vão trabalhar ao mesmo tempo nele!",
+          "order": 8
+        },
+        {
+          "type": "warning",
+          "text": "ATENÇÃO: Se você NÃO marcar 'Manter Aberto', o processo some da sua tela! Ele só volta se a outra unidade devolver ou se você usar 'Consulta de Processos'.",
+          "order": 9
+        },
+        {
+          "type": "divider",
+          "order": 10
+        },
+        {
+          "type": "text",
+          "text": "Enviando para VÁRIAS unidades ao mesmo tempo: 🔀",
+          "order": 11
+        },
+        {
+          "type": "info",
+          "text": "Você pode enviar um processo para várias unidades simultaneamente! Isso é útil quando cada unidade vai fazer uma tarefa independente.",
+          "order": 12
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo: Circular informativa que precisa ser conhecida por todas as companhias. Envie para todas de uma vez!",
+          "order": 13
+        },
+        {
+          "type": "warning",
+          "text": "IMPORTANTE: Use envio simultâneo apenas quando as atividades são INDEPENDENTES! Se uma unidade depende do trabalho da outra, envie em sequência (uma por vez).",
+          "order": 14
+        },
+        {
+          "type": "divider",
+          "order": 15
+        },
+        {
+          "type": "text",
+          "text": "Recurso 'Filtrar Linha Direta': 🎯",
+          "order": 16
+        },
+        {
+          "type": "info",
+          "text": "Na Tela do Processo, ao lado do número, tem o ícone 'Filtrar Linha Direta'. Esse recurso é muito útil quando o processo passa por muitas unidades!",
+          "order": 17
+        },
+        {
+          "type": "text",
+          "text": "O que o Filtro de Linha Direta faz:",
+          "order": 18
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mostra apenas documentos de unidades que se comunicaram DIRETAMENTE com você",
+            "Esconde documentos de unidades que não enviaram nem receberam processo de você",
+            "Simplifica a visualização em processos com muita tramitação",
+            "Facilita encontrar o que é relevante para sua unidade"
+          ],
+          "order": 19
+        },
+        {
+          "type": "tip",
+          "text": "Use o Filtro de Linha Direta quando o processo tiver passado por muitas unidades e você quer ver só o que interessa para você!",
+          "order": 20
+        },
+        {
+          "type": "warning",
+          "text": "ATENÇÃO: Com o filtro ativado, você NÃO vê todos os documentos do processo! Para ver tudo, desative o filtro.",
+          "order": 21
+        },
+        {
+          "type": "divider",
+          "order": 22
+        },
+        {
+          "type": "text",
+          "text": "Dicas importantes para envio:",
+          "order": 23
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sempre verifique se escolheu a unidade CERTA antes de enviar",
+            "A observação ajuda a outra unidade entender o que você precisa",
+            "Você pode enviar vários processos de uma vez para a mesma unidade",
+            "O sistema registra quem enviou, quando e para onde",
+            "Se errar, pode pedir para a unidade devolver o processo"
+          ],
+          "order": 24
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo prático: Você terminou a análise de um pedido de férias e precisa enviar para a chefia aprovar. Marque o processo, clique em Enviar, escolha 'Chefia' e pronto!",
+          "order": 25
+        },
+        {
+          "type": "tip",
+          "text": "Dica profissional: Use Grupos de Envio quando precisa mandar o mesmo processo para várias unidades ao mesmo tempo (circulares, avisos gerais, etc.).",
+          "order": 26
+        }
+      ]
+    },
+    {
+      "id": "sei_037",
+      "title": "Concluir Processos",
+      "subtitle": "Finalizando o trabalho com processos",
+      "order": 37,
+      "module": "Módulo 2: Operações com Processos",
+      "category": "Operações Básicas",
+      "tags": ["concluir processo", "finalizar", "conclusão"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Concluir um processo é como 'arquivar' uma pasta de trabalho que já foi finalizada! 📁✅",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Use esse recurso quando não há mais nada a fazer no processo OU quando o processo alcançou seu objetivo. Ele sai da sua tela de trabalho mas continua acessível no sistema.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Existem 2 formas de concluir processos:",
+          "order": 4
+        },
+        {
+          "type": "step",
+          "title": "FORMA 1 - Dentro do processo:",
+          "items": [
+            "Abra o processo clicando no número dele",
+            "Você pode estar em qualquer documento da Árvore do Processo",
+            "Clique no ícone 'Concluir Processo' (na Barra de Ícones)",
+            "Pronto! Processo concluído"
+          ],
+          "order": 5
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/9.png",
+          "imageCaption": "Ícone 'Concluir Processo' na barra dentro do processo",
+          "order": 6
+        },
+        {
+          "type": "divider",
+          "order": 7
+        },
+        {
+          "type": "step",
+          "title": "FORMA 2 - Em lote na tela de Controle:",
+          "items": [
+            "Na tela Controle de Processos, marque a caixinha dos processos",
+            "Pode marcar VÁRIOS processos de uma vez",
+            "Clique no ícone 'Concluir Processo' na barra de ícones",
+            "Todos os processos marcados serão concluídos automaticamente!"
+          ],
+          "order": 8
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/10.png",
+          "imageCaption": "Concluindo vários processos ao mesmo tempo na tela de Controle",
+          "order": 9
+        },
+        {
+          "type": "tip",
+          "text": "A FORMA 2 é muito útil no fim do dia/semana para limpar a tela e concluir tudo que já está pronto!",
+          "order": 10
+        },
+        {
+          "type": "divider",
+          "order": 11
+        },
+        {
+          "type": "text",
+          "text": "O que acontece depois de concluir: 🔍",
+          "order": 12
+        },
+        {
+          "type": "list",
+          "items": [
+            "O processo some da tela Controle de Processos",
+            "Mas ele NÃO é deletado! Continua no sistema",
+            "Você pode acessar pela Pesquisa",
+            "Você pode acessar pelas Estatísticas da Unidade",
+            "Se precisar trabalhar nele de novo, é só reabrir"
+          ],
+          "order": 13
+        },
+        {
+          "type": "divider",
+          "order": 14
+        },
+        {
+          "type": "warning",
+          "title": "AVISOS IMPORTANTES:",
+          "text": "Concluir o processo na SUA unidade NÃO conclui nas outras! Cada unidade conclui independentemente quando terminar o trabalho dela.",
+          "order": 15
+        },
+        {
+          "type": "info",
+          "text": "CONCLUSÃO AUTOMÁTICA: Quando você envia um processo para outra unidade SEM marcar 'Manter aberto', o sistema conclui automaticamente para você!",
+          "order": 16
+        },
+        {
+          "type": "warning",
+          "text": "ESTATÍSTICAS: Enquanto o processo estiver aberto (mesmo sem você mexer nele), o tempo conta como 'em andamento' nas estatísticas da unidade. Por isso é importante concluir!",
+          "order": 17
+        },
+        {
+          "type": "divider",
+          "order": 18
+        },
+        {
+          "type": "text",
+          "text": "Quando concluir um processo:",
+          "order": 19
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Quando você terminou TUDO que tinha que fazer",
+            "Quando o objetivo do processo foi alcançado",
+            "Quando enviou para outra unidade e não precisa mais trabalhar nele",
+            "No fim do dia, para limpar processos já finalizados",
+            "Quando o processo foi arquivado definitivamente"
+          ],
+          "order": 20
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo prático: Você analisou um pedido de férias, criou o documento de autorização, enviou para a chefia assinar e depois para o RH processar. Seu trabalho acabou? Pode concluir!",
+          "order": 21
+        },
+        {
+          "type": "tip",
+          "text": "Boa prática: Reserve 10 minutos no fim do dia para revisar seus processos e concluir os que já estão prontos. Mantém a tela organizada!",
+          "order": 22
+        }
+      ]
+    },
+    {
+      "id": "sei_038",
+      "title": "Reabrir Processos",
+      "subtitle": "Voltando a trabalhar em processos concluídos",
+      "order": 38,
+      "module": "Módulo 2: Operações com Processos",
+      "category": "Operações Básicas",
+      "tags": ["reabrir processo", "processos concluídos", "retomar trabalho"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "Reabrir um processo é como tirar uma pasta do arquivo para trabalhar nela novamente! 📂↩️",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Use esse recurso quando você concluiu um processo mas surgiu algo novo para fazer nele. É como voltar um processo que estava 'arquivado' para a mesa de trabalho.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Como reabrir um processo (2 passos simples):",
+          "order": 4
+        },
+        {
+          "type": "step",
+          "title": "Passo a passo completo:",
+          "items": [
+            "LOCALIZE o processo usando a funcionalidade 'Pesquisa' (lembra? Aprendemos isso antes!)",
+            "ACESSE o processo clicando no número dele",
+            "CLIQUE no ícone 'Reabrir Processo' na Barra de Ícones",
+            "Pronto! O processo volta para sua tela de Controle de Processos"
+          ],
+          "order": 5
+        },
+        {
+          "type": "image",
+          "imagePath": "images/sei/11.png",
+          "imageCaption": "Ícone 'Reabrir Processo' na barra de ferramentas",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": "Lembre-se: Você SÓ consegue reabrir processos que JÁ passaram pela sua unidade alguma vez! Não dá para reabrir um processo que nunca esteve com você.",
+          "order": 7
+        },
+        {
+          "type": "divider",
+          "order": 8
+        },
+        {
+          "type": "text",
+          "text": "Informações importantes sobre reabertura: 📋",
+          "order": 9
+        },
+        {
+          "type": "info",
+          "title": "PODE REABRIR A QUALQUER MOMENTO",
+          "text": "Não tem prazo! Se o processo já passou pela sua unidade, você pode reabrir quando precisar. Não precisa pedir para mandarem de novo.",
+          "order": 10
+        },
+        {
+          "type": "info",
+          "title": "ATRIBUIÇÃO AUTOMÁTICA",
+          "text": "Quando você reabre um processo, ele é automaticamente atribuído A VOCÊ! É como se você pegasse a responsabilidade de volta.",
+          "order": 11
+        },
+        {
+          "type": "warning",
+          "title": "IMPORTANTE - Quando NÃO reabrir:",
+          "text": "Se você só quer CONSULTAR o processo (dar uma olhada), NÃO precisa reabrir! Pode abrir e ler normalmente. SÓ reabra quando for TRABALHAR nele de novo (adicionar documentos, encaminhar, etc.).",
+          "order": 12
+        },
+        {
+          "type": "divider",
+          "order": 13
+        },
+        {
+          "type": "text",
+          "text": "Quando usar a reabertura:",
+          "order": 14
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Quando surgiu uma informação nova sobre um processo já concluído",
+            "Quando precisa adicionar um documento complementar",
+            "Quando o assunto voltou e precisa tomar novas providências",
+            "Quando concluiu errado e precisa fazer mais alguma coisa",
+            "Quando recebeu orientação para complementar o processo"
+          ],
+          "order": 15
+        },
+        {
+          "type": "quote",
+          "text": "Exemplo prático: Você concluiu um processo de férias. Depois, o funcionário pediu para alterar as datas. Você reabre o processo, adiciona novo documento com a alteração, e trabalha normalmente!",
+          "order": 16
+        },
+        {
+          "type": "divider",
+          "order": 17
+        },
+        {
+          "type": "text",
+          "text": "Diferença entre CONSULTAR e REABRIR:",
+          "order": 18
+        },
+        {
+          "type": "list",
+          "items": [
+            "CONSULTAR = Só olhar, ler, verificar informações (NÃO reabra!)",
+            "REABRIR = Trabalhar de novo, adicionar documentos, encaminhar (AÍ SIM reabra!)",
+            "Consultar não aparece na tela de Controle",
+            "Reabrir volta o processo para a tela de Controle",
+            "Consultar não conta estatística de trabalho",
+            "Reabrir volta a contar tempo nas estatísticas"
+          ],
+          "order": 19
+        },
+        {
+          "type": "tip",
+          "text": "Boa prática: Antes de reabrir, pergunte-se: 'Vou realmente TRABALHAR neste processo ou só quero ver algo?' Isso evita reaberturas desnecessárias!",
+          "order": 20
+        },
+        {
+          "type": "divider",
+          "order": 21
+        },
+        {
+          "type": "text",
+          "text": "🎓 Parabéns! Você concluiu a Unidade 1 - Operações Básicas com Processos!",
+          "order": 22
+        },
+        {
+          "type": "info",
+          "text": "Agora você sabe: INICIAR processos, RECEBER, ATRIBUIR, ENVIAR, CONCLUIR e REABRIR! São as 6 operações fundamentais que você usará todos os dias no SEI. Se tiver dúvidas, revise os tópicos anteriores!",
+          "order": 23
+        }
+      ]
+    }
+  ]
+}
+
