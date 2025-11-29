@@ -2,7 +2,6 @@
   "version": 1,
   "subjects": [
     {
-  {
       "id": "sei",
       "title": "SEI - Sistema Eletrônico de Informações",
       "description": "Aprenda a usar o SEI",
@@ -16,7 +15,7 @@
       "questionCount": 0,
       "flashcardCount": 0,
       "textCount": 0
-},
+    },
     {
       "id": "peculio",
       "title": "Ficha de Pecúlio",
@@ -32,7 +31,5 @@
       "flashcardCount": 0,
       "textCount": 0
     }
-    
-    
   ]
 }
