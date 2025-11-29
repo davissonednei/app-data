@@ -1,1 +1,67 @@
-a
+{
+  "topics": [
+    {
+      "id": "peculio_001",
+      "title": "Ficha de Pecúlio",
+      "subtitle": "Campos obrigatórios",
+      "order": 1,
+      "category": "Documentação",
+      "tags": ["peculio", "aspirantado", "documentos"],
+      "contents": [
+        {
+          "type": "text",
+          "text": "A Ficha de Pecúlio reúne informações essenciais para o cadastro do militar e para a concessão de benefícios. Todos os campos devem ser preenchidos com exatidão para evitar divergências em sistemas internos e em processos administrativos.",
+          "order": 1
+        },
+        {
+          "type": "info",
+          "text": "Não existe nenhuma portaria ou instrução normativa estabelecendo um formato oficial obrigatório para a ficha. Porém, na prática administrativa do CBMBA, ela costuma ser elaborada e entregue em planilhas Excel, por ser o formato mais aceito, organizado e fácil de processar pelas Seções de Pessoal.",
+          "order": 2
+        },
+        {
+          "type": "divider",
+          "order": 3
+        },
+        {
+          "type": "text",
+          "text": "Informações obrigatórias:",
+          "order": 4
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            "Grau Hierárquico",
+            "Nome completo",
+            "Matrícula",
+            "Data de Admissão ou Data de Praça",
+            "Data de Nascimento",
+            "CPF",
+            "RG",
+            "Código do Credor",
+            "Endereço completo",
+            "Grupo Sanguíneo",
+            "Telefone",
+            "Grau de Instrução",
+            "Sexo"
+          ],
+          "order": 5
+        },
+        {
+          "type": "tip",
+          "text": "Sempre utilize dados atualizados. Informações antigas podem atrasar cadastros e processos envolvendo benefícios.",
+          "order": 6
+        },
+        {
+          "type": "tip",
+          "text": " Se estiver preenchendo no Excel, mantenha colunas limpas e padronizadas. Evite abreviações.",
+          "order": 7
+        },
+        {
+          "type": "warning",
+          "text": "Não deixe campos obrigatórios em branco. Em caso de dúvida, confirme com a Seção de Pessoal antes de entregar.",
+          "order": 8
+        }
+      ]
+    }
+  ]
+}
